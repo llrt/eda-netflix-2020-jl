@@ -6,6 +6,7 @@ using CSV # package for CSV loading
 using StatsBase # base package for statistics
 using Queryverse # metapackage for DS 
 using Gadfly, Cairo # packages for plotting
+using Dates # package for date manipulation
 
 
 ## reading data file
@@ -216,4 +217,47 @@ plot(rating_df, y=:rating, x=:count, label=:count_str,
 
 ## 2: next, let's analyze certain features over time
 
-### 2a: type
+### 2a: type by release year
+
+type_year_df = netflix_df |> 
+    @groupby({_.type, _.release_year}) |>
+    @map({type=key(_)[1], release_year=key(_)[2], count=length(_)}) |> 
+    @mutate(count_str=string(_.count)) |>
+    @orderby_descending(_.count) |>
+    DataFrame
+
+print(type_year_df)
+    
+plot(type_year_df, y=:count, x=:release_year, color=:type,
+     Geom.line, Geom.point,
+     Theme(background_color=colorant"white"),
+     Guide.title("Evolution of type by release year")) |> PNG("plot2a1-type-release_year.png")
+
+plot(type_year_df, y=:count, x=:release_year, color=:type,
+     Geom.bar(position=:stack),
+     Theme(bar_spacing=0.05cm, background_color=colorant"white"),
+     Guide.title("Evolution of type by release year")) |> PNG("plot2a2-type-release_year.png")
+
+
+
+### 2b: type by year it was added
+
+type_added_year_df = netflix_df |>
+    @mutate(added_year=Dates.year(_.date_added)) |>
+    @groupby({_.type, _.added_year}) |>
+    @map({type=key(_)[1], added_year=key(_)[2], count=length(_)}) |> 
+    @mutate(count_str=string(_.count)) |>
+    @orderby_descending(_.count) |>
+    DataFrame
+
+print(type_added_year_df)
+    
+plot(type_added_year_df, y=:count, x=:added_year, color=:type,
+     Geom.line, Geom.point,
+     Theme(background_color=colorant"white"),
+     Guide.title("Evolution of type by added year")) |> PNG("plot2b1-type-added_year.png")
+
+plot(type_added_year_df, y=:count, x=:added_year, color=:type,
+     Geom.bar(position=:stack), 
+     Theme(bar_spacing=0.05cm, background_color=colorant"white"),
+     Guide.title("Evolution of type by added year")) |> PNG("plot2b2-type-added_year.png")
