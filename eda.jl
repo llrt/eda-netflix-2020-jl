@@ -74,10 +74,10 @@ plot(type_df, y=:type, x=:count, label=:count_str,
 countries_arr = map(x -> split(x, ", "), netflix_df.country)
 countries = unique(reduce(append!, countries_arr, init=[]))
 
-countries_dict = Dict{String, Int}()
-for c in countries
-    countries_dict[c] = length(filter(l -> c in l, countries_arr))
-end
+countries_dict = Dict{String, Int}(
+    c => length(filter(l -> c in l, countries_arr))
+    for c in countries 
+)
 
 countries_df = 
         DataFrame(
@@ -119,10 +119,10 @@ plot(top_release_year, y=:release_year, x=:count, label=:count_str,
 directors_arr = map(x -> split(x, ", "), netflix_df.director)
 directors = unique(reduce(append!, directors_arr, init=[]))
 
-directors_dict = Dict{String, Int}()
-for c in directors
-    directors_dict[c] = length(filter(l -> c in l, directors_arr))
-end
+directors_dict = Dict{String, Int}(
+    d => length(filter(l -> d in l, directors_arr))
+    for d in directors
+)
 
 directors_df = 
         DataFrame(
@@ -147,10 +147,10 @@ plot(top_directors_df, y=:director, x=:count, label=:count_str,
 actors_arr = map(x -> split(x, ", "), netflix_df.cast)
 actors = unique(reduce(append!, actors_arr, init=[]))
 
-actors_dict = Dict{String, Int}()
-for c in actors
-    actors_dict[c] = length(filter(l -> c in l, actors_arr))
-end
+actors_dict = Dict{String, Int}(
+    a => length(filter(l -> a in l, actors_arr))
+    for a in actors
+)
 
 actors_df = 
         DataFrame(
@@ -175,10 +175,10 @@ listed_in = replace.(netflix_df.listed_in, "&" => "&amp;") # fix for bug while d
 genres_arr = map(x -> split(x, ", "), listed_in)
 genres = unique(reduce(append!, genres_arr, init=[]))
 
-genres_dict = Dict{String, Int}()
-for c in genres
-    genres_dict[c] = length(filter(l -> c in l, genres_arr))
-end
+genres_dict = Dict{String, Int}(
+    g => length(filter(l -> g in l, genres_arr))
+    for g in genres
+)
 
 genres_df = 
         DataFrame(
@@ -211,6 +211,7 @@ plot(rating_df, y=:rating, x=:count, label=:count_str,
      Geom.bar(orientation=:horizontal), Geom.label(position=:right),
      Theme(bar_spacing=0.1cm, background_color=colorant"white"),
      Guide.title("Titles by mature rating")) |> PNG("plot1g-rating.png")
+
 
 
 ## 2: next, let's analyze certain features over time
