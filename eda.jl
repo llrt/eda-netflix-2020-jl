@@ -215,9 +215,9 @@ plot(rating_df, y=:rating, x=:count, label=:count_str,
 
 
 
-## 2: next, let's analyze certain features over time
+## 2: next, let's do some multivariate analysis
 
-### 2a: type by release year
+### 2a: type x release year
 
 type_year_df = netflix_df |> 
     @groupby({_.type, _.release_year}) |>
@@ -240,7 +240,7 @@ plot(type_year_df, y=:count, x=:release_year, color=:type,
 
 
 
-### 2b: type by year it was added
+### 2b: type x added year
 
 type_added_year_df = netflix_df |>
     @mutate(added_year=Dates.year(_.date_added)) |>
@@ -261,3 +261,34 @@ plot(type_added_year_df, y=:count, x=:added_year, color=:type,
      Geom.bar(position=:stack), 
      Theme(bar_spacing=0.05cm, background_color=colorant"white"),
      Guide.title("Evolution of type by added year")) |> PNG("plot2b2-type-added_year.png")
+
+### 2c: country x type x added year
+
+netflix_df[!, :country_arr] = map(x -> split(x, ", "), netflix_df.country)
+
+country_type_added_year_df = netflix_df |>
+    @mutate(added_year=Dates.year(_.date_added)) |>
+    @mapmany(_.country_arr, {title=_.title, type=_.type, added_year=_.added_year, country=__}) |> 
+    @groupby({_.country, _.type, _.added_year}) |>
+    @map({country=key(_)[1], type=key(_)[2], added_year=key(_)[3], count=length(_)}) |>
+    @filter(_.count >= 70) |>
+    DataFrame
+
+print(country_type_added_year_df)
+
+plot(country_type_added_year_df, y=:count, x=:added_year, color=:country,
+    Geom.bar(position=:stack), 
+    Theme(bar_spacing=0.05cm, background_color=colorant"white"),
+    Guide.title("Number of titles by country, added year")) |> PNG("plot2c1-country-added_year.png")
+
+
+plot(country_type_added_year_df, y=:count, x=:country, color=:type,
+    Geom.bar(position=:stack), 
+    Theme(bar_spacing=0.05cm, background_color=colorant"white"),
+    Guide.title("Number of titles by country, type")) |> PNG("plot2c2-country-type.png")
+
+
+plot(country_type_added_year_df, x=:added_year, y=:count, xgroup=:type, ygroup=:country,
+    Geom.subplot_grid(Geom.bar), 
+    Theme(bar_spacing=0.05cm, background_color=colorant"white"),
+    Guide.title("Country x added year x type")) |> PNG("plot2c3-country-type-added_year.png")
