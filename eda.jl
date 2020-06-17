@@ -6,7 +6,10 @@ using CSV # package for CSV loading
 using StatsBase # base package for statistics
 using Queryverse # metapackage for DS 
 using Gadfly, Cairo # packages for plotting
+using Colors  # package for color manipulation
 using Dates # package for date manipulation
+
+include("./plot_style.jl")
 
 
 ## reading data file
@@ -39,20 +42,20 @@ for col in names(netflix_df)
     println("most common value in $col col: ", modes(netflix_df[:, col]))
 end
 
-## change columns to categorical variables (factors)
-# categorical!(netflix_df, :type, compress=true) # title's type
-# categorical!(netflix_df, :country, compress=true) # title's country
-# categorical!(netflix_df, :rating, compress=true) # title's mature rating
-# categorical!(netflix_df, :release_year, compress=true) # title's release year
-# categorical!(netflix_df, :listed_in, compress=true) # title's genre
-# categorical!(netflix_df, :director, compress=true) # title's director
 
-
+## unfornately, some columns are comma separated ones - we'll have to split them, converting into arrays
+netflix_df[!, :country_arr] = map(x -> split(x, ", "), netflix_df.country) # countries
+netflix_df[!, :genre_arr] = map(x -> split(x, ", "), replace.(netflix_df.listed_in, "&" => "&amp;")) # genres
+netflix_df[!, :director_arr] = map(x -> split(x, ", "), netflix_df.director) # directors
+netflix_df[!, :actor_arr] = map(x -> split(x, ", "), netflix_df.cast) # actors
+## when processing, @mapmany does the magic of unnesting and processing these arrays
 
 ## 1: explore individual feature (univariate) distribution
 
 ### general plotting settings
+Gadfly.push_theme(plot_style())
 set_default_plot_size(21cm, 10cm)
+
 
 ### 1a: type
 type_df = netflix_df |> 
@@ -65,35 +68,24 @@ type_df = netflix_df |>
 print(type_df)
     
 plot(type_df, y=:type, x=:count, label=:count_str,
-     Geom.bar(orientation=:horizontal), Geom.label(position=:right),
-     Theme(bar_spacing=0.5cm, background_color=colorant"white"),
-     Guide.title("Titles by types")) |> PNG("plot1a-types.png")
+    Geom.bar(orientation=:horizontal), Geom.label(position=:right),
+    Guide.title("Titles by types")) |> PNG("plot1a-types.png")
 
 ### 1b: country
-### unfornately, country is a comma separated column - we'll have to split it
 
-countries_arr = map(x -> split(x, ", "), netflix_df.country)
-countries = unique(reduce(append!, countries_arr, init=[]))
+top_countries_df = netflix_df |>
+    @mapmany(_.country_arr, {title=_.title, country=__}) |> 
+    @groupby(_.country) |>
+    @map({country=key(_), count=length(_), count_str=string(length(_))}) |>
+    @orderby_descending(_.count) |>
+    @take(10) |>
+    DataFrame
 
-countries_dict = Dict{String, Int}(
-    c => length(filter(l -> c in l, countries_arr))
-    for c in countries 
-)
-
-countries_df = 
-        DataFrame(
-            country=collect(String, keys(countries_dict)), 
-            count=collect(Int, values(countries_dict))) |>
-        @mutate(count_str=string(_.count)) |>
-        @orderby_descending(_.count) |> DataFrame
-
-top_countries_df = first(countries_df, 10)
 print(top_countries_df)
 
 plot(top_countries_df, y=:country, x=:count, label=:count_str,
-     Geom.bar(orientation=:horizontal), Geom.label(position=:right),
-     Theme(bar_spacing=0.25cm, background_color=colorant"white"),
-     Guide.title("Top 10 countries")) |> PNG("plot1b-countries.png")
+    Geom.bar(orientation=:horizontal), Geom.label(position=:right),
+    Guide.title("Top 10 countries")) |> PNG("plot1b-countries.png")
 
 
 ### 1c: release year
@@ -109,93 +101,59 @@ top_release_year = first(release_year_df, 10)
 print(top_release_year)
 
 plot(top_release_year, y=:release_year, x=:count, label=:count_str,
-        Geom.bar(orientation=:horizontal), Geom.label(position=:right),
-        Theme(bar_spacing=0.1cm, background_color=colorant"white"),
-        Guide.title("Top 10 release years"))  |> PNG("plot1c-release_year.png")
+    Geom.bar(orientation=:horizontal), Geom.label(position=:right),
+    Guide.title("Top 10 release years"))  |> PNG("plot1c-release_year.png")
 
 
 ### 1d: director
-### director is also a comma separated column - we'll have to split it
 
-directors_arr = map(x -> split(x, ", "), netflix_df.director)
-directors = unique(reduce(append!, directors_arr, init=[]))
-
-directors_dict = Dict{String, Int}(
-    d => length(filter(l -> d in l, directors_arr))
-    for d in directors
-)
-
-directors_df = 
-        DataFrame(
-            director=collect(String, keys(directors_dict)), 
-            count=collect(Int, values(directors_dict))) |>
-        @mutate(count_str=string(_.count)) |>
-        @orderby_descending(_.count) |> DataFrame
-
-top_directors_df = first(directors_df, 10)
+top_directors_df = netflix_df |>
+    @mapmany(_.director_arr, {title=_.title, director=__}) |> 
+    @groupby(_.director) |>
+    @map({director=key(_), count=length(_), count_str=string(length(_))}) |>
+    @orderby_descending(_.count) |>
+    @take(10) |>
+    DataFrame
 
 print(top_directors_df)
 
 plot(top_directors_df, y=:director, x=:count, label=:count_str,
-     Geom.bar(orientation=:horizontal), Geom.label(position=:right),
-     Theme(bar_spacing=0.25cm, background_color=colorant"white"),
-     Guide.title("Top 10 directors")) |> PNG("plot1d-directors.png")
+    Geom.bar(orientation=:horizontal), Geom.label(position=:right),
+    Guide.title("Top 10 directors")) |> PNG("plot1d-directors.png")
 
 
 ### 1e: actor
-### cast is also a comma separated column - we'll have to split it
 
-actors_arr = map(x -> split(x, ", "), netflix_df.cast)
-actors = unique(reduce(append!, actors_arr, init=[]))
-
-actors_dict = Dict{String, Int}(
-    a => length(filter(l -> a in l, actors_arr))
-    for a in actors
-)
-
-actors_df = 
-        DataFrame(
-            actor=collect(String, keys(actors_dict)), 
-            count=collect(Int, values(actors_dict))) |>
-        @mutate(count_str=string(_.count)) |>
-        @orderby_descending(_.count) |> DataFrame
-
-top_actors_df = first(actors_df, 10)
+top_actors_df = netflix_df |>
+    @mapmany(_.actor_arr, {title=_.title, actor=__}) |> 
+    @groupby(_.actor) |>
+    @map({actor=key(_), count=length(_), count_str=string(length(_))}) |>
+    @orderby_descending(_.count) |>
+    @take(10) |>
+    DataFrame
 
 print(top_actors_df)
 
 plot(top_actors_df, y=:actor, x=:count, label=:count_str,
-     Geom.bar(orientation=:horizontal), Geom.label(position=:right),
-     Theme(bar_spacing=0.25cm, background_color=colorant"white"),
-     Guide.title("Top 10 actors")) |> PNG("plot1e-actors.png")
+    Geom.bar(orientation=:horizontal), Geom.label(position=:right),
+    Guide.title("Top 10 actors")) |> PNG("plot1e-actors.png")
 
 ### 1f: genre
 ### listed_in is also a comma separated column - we'll have to split it
 
-listed_in = replace.(netflix_df.listed_in, "&" => "&amp;") # fix for bug while displaying '&' character
-genres_arr = map(x -> split(x, ", "), listed_in)
-genres = unique(reduce(append!, genres_arr, init=[]))
-
-genres_dict = Dict{String, Int}(
-    g => length(filter(l -> g in l, genres_arr))
-    for g in genres
-)
-
-genres_df = 
-        DataFrame(
-            genre=collect(String, keys(genres_dict)), 
-            count=collect(Int, values(genres_dict))) |>
-        @mutate(count_str=string(_.count)) |>
-        @orderby_descending(_.count) |> DataFrame
-
-top_genres_df = first(genres_df, 10)
+top_genres_df = netflix_df |>
+    @mapmany(_.genre_arr, {title=_.title, genre=__}) |> 
+    @groupby(_.genre) |>
+    @map({genre=key(_), count=length(_), count_str=string(length(_))}) |>
+    @orderby_descending(_.count) |>
+    @take(10) |>
+    DataFrame
 
 print(top_genres_df)
 
 plot(top_genres_df, y=:genre, x=:count, label=:count_str,
-     Geom.bar(orientation=:horizontal), Geom.label(position=:right),
-     Theme(bar_spacing=0.25cm, background_color=colorant"white"),
-     Guide.title("Top 10 genres")) |> PNG("plot1f-genres.png")
+    Geom.bar(orientation=:horizontal), Geom.label(position=:right),
+    Guide.title("Top 10 genres")) |> PNG("plot1f-genres.png")
 
 
 ### 1g: mature rating
@@ -209,13 +167,16 @@ rating_df = netflix_df |>
 print(rating_df)
     
 plot(rating_df, y=:rating, x=:count, label=:count_str,
-     Geom.bar(orientation=:horizontal), Geom.label(position=:right),
-     Theme(bar_spacing=0.1cm, background_color=colorant"white"),
-     Guide.title("Titles by mature rating")) |> PNG("plot1g-rating.png")
+    Geom.bar(orientation=:horizontal), Geom.label(position=:right),
+    Guide.title("Titles by mature rating")) |> PNG("plot1g-rating.png")
 
 
 
 ## 2: next, let's do some multivariate analysis
+
+### general plotting settings
+set_default_plot_size(30cm, 18cm)
+
 
 ### 2a: type x release year
 
@@ -229,14 +190,13 @@ type_year_df = netflix_df |>
 print(type_year_df)
     
 plot(type_year_df, y=:count, x=:release_year, color=:type,
-     Geom.line, Geom.point,
-     Theme(background_color=colorant"white"),
-     Guide.title("Evolution of type by release year")) |> PNG("plot2a1-type-release_year.png")
+    Geom.line, Geom.point,
+    style(line_width=0.8mm),
+    Guide.title("Evolution of type by release year")) |> PNG("plot2a1-type-release_year.png")
 
 plot(type_year_df, y=:count, x=:release_year, color=:type,
-     Geom.bar(position=:stack),
-     Theme(bar_spacing=0.05cm, background_color=colorant"white"),
-     Guide.title("Evolution of type by release year")) |> PNG("plot2a2-type-release_year.png")
+    Geom.bar(position=:stack),
+    Guide.title("Evolution of type by release year")) |> PNG("plot2a2-type-release_year.png")
 
 
 
@@ -253,42 +213,66 @@ type_added_year_df = netflix_df |>
 print(type_added_year_df)
     
 plot(type_added_year_df, y=:count, x=:added_year, color=:type,
-     Geom.line, Geom.point,
-     Theme(background_color=colorant"white"),
-     Guide.title("Evolution of type by added year")) |> PNG("plot2b1-type-added_year.png")
+    Geom.line, Geom.point,
+    style(line_width=0.8mm),
+    Guide.title("Evolution of type by added year")) |> PNG("plot2b1-type-added_year.png")
 
 plot(type_added_year_df, y=:count, x=:added_year, color=:type,
-     Geom.bar(position=:stack), 
-     Theme(bar_spacing=0.05cm, background_color=colorant"white"),
-     Guide.title("Evolution of type by added year")) |> PNG("plot2b2-type-added_year.png")
+    Geom.bar(position=:stack), 
+    Guide.title("Evolution of type by added year")) |> PNG("plot2b2-type-added_year.png")
+
+
 
 ### 2c: country x type x added year
-
-netflix_df[!, :country_arr] = map(x -> split(x, ", "), netflix_df.country)
 
 country_type_added_year_df = netflix_df |>
     @mutate(added_year=Dates.year(_.date_added)) |>
     @mapmany(_.country_arr, {title=_.title, type=_.type, added_year=_.added_year, country=__}) |> 
     @groupby({_.country, _.type, _.added_year}) |>
     @map({country=key(_)[1], type=key(_)[2], added_year=key(_)[3], count=length(_)}) |>
-    @filter(_.count >= 70) |>
+    @filter(_.count >= 60) |>
     DataFrame
 
 print(country_type_added_year_df)
 
 plot(country_type_added_year_df, y=:count, x=:added_year, color=:country,
     Geom.bar(position=:stack), 
-    Theme(bar_spacing=0.05cm, background_color=colorant"white"),
     Guide.title("Number of titles by country, added year")) |> PNG("plot2c1-country-added_year.png")
 
 
 plot(country_type_added_year_df, y=:count, x=:country, color=:type,
     Geom.bar(position=:stack), 
-    Theme(bar_spacing=0.05cm, background_color=colorant"white"),
     Guide.title("Number of titles by country, type")) |> PNG("plot2c2-country-type.png")
 
 
 plot(country_type_added_year_df, x=:added_year, y=:count, xgroup=:type, ygroup=:country,
     Geom.subplot_grid(Geom.bar), 
-    Theme(bar_spacing=0.05cm, background_color=colorant"white"),
-    Guide.title("Country x added year x type")) |> PNG("plot2c3-country-type-added_year.png")
+    Guide.title("Top country x added year x type")) |> PNG("plot2c3-country-type-added_year.png")
+
+
+
+### 2d: country x genre x added year
+
+country_genre_added_year_df = netflix_df |>
+    @mutate(added_year=Dates.year(_.date_added)) |>
+    @mapmany(_.country_arr, {title=_.title, added_year=_.added_year, country=__, genre_arr=_.genre_arr}) |> 
+    @mapmany(_.genre_arr, {title=_.title, added_year=_.added_year, country=_.country, genre=__}) |>
+    @groupby({_.country, _.genre, _.added_year}) |>
+    @map({country=key(_)[1], genre=key(_)[2], added_year=string(key(_)[3]), count=length(_)}) |>
+    @filter(_.count >= 50) |>
+    DataFrame
+
+print(country_genre_added_year_df)
+
+plot(country_genre_added_year_df, y=:count, x=:country, color=:genre,
+    Geom.bar(position=:stack), 
+#    Scale.color_discrete(n -> convert(Vector{Color}, colormap("RdBu", n)) ), # use a red-blue palette
+    Scale.color_discrete(n -> convert(Vector{Color}, # use a custom palette
+                                        Scale.lab_gradient("darkorchid4", "snow2", "darkorange2").(0:(1/(n-1)):1) 
+                                     )  ),
+    Guide.title("Number of titles by country, genre")) |> PNG("plot2d1-country-genre.png")
+
+plot(country_genre_added_year_df, x=:added_year, y=:count, xgroup=:genre, ygroup=:country,
+    Geom.subplot_grid(Geom.bar),
+    style(minor_label_font_size=09pt),
+    Guide.title("Top country x added year x genre")) |> PNG("plot2d2-country-genre-added_year.png")
