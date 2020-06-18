@@ -1,0 +1,859 @@
+genre,country,n
+Action &amp; Adventure,Argentina,41
+Action &amp; Adventure,Australia,90
+Action &amp; Adventure,Belgium,99
+Action &amp; Adventure,Brazil,30
+Action &amp; Adventure,Bulgaria,26
+Action &amp; Adventure,Cambodia,7
+Action &amp; Adventure,Canada,279
+Action &amp; Adventure,Chile,10
+Action &amp; Adventure,China,434
+Action &amp; Adventure,Czech Republic,33
+Action &amp; Adventure,Denmark,31
+Action &amp; Adventure,Egypt,42
+Action &amp; Adventure,France,194
+Action &amp; Adventure,Germany,228
+Action &amp; Adventure,Hong Kong,585
+Action &amp; Adventure,Hungary,17
+Action &amp; Adventure,Iceland,9
+Action &amp; Adventure,India,1090
+Action &amp; Adventure,Indonesia,56
+Action &amp; Adventure,Ireland,16
+Action &amp; Adventure,Israel,8
+Action &amp; Adventure,Italy,31
+Action &amp; Adventure,Japan,540
+Action &amp; Adventure,Luxembourg,8
+Action &amp; Adventure,Malaysia,19
+Action &amp; Adventure,Malta,10
+Action &amp; Adventure,Mexico,56
+Action &amp; Adventure,Morocco,10
+Action &amp; Adventure,Nepal,8
+Action &amp; Adventure,Netherlands,8
+Action &amp; Adventure,New Zealand,54
+Action &amp; Adventure,Nigeria,17
+Action &amp; Adventure,Norway,24
+Action &amp; Adventure,Pakistan,17
+Action &amp; Adventure,Paraguay,26
+Action &amp; Adventure,Philippines,41
+Action &amp; Adventure,Poland,16
+Action &amp; Adventure,Russia,20
+Action &amp; Adventure,Serbia,10
+Action &amp; Adventure,Singapore,64
+Action &amp; Adventure,South Africa,97
+Action &amp; Adventure,South Korea,118
+Action &amp; Adventure,Soviet Union,16
+Action &amp; Adventure,Spain,44
+Action &amp; Adventure,Sweden,31
+Action &amp; Adventure,Switzerland,6
+Action &amp; Adventure,Taiwan,16
+Action &amp; Adventure,Thailand,75
+Action &amp; Adventure,Turkey,42
+Action &amp; Adventure,United Arab Emirates,42
+Action &amp; Adventure,United Kingdom,597
+Action &amp; Adventure,United States,2852
+Action &amp; Adventure,Vietnam,11
+Anime Features,China,24
+Anime Features,Japan,591
+Anime Features,United States,54
+Anime Series,Japan,99
+British TV Shows,Canada,1
+British TV Shows,Germany,1
+British TV Shows,Greece,1
+British TV Shows,Ireland,21
+British TV Shows,Spain,1
+British TV Shows,United Kingdom,140
+British TV Shows,United States,22
+Children &amp; Family Movies,Argentina,22
+Children &amp; Family Movies,Australia,164
+Children &amp; Family Movies,Belgium,47
+Children &amp; Family Movies,Brazil,31
+Children &amp; Family Movies,Bulgaria,9
+Children &amp; Family Movies,Cambodia,11
+Children &amp; Family Movies,Canada,471
+Children &amp; Family Movies,Cayman Islands,10
+Children &amp; Family Movies,Chile,10
+Children &amp; Family Movies,China,85
+Children &amp; Family Movies,Czech Republic,11
+Children &amp; Family Movies,Denmark,18
+Children &amp; Family Movies,East Germany,10
+Children &amp; Family Movies,Egypt,4
+Children &amp; Family Movies,France,232
+Children &amp; Family Movies,Germany,126
+Children &amp; Family Movies,Hong Kong,21
+Children &amp; Family Movies,India,145
+Children &amp; Family Movies,Indonesia,18
+Children &amp; Family Movies,Ireland,27
+Children &amp; Family Movies,Italy,20
+Children &amp; Family Movies,Japan,91
+Children &amp; Family Movies,Lebanon,70
+Children &amp; Family Movies,Luxembourg,25
+Children &amp; Family Movies,Malawi,8
+Children &amp; Family Movies,Malaysia,10
+Children &amp; Family Movies,Mexico,27
+Children &amp; Family Movies,Netherlands,9
+Children &amp; Family Movies,New Zealand,19
+Children &amp; Family Movies,Norway,1
+Children &amp; Family Movies,Qatar,70
+Children &amp; Family Movies,South Korea,70
+Children &amp; Family Movies,Spain,46
+Children &amp; Family Movies,Switzerland,6
+Children &amp; Family Movies,Taiwan,10
+Children &amp; Family Movies,Turkey,11
+Children &amp; Family Movies,United Arab Emirates,31
+Children &amp; Family Movies,United Kingdom,271
+Children &amp; Family Movies,United States,3237
+Children &amp; Family Movies,West Germany,10
+Classic &amp; Cult TV,United Kingdom,7
+Classic &amp; Cult TV,United States,9
+Classic Movies,Australia,21
+Classic Movies,East Germany,10
+Classic Movies,Hong Kong,11
+Classic Movies,India,108
+Classic Movies,Italy,20
+Classic Movies,Japan,29
+Classic Movies,Liechtenstein,9
+Classic Movies,Mexico,8
+Classic Movies,Poland,6
+Classic Movies,"Poland,",9
+Classic Movies,United Kingdom,115
+Classic Movies,United States,533
+Classic Movies,West Germany,10
+Comedies,Argentina,102
+Comedies,Australia,149
+Comedies,Bangladesh,110
+Comedies,Belgium,127
+Comedies,Brazil,117
+Comedies,Cambodia,11
+Comedies,Canada,701
+Comedies,Cayman Islands,10
+Comedies,Chile,64
+Comedies,China,227
+Comedies,Colombia,39
+Comedies,Croatia,1
+Comedies,Czech Republic,12
+Comedies,Denmark,13
+Comedies,East Germany,10
+Comedies,Egypt,185
+Comedies,France,398
+Comedies,Germany,281
+Comedies,Ghana,9
+Comedies,Greece,11
+Comedies,Hong Kong,274
+Comedies,India,2089
+Comedies,Indonesia,58
+Comedies,Ireland,41
+Comedies,Israel,14
+Comedies,Italy,61
+Comedies,Japan,84
+Comedies,Jordan,6
+Comedies,Lebanon,8
+Comedies,Malaysia,44
+Comedies,Mexico,181
+Comedies,Nepal,16
+Comedies,Netherlands,49
+Comedies,New Zealand,20
+Comedies,Nigeria,151
+Comedies,Norway,13
+Comedies,Pakistan,68
+Comedies,Peru,28
+Comedies,Philippines,156
+Comedies,Poland,16
+Comedies,Portugal,8
+Comedies,Qatar,9
+Comedies,Romania,25
+Comedies,Saudi Arabia,5
+Comedies,Slovenia,1
+Comedies,South Africa,43
+Comedies,South Korea,123
+Comedies,Spain,385
+Comedies,Sweden,54
+Comedies,Switzerland,30
+Comedies,Taiwan,18
+Comedies,Thailand,90
+Comedies,Turkey,404
+Comedies,United Arab Emirates,50
+Comedies,United Kingdom,716
+Comedies,United States,5549
+Comedies,Uruguay,11
+Comedies,Vietnam,10
+Comedies,West Germany,10
+Crime TV Shows,Colombia,10
+Crime TV Shows,India,16
+Crime TV Shows,Ireland,5
+Crime TV Shows,Israel,1
+Crime TV Shows,Italy,1
+Crime TV Shows,Mexico,30
+Crime TV Shows,South Africa,1
+Crime TV Shows,South Korea,10
+Crime TV Shows,Spain,15
+Crime TV Shows,Taiwan,17
+Crime TV Shows,Turkey,28
+Crime TV Shows,United Arab Emirates,11
+Crime TV Shows,United Kingdom,44
+Crime TV Shows,United States,115
+Cult Movies,Argentina,10
+Cult Movies,Australia,6
+Cult Movies,Belgium,10
+Cult Movies,Canada,70
+Cult Movies,China,12
+Cult Movies,Czech Republic,13
+Cult Movies,Denmark,12
+Cult Movies,France,32
+Cult Movies,Germany,39
+Cult Movies,Hong Kong,59
+Cult Movies,India,34
+Cult Movies,Japan,14
+Cult Movies,Poland,8
+Cult Movies,Singapore,30
+Cult Movies,South Korea,13
+Cult Movies,Sweden,12
+Cult Movies,United Kingdom,52
+Cult Movies,United States,439
+Documentaries,Afghanistan,1
+Documentaries,Argentina,5
+Documentaries,Australia,7
+Documentaries,Austria,4
+Documentaries,Belgium,2
+Documentaries,Bermuda,12
+Documentaries,Brazil,4
+Documentaries,Canada,45
+Documentaries,China,1
+Documentaries,Colombia,2
+Documentaries,Denmark,3
+Documentaries,Dominican Republic,1
+Documentaries,Ecuador,12
+Documentaries,Egypt,15
+Documentaries,Finland,1
+Documentaries,France,28
+Documentaries,Germany,9
+Documentaries,India,10
+Documentaries,Iraq,2
+Documentaries,Ireland,11
+Documentaries,Israel,3
+Documentaries,Italy,7
+Documentaries,Japan,6
+Documentaries,Mexico,11
+Documentaries,Netherlands,4
+Documentaries,New Zealand,6
+Documentaries,Nicaragua,1
+Documentaries,Norway,1
+Documentaries,Panama,1
+Documentaries,Peru,1
+Documentaries,Russia,2
+Documentaries,Serbia,2
+Documentaries,South Africa,5
+Documentaries,Spain,17
+Documentaries,Sri Lanka,1
+Documentaries,Sweden,4
+Documentaries,Switzerland,9
+Documentaries,Taiwan,1
+Documentaries,Thailand,1
+Documentaries,United Arab Emirates,10
+Documentaries,United Kingdom,165
+Documentaries,United States,605
+Documentaries,Uruguay,2
+Documentaries,Vatican City,1
+Documentaries,Venezuela,1
+Docuseries,Canada,1
+Docuseries,Germany,1
+Docuseries,Greece,1
+Docuseries,Israel,1
+Docuseries,Italy,1
+Docuseries,South Africa,1
+Docuseries,Spain,1
+Docuseries,United Kingdom,4
+Docuseries,United States,33
+Dramas,Albania,4
+Dramas,Argentina,223
+Dramas,Australia,274
+Dramas,Austria,35
+Dramas,Bangladesh,124
+Dramas,Belgium,320
+Dramas,Brazil,220
+Dramas,Bulgaria,8
+Dramas,Cambodia,10
+Dramas,Canada,557
+Dramas,Chile,75
+Dramas,China,212
+Dramas,Colombia,21
+Dramas,Croatia,20
+Dramas,Czech Republic,42
+Dramas,Denmark,151
+Dramas,Egypt,135
+Dramas,Finland,20
+Dramas,France,1149
+Dramas,Georgia,18
+Dramas,Germany,567
+Dramas,Ghana,17
+Dramas,Greece,27
+Dramas,Guatemala,4
+Dramas,Hong Kong,237
+Dramas,Hungary,25
+Dramas,Iceland,20
+Dramas,India,4493
+Dramas,Indonesia,272
+Dramas,Iran,30
+Dramas,Ireland,73
+Dramas,Israel,67
+Dramas,Italy,176
+Dramas,Japan,93
+Dramas,Jordan,22
+Dramas,Kenya,10
+Dramas,Latvia,11
+Dramas,Lebanon,78
+Dramas,Liechtenstein,9
+Dramas,Luxembourg,57
+Dramas,Malawi,8
+Dramas,Malaysia,69
+Dramas,Malta,10
+Dramas,Mexico,314
+Dramas,Montenegro,10
+Dramas,Morocco,35
+Dramas,Nepal,8
+Dramas,Netherlands,101
+Dramas,New Zealand,33
+Dramas,Nigeria,192
+Dramas,Norway,89
+Dramas,Pakistan,93
+Dramas,Peru,10
+Dramas,Philippines,228
+Dramas,Poland,140
+Dramas,"Poland,",9
+Dramas,Portugal,42
+Dramas,Qatar,94
+Dramas,Romania,26
+Dramas,Russia,28
+Dramas,Senegal,9
+Dramas,Serbia,20
+Dramas,Singapore,71
+Dramas,Slovakia,10
+Dramas,Slovenia,10
+Dramas,Somalia,10
+Dramas,South Africa,92
+Dramas,South Korea,194
+Dramas,Soviet Union,28
+Dramas,Spain,566
+Dramas,Sudan,10
+Dramas,Sweden,130
+Dramas,Switzerland,100
+Dramas,Taiwan,26
+Dramas,Thailand,25
+Dramas,Turkey,155
+Dramas,United Arab Emirates,92
+Dramas,United Kingdom,1205
+Dramas,United States,5212
+Dramas,Uruguay,37
+Dramas,Vietnam,9
+Faith &amp; Spirituality,Brazil,25
+Faith &amp; Spirituality,Canada,8
+Faith &amp; Spirituality,China,1
+Faith &amp; Spirituality,France,2
+Faith &amp; Spirituality,Germany,1
+Faith &amp; Spirituality,India,20
+Faith &amp; Spirituality,Indonesia,29
+Faith &amp; Spirituality,Ireland,1
+Faith &amp; Spirituality,Israel,10
+Faith &amp; Spirituality,Italy,1
+Faith &amp; Spirituality,Morocco,16
+Faith &amp; Spirituality,South Africa,18
+Faith &amp; Spirituality,Spain,22
+Faith &amp; Spirituality,Switzerland,1
+Faith &amp; Spirituality,Thailand,17
+Faith &amp; Spirituality,United Kingdom,24
+Faith &amp; Spirituality,United States,231
+Faith &amp; Spirituality,Vatican City,1
+Horror Movies,Argentina,27
+Horror Movies,Australia,31
+Horror Movies,Belgium,40
+Horror Movies,Bulgaria,8
+Horror Movies,Canada,211
+Horror Movies,Chile,21
+Horror Movies,China,10
+Horror Movies,Dominican Republic,6
+Horror Movies,Egypt,8
+Horror Movies,France,84
+Horror Movies,Germany,36
+Horror Movies,Iceland,10
+Horror Movies,India,275
+Horror Movies,Indonesia,91
+Horror Movies,Iran,10
+Horror Movies,Ireland,19
+Horror Movies,Israel,20
+Horror Movies,Japan,47
+Horror Movies,Jordan,10
+Horror Movies,Malaysia,36
+Horror Movies,Mexico,43
+Horror Movies,Nigeria,10
+Horror Movies,Pakistan,7
+Horror Movies,Peru,20
+Horror Movies,Philippines,27
+Horror Movies,Poland,10
+Horror Movies,Qatar,10
+Horror Movies,Serbia,9
+Horror Movies,Singapore,30
+Horror Movies,Slovenia,9
+Horror Movies,South Africa,18
+Horror Movies,South Korea,26
+Horror Movies,Spain,76
+Horror Movies,Thailand,192
+Horror Movies,Turkey,45
+Horror Movies,United Arab Emirates,10
+Horror Movies,United Kingdom,168
+Horror Movies,United States,1513
+Horror Movies,Vietnam,6
+Horror Movies,West Germany,10
+Independent Movies,Argentina,49
+Independent Movies,Australia,68
+Independent Movies,Austria,23
+Independent Movies,Bangladesh,124
+Independent Movies,Belgium,108
+Independent Movies,Brazil,122
+Independent Movies,Bulgaria,8
+Independent Movies,Canada,271
+Independent Movies,Chile,55
+Independent Movies,China,5
+Independent Movies,Colombia,9
+Independent Movies,Croatia,11
+Independent Movies,Czech Republic,1
+Independent Movies,Denmark,79
+Independent Movies,Egypt,29
+Independent Movies,France,494
+Independent Movies,Georgia,18
+Independent Movies,Germany,216
+Independent Movies,Ghana,8
+Independent Movies,Greece,27
+Independent Movies,Guatemala,4
+Independent Movies,Hong Kong,44
+Independent Movies,Iceland,13
+Independent Movies,India,1045
+Independent Movies,Iran,19
+Independent Movies,Ireland,17
+Independent Movies,Israel,40
+Independent Movies,Italy,16
+Independent Movies,Japan,48
+Independent Movies,Luxembourg,10
+Independent Movies,Malawi,8
+Independent Movies,Mexico,133
+Independent Movies,Morocco,8
+Independent Movies,Netherlands,21
+Independent Movies,New Zealand,24
+Independent Movies,Nigeria,22
+Independent Movies,Norway,30
+Independent Movies,Pakistan,35
+Independent Movies,Peru,11
+Independent Movies,Poland,20
+Independent Movies,Portugal,24
+Independent Movies,Qatar,7
+Independent Movies,Senegal,9
+Independent Movies,Serbia,9
+Independent Movies,Singapore,6
+Independent Movies,Slovenia,10
+Independent Movies,South Africa,28
+Independent Movies,South Korea,15
+Independent Movies,Spain,121
+Independent Movies,Sweden,77
+Independent Movies,Switzerland,26
+Independent Movies,Taiwan,5
+Independent Movies,Turkey,4
+Independent Movies,United Arab Emirates,18
+Independent Movies,United Kingdom,512
+Independent Movies,United States,2926
+Independent Movies,Uruguay,10
+International Movies,Afghanistan,1
+International Movies,Albania,4
+International Movies,Argentina,336
+International Movies,Australia,147
+International Movies,Austria,45
+International Movies,Bangladesh,14
+International Movies,Belgium,414
+International Movies,Brazil,232
+International Movies,Bulgaria,42
+International Movies,Cambodia,7
+International Movies,Canada,333
+International Movies,Chile,114
+International Movies,China,532
+International Movies,Colombia,54
+International Movies,Croatia,11
+International Movies,Czech Republic,64
+International Movies,Denmark,163
+International Movies,Dominican Republic,7
+International Movies,Egypt,351
+International Movies,Finland,21
+International Movies,France,1234
+International Movies,Georgia,18
+International Movies,Germany,478
+International Movies,Ghana,17
+International Movies,Greece,11
+International Movies,Guatemala,4
+International Movies,Hong Kong,670
+International Movies,Hungary,25
+International Movies,Iceland,22
+International Movies,India,5820
+International Movies,Indonesia,399
+International Movies,Iran,29
+International Movies,Iraq,2
+International Movies,Ireland,95
+International Movies,Israel,72
+International Movies,Italy,199
+International Movies,Japan,472
+International Movies,Jordan,32
+International Movies,Latvia,11
+International Movies,Lebanon,8
+International Movies,Luxembourg,37
+International Movies,Malaysia,117
+International Movies,Mexico,403
+International Movies,Montenegro,10
+International Movies,Morocco,18
+International Movies,Nepal,16
+International Movies,Netherlands,158
+International Movies,New Zealand,58
+International Movies,Nigeria,302
+International Movies,Norway,80
+International Movies,Pakistan,163
+International Movies,Paraguay,26
+International Movies,Peru,48
+International Movies,Philippines,394
+International Movies,Poland,130
+International Movies,"Poland,",9
+International Movies,Portugal,38
+International Movies,Qatar,35
+International Movies,Romania,46
+International Movies,Russia,40
+International Movies,Saudi Arabia,5
+International Movies,Senegal,9
+International Movies,Serbia,22
+International Movies,Singapore,101
+International Movies,Slovakia,10
+International Movies,Slovenia,11
+International Movies,South Africa,94
+International Movies,South Korea,250
+International Movies,Soviet Union,44
+International Movies,Spain,866
+International Movies,Sri Lanka,1
+International Movies,Sweden,119
+International Movies,Switzerland,103
+International Movies,Taiwan,44
+International Movies,Thailand,330
+International Movies,Turkey,519
+International Movies,United Arab Emirates,99
+International Movies,United Kingdom,832
+International Movies,United States,739
+International Movies,Uruguay,39
+International Movies,Vatican City,1
+International Movies,Venezuela,1
+International Movies,Vietnam,21
+International Movies,West Germany,10
+International TV Shows,Australia,7
+International TV Shows,Brazil,14
+International TV Shows,Canada,20
+International TV Shows,China,6
+International TV Shows,Colombia,49
+International TV Shows,Denmark,9
+International TV Shows,Germany,1
+International TV Shows,Greece,1
+International TV Shows,India,20
+International TV Shows,Ireland,26
+International TV Shows,Japan,74
+International TV Shows,Mexico,23
+International TV Shows,Pakistan,6
+International TV Shows,South Korea,101
+International TV Shows,Spain,62
+International TV Shows,Taiwan,73
+International TV Shows,Turkey,50
+International TV Shows,United Arab Emirates,11
+International TV Shows,United Kingdom,60
+International TV Shows,United States,68
+Kids' TV,Canada,10
+Kids' TV,Denmark,14
+Kids' TV,France,33
+Kids' TV,India,2
+Kids' TV,Italy,29
+Kids' TV,Japan,35
+Kids' TV,South Korea,20
+Kids' TV,United Kingdom,23
+Kids' TV,United States,21
+Korean TV Shows,South Korea,101
+Korean TV Shows,United States,10
+LGBTQ Movies,Australia,20
+LGBTQ Movies,Belgium,20
+LGBTQ Movies,Brazil,13
+LGBTQ Movies,Canada,1
+LGBTQ Movies,Denmark,10
+LGBTQ Movies,France,8
+LGBTQ Movies,Germany,10
+LGBTQ Movies,India,33
+LGBTQ Movies,Italy,8
+LGBTQ Movies,Japan,10
+LGBTQ Movies,Mexico,10
+LGBTQ Movies,Netherlands,10
+LGBTQ Movies,Spain,28
+LGBTQ Movies,Thailand,14
+LGBTQ Movies,United Kingdom,30
+LGBTQ Movies,United States,262
+Movies,Argentina,9
+Movies,Australia,28
+Movies,Canada,52
+Movies,France,11
+Movies,Japan,19
+Movies,Mexico,9
+Movies,South Korea,11
+Movies,Spain,2
+Movies,United States,111
+Music &amp; Musicals,Argentina,42
+Music &amp; Musicals,Australia,15
+Music &amp; Musicals,Belgium,20
+Music &amp; Musicals,Canada,62
+Music &amp; Musicals,China,3
+Music &amp; Musicals,Egypt,20
+Music &amp; Musicals,Finland,1
+Music &amp; Musicals,France,31
+Music &amp; Musicals,Germany,59
+Music &amp; Musicals,India,802
+Music &amp; Musicals,Italy,19
+Music &amp; Musicals,Japan,10
+Music &amp; Musicals,Mexico,7
+Music &amp; Musicals,Netherlands,1
+Music &amp; Musicals,Pakistan,33
+Music &amp; Musicals,Soviet Union,20
+Music &amp; Musicals,Spain,14
+Music &amp; Musicals,Sweden,2
+Music &amp; Musicals,Taiwan,3
+Music &amp; Musicals,Turkey,4
+Music &amp; Musicals,United Kingdom,105
+Music &amp; Musicals,United States,475
+Reality TV,United Kingdom,4
+Romantic Movies,Argentina,16
+Romantic Movies,Australia,27
+Romantic Movies,Belgium,23
+Romantic Movies,Brazil,8
+Romantic Movies,Canada,122
+Romantic Movies,China,88
+Romantic Movies,Colombia,10
+Romantic Movies,Denmark,6
+Romantic Movies,Egypt,32
+Romantic Movies,France,152
+Romantic Movies,Germany,57
+Romantic Movies,Greece,11
+Romantic Movies,Hong Kong,73
+Romantic Movies,Hungary,10
+Romantic Movies,India,701
+Romantic Movies,Indonesia,122
+Romantic Movies,Ireland,28
+Romantic Movies,Italy,29
+Romantic Movies,Japan,70
+Romantic Movies,Liechtenstein,9
+Romantic Movies,Malaysia,7
+Romantic Movies,Mexico,56
+Romantic Movies,Netherlands,23
+Romantic Movies,Nigeria,58
+Romantic Movies,Norway,6
+Romantic Movies,Pakistan,33
+Romantic Movies,Peru,12
+Romantic Movies,Philippines,166
+Romantic Movies,Poland,14
+Romantic Movies,Portugal,4
+Romantic Movies,Romania,3
+Romantic Movies,Saudi Arabia,5
+Romantic Movies,Singapore,7
+Romantic Movies,South Africa,14
+Romantic Movies,South Korea,8
+Romantic Movies,Soviet Union,8
+Romantic Movies,Spain,76
+Romantic Movies,Sweden,6
+Romantic Movies,Taiwan,17
+Romantic Movies,Thailand,53
+Romantic Movies,Turkey,134
+Romantic Movies,United Kingdom,206
+Romantic Movies,United States,1295
+Romantic TV Shows,Colombia,39
+Romantic TV Shows,Japan,10
+Romantic TV Shows,Mexico,7
+Romantic TV Shows,Pakistan,6
+Romantic TV Shows,South Korea,40
+Romantic TV Shows,Spain,18
+Romantic TV Shows,Turkey,9
+Romantic TV Shows,United States,13
+Sci-Fi &amp; Fantasy,Argentina,10
+Sci-Fi &amp; Fantasy,Australia,63
+Sci-Fi &amp; Fantasy,Austria,10
+Sci-Fi &amp; Fantasy,Belgium,21
+Sci-Fi &amp; Fantasy,Bulgaria,9
+Sci-Fi &amp; Fantasy,Canada,136
+Sci-Fi &amp; Fantasy,China,105
+Sci-Fi &amp; Fantasy,Colombia,4
+Sci-Fi &amp; Fantasy,Czech Republic,20
+Sci-Fi &amp; Fantasy,France,72
+Sci-Fi &amp; Fantasy,Germany,93
+Sci-Fi &amp; Fantasy,Hong Kong,20
+Sci-Fi &amp; Fantasy,Hungary,10
+Sci-Fi &amp; Fantasy,Iceland,10
+Sci-Fi &amp; Fantasy,India,101
+Sci-Fi &amp; Fantasy,Indonesia,17
+Sci-Fi &amp; Fantasy,Israel,10
+Sci-Fi &amp; Fantasy,Italy,10
+Sci-Fi &amp; Fantasy,Japan,108
+Sci-Fi &amp; Fantasy,Luxembourg,10
+Sci-Fi &amp; Fantasy,Mexico,30
+Sci-Fi &amp; Fantasy,Netherlands,4
+Sci-Fi &amp; Fantasy,New Zealand,34
+Sci-Fi &amp; Fantasy,Poland,10
+Sci-Fi &amp; Fantasy,Romania,10
+Sci-Fi &amp; Fantasy,Serbia,19
+Sci-Fi &amp; Fantasy,Singapore,9
+Sci-Fi &amp; Fantasy,Slovenia,9
+Sci-Fi &amp; Fantasy,South Africa,29
+Sci-Fi &amp; Fantasy,South Korea,26
+Sci-Fi &amp; Fantasy,Soviet Union,16
+Sci-Fi &amp; Fantasy,Spain,74
+Sci-Fi &amp; Fantasy,Switzerland,6
+Sci-Fi &amp; Fantasy,United Arab Emirates,20
+Sci-Fi &amp; Fantasy,United Kingdom,240
+Sci-Fi &amp; Fantasy,United States,1528
+Science &amp; Nature TV,United States,7
+Spanish-Language TV Shows,Colombia,49
+Spanish-Language TV Shows,Mexico,30
+Spanish-Language TV Shows,Spain,18
+Spanish-Language TV Shows,United States,17
+Sports Movies,Argentina,16
+Sports Movies,Australia,47
+Sports Movies,Austria,4
+Sports Movies,Canada,70
+Sports Movies,Chile,7
+Sports Movies,Denmark,10
+Sports Movies,Finland,9
+Sports Movies,France,36
+Sports Movies,Germany,21
+Sports Movies,Hong Kong,7
+Sports Movies,India,100
+Sports Movies,Indonesia,27
+Sports Movies,Ireland,9
+Sports Movies,Italy,8
+Sports Movies,Japan,1
+Sports Movies,Mexico,20
+Sports Movies,New Zealand,1
+Sports Movies,Panama,1
+Sports Movies,Peru,7
+Sports Movies,Philippines,8
+Sports Movies,Portugal,10
+Sports Movies,South Africa,1
+Sports Movies,Spain,26
+Sports Movies,Taiwan,1
+Sports Movies,Thailand,11
+Sports Movies,Turkey,9
+Sports Movies,United Arab Emirates,10
+Sports Movies,United Kingdom,47
+Sports Movies,United States,484
+Stand-Up Comedy,Argentina,12
+Stand-Up Comedy,Australia,2
+Stand-Up Comedy,Brazil,5
+Stand-Up Comedy,Canada,9
+Stand-Up Comedy,Chile,6
+Stand-Up Comedy,Colombia,6
+Stand-Up Comedy,France,4
+Stand-Up Comedy,Germany,2
+Stand-Up Comedy,India,1
+Stand-Up Comedy,Italy,2
+Stand-Up Comedy,Mexico,37
+Stand-Up Comedy,Netherlands,1
+Stand-Up Comedy,Singapore,1
+Stand-Up Comedy,South Korea,2
+Stand-Up Comedy,United Kingdom,24
+Stand-Up Comedy,United States,260
+Stand-Up Comedy &amp; Talk Shows,South Korea,13
+Stand-Up Comedy &amp; Talk Shows,United Kingdom,1
+Stand-Up Comedy &amp; Talk Shows,United States,6
+TV Action &amp; Adventure,France,20
+TV Action &amp; Adventure,Ireland,21
+TV Action &amp; Adventure,Japan,20
+TV Action &amp; Adventure,South Korea,30
+TV Action &amp; Adventure,Taiwan,10
+TV Action &amp; Adventure,United Kingdom,29
+TV Action &amp; Adventure,United States,123
+TV Comedies,Canada,60
+TV Comedies,China,6
+TV Comedies,Denmark,9
+TV Comedies,France,13
+TV Comedies,India,2
+TV Comedies,Italy,13
+TV Comedies,Spain,28
+TV Comedies,Turkey,9
+TV Comedies,United Kingdom,13
+TV Comedies,United States,23
+TV Dramas,Australia,7
+TV Dramas,Brazil,14
+TV Dramas,Canada,19
+TV Dramas,China,6
+TV Dramas,Denmark,9
+TV Dramas,India,20
+TV Dramas,Ireland,5
+TV Dramas,Pakistan,6
+TV Dramas,South Korea,28
+TV Dramas,Spain,43
+TV Dramas,Taiwan,63
+TV Dramas,Turkey,41
+TV Dramas,United Arab Emirates,11
+TV Dramas,United Kingdom,61
+TV Dramas,United States,150
+TV Horror,India,4
+TV Horror,Japan,13
+TV Horror,United States,28
+TV Mysteries,Brazil,14
+TV Mysteries,Turkey,10
+TV Mysteries,United States,42
+TV Sci-Fi &amp; Fantasy,United Kingdom,10
+TV Sci-Fi &amp; Fantasy,United States,97
+TV Shows,India,8
+TV Shows,Japan,22
+TV Shows,United States,17
+TV Thrillers,Taiwan,56
+TV Thrillers,Turkey,3
+TV Thrillers,United States,19
+Teen TV Shows,Canada,19
+Teen TV Shows,Japan,10
+Thrillers,Argentina,42
+Thrillers,Australia,58
+Thrillers,Austria,10
+Thrillers,Belgium,60
+Thrillers,Brazil,14
+Thrillers,Bulgaria,33
+Thrillers,Canada,246
+Thrillers,Chile,6
+Thrillers,China,29
+Thrillers,Czech Republic,10
+Thrillers,Denmark,49
+Thrillers,Dominican Republic,6
+Thrillers,Egypt,17
+Thrillers,France,205
+Thrillers,Germany,122
+Thrillers,Hong Kong,14
+Thrillers,Hungary,8
+Thrillers,Iceland,7
+Thrillers,India,555
+Thrillers,Iran,10
+Thrillers,Israel,13
+Thrillers,Italy,67
+Thrillers,Japan,30
+Thrillers,Jordan,16
+Thrillers,Luxembourg,9
+Thrillers,Mexico,23
+Thrillers,Netherlands,8
+Thrillers,Nigeria,57
+Thrillers,Norway,24
+Thrillers,Philippines,17
+Thrillers,Poland,25
+Thrillers,Qatar,20
+Thrillers,Romania,18
+Thrillers,Singapore,27
+Thrillers,South Africa,7
+Thrillers,South Korea,87
+Thrillers,Spain,234
+Thrillers,Sweden,36
+Thrillers,Switzerland,16
+Thrillers,Taiwan,5
+Thrillers,Thailand,22
+Thrillers,Turkey,29
+Thrillers,United Arab Emirates,33
+Thrillers,United Kingdom,376
+Thrillers,United States,1857
+Thrillers,Vietnam,6
+Thrillers,West Germany,10

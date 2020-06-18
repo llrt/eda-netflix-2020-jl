@@ -1,0 +1,3229 @@
+type,director,n
+Movie,A. L. Vijay,42
+Movie,A. Salaam,30
+Movie,A.R. Murugadoss,48
+Movie,Aadish Keluskar,12
+Movie,Aamir Bashir,12
+Movie,Aamir Khan,14
+Movie,Aanand Rai,60
+Movie,Aaron Burns,12
+Movie,Aaron Hann,54
+Movie,Aaron Moorhead,18
+Movie,Aaron Nee,39
+Movie,Aatmaram Dharne,3
+Movie,Abba T. Makama,30
+Movie,Abbas Alibhai Burmawalla,100
+Movie,Abbas Tyrewala,33
+Movie,Abdellatif Kechiche,117
+Movie,Abdullah Al Noor,30
+Movie,Abel Ferrara,48
+Movie,Abhay Chopra,9
+Movie,Abhijit Kokate,21
+Movie,Abhinav Shiv Tiwari,24
+Movie,Abhinay Deo,62
+Movie,Abhishek Chaubey,20
+Movie,Abhishek Kapoor,69
+Movie,Abhishek Saxena,27
+Movie,Abhishek Sharma,59
+Movie,Abhishek Varman,18
+Movie,Abu Bakr Shawky,90
+Movie,Adam Alleca,7
+Movie,Adam Carolla,2
+Movie,Adam Collins,10
+Movie,Adam Darke,6
+Movie,Adam Del Giudice,40
+Movie,Adam Deyoe,18
+Movie,Adam Dubin,1
+Movie,Adam Egypt Mortimer,28
+Movie,Adam Larson Broder,12
+Movie,Adam Leon,16
+Movie,Adam MacDonald,12
+Movie,Adam Marino,22
+Movie,Adam McKay,11
+Movie,Adam Nee,39
+Movie,Adam Nimoy,24
+Movie,Adam Randall,21
+Movie,Adam Schlesinger,14
+Movie,Adam Shankman,172
+Movie,Adam Smith,10
+Movie,Adam Wingard,14
+Movie,Adam Wood,10
+Movie,Adarsh Eshwarappa,48
+Movie,Adele K. Thomas,7
+Movie,Adisorn Tresirikasem,21
+Movie,Aditya Kripalani,31
+Movie,Aditya Sarpotdar,39
+Movie,Aditya Vikram Sengupta,30
+Movie,Adrian Murray,16
+Movie,Adrian Teh,33
+Movie,Advait Chandan,15
+Movie,Adze Ugah,30
+Movie,Afia Nathaniel,90
+Movie,Afonso Poyart,30
+Movie,Agasyah Karim,24
+Movie,Agnidev Chatterjee,24
+Movie,Agustí Villaronga,20
+Movie,Ahishor Solomon,18
+Movie,Ahmad Samir Farag,21
+Movie,Ahmed El Gendy,6
+Movie,Ahmed Zain,12
+Movie,Ahsan Rahim,30
+Movie,Aijaz Khan,24
+Movie,Aitor Arregi,12
+Movie,Ajay Bahl,27
+Movie,Ajay Bhuyan,14
+Movie,Ajay Phansekar,18
+Movie,Ajithkumar,21
+Movie,Akin Omotoso,24
+Movie,Akiva Goldsman,3
+Movie,Akiva Schaffer,143
+Movie,Akiyuki Shinbo,28
+Movie,Akram Farouk,24
+Movie,Akshay Akkineni,24
+Movie,Alain Desrochers,43
+Movie,Alain Gagnol,66
+Movie,Alan Hicks,2
+Movie,Alan J. Pakula,22
+Movie,Alan Mak,32
+Movie,Alan Rickman,33
+Movie,Alana Waksman,20
+Movie,Alban Teurlai,2
+Movie,Albert Hughes,20
+Movie,Alberto Rodríguez,27
+Movie,Alejandra Márquez Abella,12
+Movie,Alejandro Agresti,84
+Movie,Alejandro Doria,30
+Movie,Alejandro Fernández Almendras,120
+Movie,Alejandro G. Iñárritu,66
+Movie,Alejandro Martinez-Beltran,9
+Movie,Alejandro Montiel,60
+Movie,Aleksandr Chernyaev,6
+Movie,Aleksey German,60
+Movie,Alessandro Angulo,4
+Movie,Alessio Cremonini,8
+Movie,Alethea Jones,16
+Movie,Alex Brewer,10
+Movie,Alex Burunova,16
+Movie,Alex Coletti,1
+Movie,Alex Díaz,1
+Movie,Alex Garland,33
+Movie,Alex Israel,30
+Movie,Alex Law,6
+Movie,Alex Lehmann,19
+Movie,Alex Merkin,8
+Movie,Alex Proyas,87
+Movie,Alex Richanbach,12
+Movie,Alex Smith,15
+Movie,Alex Stapleton,1
+Movie,Alex Timbers,1
+Movie,Alex Winter,9
+Movie,Alex Zamm,30
+Movie,Alexander Nevsky,40
+Movie,Alexander Smith,2
+Movie,Alexandra Dean,1
+Movie,Alexandre Aja,54
+Movie,Alexandre Avancini,48
+Movie,Alexandre Espigares,72
+Movie,Alexandre Heboyan,6
+Movie,Alexandre Reinecke,15
+Movie,Alexandros Avranas,60
+Movie,Alexis Morante,6
+Movie,Alfonso Arau,24
+Movie,Alfonso Cuarón,99
+Movie,Alfonso Rodríguez,2
+Movie,Alfonso Serrano Maturino,18
+Movie,Alfred Gimeno,10
+Movie,Ali Bin Matar,24
+Movie,Ali F. Mostafa,60
+Movie,Ali Samadi Ahadi,6
+Movie,Ali Scher,20
+Movie,Ali Taner Baltacı,60
+Movie,Alice Rohrwacher,120
+Movie,Alicky Sussman,1
+Movie,Alik Sakharov,3
+Movie,Alison Klayman,2
+Movie,Alison MacLean,12
+Movie,Alistair Legrand,43
+Movie,Allan Ungar,10
+Movie,Allen Hughes,20
+Movie,Alo Sarkar,27
+Movie,Alphonso J. Wesson,1
+Movie,Alê Abreu,7
+Movie,Amaan Khan,30
+Movie,Amal Neerad,30
+Movie,Amalie Næsby Fick,6
+Movie,Amar Gupte,10
+Movie,Amar Kaushik,18
+Movie,Amara Cash,30
+Movie,Amardeep Singh Gill,14
+Movie,Amarpreet G S Chabbra,21
+Movie,Amber Tamblyn,9
+Movie,Amir Galvan Cervera,36
+Movie,Amir Mohiuddin,18
+Movie,Amit Barot,21
+Movie,Amit Rai,24
+Movie,Amit Roy,21
+Movie,Amit Saxena,24
+Movie,Amitabha Singh,30
+Movie,Amitava Bhattacharya,20
+Movie,Amitoj Mann,68
+Movie,Amman Abbasi,16
+Movie,Amol Palekar,24
+Movie,Amr Arafa,38
+Movie,Amshan Kumar,24
+Movie,Amy Poehler,8
+Movie,Amy Schumer,2
+Movie,Ana Kokkinos,36
+Movie,Ana Lily Amirpour,18
+Movie,Ana Quiroga,3
+Movie,Anand Tiwari,18
+Movie,Anand Tucker,40
+Movie,Ananda Krishnan,9
+Movie,Anant Balani,21
+Movie,Ananth Narayan Mahadevan,30
+Movie,Andibachtiar Yusuf,24
+Movie,Andrea Arnold,20
+Movie,Andrea Molaioli,21
+Movie,Andreas Prochaska,48
+Movie,Andrew Bujalski,16
+Movie,Andrew C. Erin,20
+Movie,Andrew Douglas,10
+Movie,Andrew Duncan,20
+Movie,Andrew Fleming,74
+Movie,Andrew Goth,30
+Movie,Andrew J. Smith,15
+Movie,Andrew Jenks,2
+Movie,Andrew Lau Wai-Keung,179
+Movie,Andrew Loo,60
+Movie,Andrew Meier,2
+Movie,Andrew Mogel,16
+Movie,Andrew Nackman,20
+Movie,Andrew Niccol,98
+Movie,Andrew Renzi,1
+Movie,Andrew Sandler,2
+Movie,Andrew Slater,20
+Movie,Andrew Stanton,76
+Movie,Andrew Sullivan,30
+Movie,Andrew Tan,10
+Movie,Andrew Wessels,33
+Movie,Andrzej Bartkowiak,11
+Movie,André D'Elia,2
+Movie,André Øvredal,42
+Movie,Andrés Couturier,40
+Movie,Andy Caballero,30
+Movie,Andy Capper,6
+Movie,Andy Fickman,35
+Movie,Andy Goddard,8
+Movie,Andy Serkis,78
+Movie,Andy Tennant,92
+Movie,Anees Bazmee,119
+Movie,Ang Lee,120
+Movie,Angelina Jolie,20
+Movie,Angga Dwimas Sasongko,71
+Movie,Anggy Umbara,10
+Movie,Anik Datta,4
+Movie,Anil Sharma,30
+Movie,Anil Thomas,10
+Movie,Anil V. Kumar,15
+Movie,Aniruddha Roy Chowdhury,22
+Movie,Anita Barbosa,24
+Movie,Anita Udeep,24
+Movie,Anjum Shahzad,21
+Movie,Ann Deborah Fishman,11
+Movie,Anna Boden,14
+Movie,Anne Fletcher,36
+Movie,Anne Fontaine,98
+Movie,Annie Clark,24
+Movie,Anthony Abrams,12
+Movie,Anthony Byrne,42
+Movie,Anthony Caronna,2
+Movie,Anthony Chan,15
+Movie,Anthony D'Souza,63
+Movie,Anthony Giordano,1
+Movie,Anthony Minghella,20
+Movie,Anthony Palmer,1
+Movie,Anthony Pierce,1
+Movie,Anthony Russo,56
+Movie,Anthony Scott Burns,28
+Movie,Anthony Veiller,4
+Movie,Anthony Wonke,3
+Movie,Antoine Bardou-Jacquet,48
+Movie,Antoine Fuqua,60
+Movie,Antoinette Jadaone,34
+Movie,Antongiulio Panizzi,4
+Movie,Antoni Krauze,16
+Movie,Antonin Baudry,30
+Movie,Antonio Campos,40
+Movie,Antonio Chavarrías,78
+Movie,Antonio Morabito,32
+Movie,Antonio Piazza,72
+Movie,Antonio Serrano,54
+Movie,Anu Menon,38
+Movie,Anubhav Sinha,30
+Movie,Anurag Basu,75
+Movie,Anurag Kashyap,138
+Movie,Anurag Singh,32
+Movie,Anuranjan Premji,14
+Movie,Anusha Rizvi,30
+Movie,Apoorva Lakhia,69
+Movie,April Mullen,24
+Movie,Archie Borders,18
+Movie,Ari Folman,210
+Movie,Ari Levinson,1
+Movie,Ari Sandel,38
+Movie,Ariel Vromen,54
+Movie,Arjun Gourisaria,2
+Movie,Arjun Jandyala,9
+Movie,Arnab Chaudhuri,24
+Movie,Arne Birkenstock,4
+Movie,Artemis Joukowsky,2
+Movie,Arthur Allan Seidelman,5
+Movie,Arthur Muhammad,8
+Movie,Arun Chidambaram,24
+Movie,Arun Vaidyanathan,24
+Movie,Aruna Raje,12
+Movie,Asghar Farhadi,152
+Movie,Ash Brannon,30
+Movie,Ashish R. Mohan,14
+Movie,Ashish R. Shukla,30
+Movie,Ashley York,2
+Movie,Ashok Nanda,24
+Movie,Ashu Trikha,18
+Movie,Ashutosh Gowariker,130
+Movie,Ashwin Saravanan,126
+Movie,Ashwiny Iyer Tiwari,21
+Movie,Asif Kapadia,33
+Movie,Asim Abbasi,48
+Movie,Asim Raza,24
+Movie,Asri Bendacha,6
+Movie,Atanu Ghosh,51
+Movie,Atanu Mukherjee,12
+Movie,Atharv Baluja,24
+Movie,Atlee Kumar,21
+Movie,Atom Egoyan,126
+Movie,Atsajun Sattakovit,30
+Movie,Atsuko Ishizuka,45
+Movie,Attila Till,21
+Movie,Atul Kale,18
+Movie,Atul Malhotra,30
+Movie,Aubrey Powell,18
+Movie,Audu Paden,18
+Movie,Augusto Matte,30
+Movie,Austin Kolodney,20
+Movie,Austin Stark,14
+Movie,Ava DuVernay,15
+Movie,Avadhoot Gupte,30
+Movie,Avinash Arun,20
+Movie,Avinash Das,18
+Movie,Awi Suryadi,20
+Movie,Ayaan Mukherji,30
+Movie,Aytaç Ağırlar,18
+Movie,Ayush Raina,20
+Movie,Azazel Jacobs,21
+Movie,Azfar Jafri,18
+Movie,Aziz Ansari,1
+Movie,Aziz Mirza,72
+Movie,B. Unnikrishnan,16
+Movie,B. V. Nandini Reddy,90
+Movie,B.N. Shajeer Sha,12
+Movie,BB Sasore,20
+Movie,Babak Anvari,120
+Movie,Baljit Singh Deo,39
+Movie,Baltasar Kormákur,18
+Movie,Balu Mahendra,18
+Movie,Banjong Pisanthanakun,84
+Movie,Barak Goodman,3
+Movie,Barbara Kopple,2
+Movie,Barbra Streisand,1
+Movie,Barney Clay,4
+Movie,Barry Avrich,1
+Movie,Barry Jenkins,27
+Movie,Barry Levinson,48
+Movie,Barry Sonnenfeld,90
+Movie,Bart Freundlich,27
+Movie,Bas van Teylingen,16
+Movie,Basava Shankar Eeday,15
+Movie,Bassam Kurdali,4
+Movie,Basu Chatterjee,42
+Movie,Bauddhayan Mukherji,12
+Movie,Baz Luhrmann,48
+Movie,Bedabrata Pain,81
+Movie,Bedran Güzel,40
+Movie,Beeban Kidron,45
+Movie,Bejoy Nambiar,57
+Movie,Ben A. Williams,15
+Movie,Ben Brewer,10
+Movie,Ben C. Lucas,60
+Movie,Ben Foster,20
+Movie,Ben Howling,20
+Movie,Ben Palmer,72
+Movie,Ben Patterson,1
+Movie,Ben Pluimer,3
+Movie,Ben Ryder,1
+Movie,Ben Shelton,15
+Movie,Ben Wallis,1
+Movie,Ben Wheatley,36
+Movie,Ben Young,24
+Movie,Benedict Andrews,42
+Movie,Benjamin Arfmann,11
+Movie,Benjamin Dickinson,2
+Movie,Benjamin Ree,3
+Movie,Benjamin Ross,16
+Movie,Benjamin Turner,32
+Movie,Benjamin Weill,18
+Movie,Benny Chan,32
+Movie,Benny Fine,14
+Movie,Benny Fredman,8
+Movie,Benoît Jacquot,36
+Movie,Benoît Philippon,6
+Movie,Benson Lee,153
+Movie,Bernard Rose,32
+Movie,Bernie Denk,9
+Movie,Bert Marcus,7
+Movie,Bette Gordon,14
+Movie,Bhagyaraj,30
+Movie,Bharat Jain,21
+Movie,Bharat Nalluri,27
+Movie,Bhushan Patel,16
+Movie,Bilal Lashari,14
+Movie,Bill D'Elia,2
+Movie,Bill Guttentag,4
+Movie,Bill Oliver,24
+Movie,Bill Plympton,70
+Movie,Bille August,22
+Movie,Bille Woodruff,25
+Movie,Billy Bob Thornton,20
+Movie,Billy Ray,64
+Movie,Bin Bunluerit,30
+Movie,Binayak Das,10
+Movie,Binu Ulahhannan,24
+Movie,Birkan Pusa,16
+Movie,Biswajeet Bora,21
+Movie,Biyi Bandele,8
+Movie,Björn Stein,20
+Movie,Blair Hayes,14
+Movie,Blake Harris,20
+Movie,Blayne Weaver,18
+Movie,Bo Burnham,4
+Movie,Bo Welch,16
+Movie,Bob Hercules,7
+Movie,Bob Nelson,24
+Movie,Bob Odenkirk,30
+Movie,Bob Persichetti,24
+Movie,Bobby Farrelly,24
+Movie,Bobby Roth,22
+Movie,Bobcat Goldthwait,3
+Movie,Bolanle Austen-Peters,20
+Movie,Bong Joon Ho,156
+Movie,Borja Cobeaga,18
+Movie,Brad Anderson,27
+Movie,Brad Bird,36
+Movie,Brad Peyton,56
+Movie,Bradley Parker,20
+Movie,Bradley Walsh,20
+Movie,Brandon Camp,36
+Movie,Brandon Dickerson,8
+Movie,Brandon Jones,1
+Movie,Brandon Somerhalder,20
+Movie,Brant Sersen,16
+Movie,Brendan Malloy,39
+Movie,Brendan Toller,20
+Movie,Brent Bonacorso,18
+Movie,Brent Maddock,27
+Movie,Brett Haley,30
+Movie,Brett Harvey,72
+Movie,Brett Ratner,57
+Movie,Brian A. Miller,16
+Movie,Brian Baugh,8
+Movie,Brian De Palma,125
+Movie,Brian Helgeland,90
+Movie,Brian Klein,1
+Movie,Brian Levant,41
+Movie,Brian M. Conley,10
+Movie,Brian Niles,2
+Movie,Brian O'Malley,20
+Movie,Brian Robbins,22
+Movie,Brian Smith,9
+Movie,Brian Smrz,21
+Movie,Brian Volk-Weiss,1
+Movie,Brie Larson,27
+Movie,Brit McAdams,11
+Movie,Brodje Wemboendja,6
+Movie,Bronwen Hughes,6
+Movie,Bruce Beresford,10
+Movie,Bruce Gowers,1
+Movie,Bruce Leddy,10
+Movie,Bruce MacDonald,54
+Movie,Bruce McCulloch,11
+Movie,Bruce McDonald,20
+Movie,Bruce Robinson,36
+Movie,Bruce W. Smith,8
+Movie,Bruno Ascenzo,18
+Movie,Bruno Garotti,30
+Movie,Bruno Stagnaro,22
+Movie,Bryan Bertino,28
+Movie,Bryan Buckley,50
+Movie,Bryan Fogel,4
+Movie,Bryan Singer,20
+Movie,Buddhadev Dasgupta,21
+Movie,Bunmi Ajakaiye,24
+Movie,Burak Aksak,55
+Movie,Burhan Qurbani,20
+Movie,Buta Singh,24
+Movie,Buz Wallick,18
+Movie,Buzz Kulik,7
+Movie,Byron Howard,55
+Movie,Byun Hyuk,20
+Movie,C. Fitz,2
+Movie,C.J. Wallis,1
+Movie,Caio Cobra,1
+Movie,Cal Seville,2
+Movie,Callie Khouri,12
+Movie,Caradog W. James,16
+Movie,Carlo Padial,18
+Movie,Carlos Algara,9
+Movie,Carlos Marques-Marcet,12
+Movie,Carlos Therón,20
+Movie,Carlos Vermut,60
+Movie,Carly Stone,18
+Movie,Carol Reed,18
+Movie,Cary Joji Fukunaga,18
+Movie,Cary Murnion,14
+Movie,Caryn Waechter,12
+Movie,Castille Landon,18
+Movie,Cate Shortland,10
+Movie,Cathy Garcia-Molina,210
+Movie,Cecilia Atán,8
+Movie,Cem Yılmaz,76
+Movie,Chad Archibald,5
+Movie,Chad Hartigan,42
+Movie,Chad L. Scheifele,16
+Movie,Chad Van De Keere,32
+Movie,Chan-sang Lim,30
+Movie,Chandan Arora,18
+Movie,Chandra Barot,30
+Movie,Chandra Prakash Dwivedi,30
+Movie,Chandrakant Kanse,24
+Movie,Chandrakant Kulkarni,84
+Movie,Chandran Narikode,16
+Movie,Chanon Yingyong,24
+Movie,Chapman Way,4
+Movie,Charles A. Nichols,26
+Movie,Charles Martin Smith,20
+Movie,Charles Stone III,54
+Movie,Charles Walters,30
+Movie,Charlie Haskell,8
+Movie,Charlie McDowell,27
+Movie,Charlie Siskel,1
+Movie,Charlie Vaughn,22
+Movie,Charlotte Zwerin,4
+Movie,Chatchai Katenut,16
+Movie,Chayanop Boonprakob,8
+Movie,Che Sandoval,30
+Movie,Cheang Pou Soi,14
+Movie,Cheh Chang,60
+Movie,Chester Tam,9
+Movie,Cheta Chukwu,21
+Movie,Chi Fat Chan,27
+Movie,Chi Keung Fung,20
+Movie,Chia Tang,22
+Movie,Chia-Liang Liu,89
+Movie,Chito S. Roño,40
+Movie,Chiwetel Ejiofor,48
+Movie,Chow Kwun-wai,9
+Movie,Chris Baugh,30
+Movie,Chris Bell,1
+Movie,Chris Blake,20
+Movie,Chris Bouchard,20
+Movie,Chris Bould,2
+Movie,Chris Buck,54
+Movie,Chris Burkard,30
+Movie,Chris Eigeman,9
+Movie,Chris Howe,1
+Movie,Chris Jenkins,72
+Movie,Chris Kelly,27
+Movie,Chris Koch,20
+Movie,Chris McCoy,16
+Movie,Chris Moukarbel,2
+Movie,Chris Nahon,6
+Movie,Chris Nelson,20
+Movie,Chris Perkel,2
+Movie,Chris Renaud,72
+Movie,Chris Robinson,27
+Movie,Chris Sivertson,25
+Movie,Chris Smith,2
+Movie,Chris Sparling,16
+Movie,Chris Stokes,46
+Movie,Chris Weitz,108
+Movie,Chris Williams,40
+Movie,Christel Gibson,9
+Movie,Christian Charles,10
+Movie,Christian De Vita,44
+Movie,Christian Desmares,90
+Movie,Christian Ditter,48
+Movie,Christian Zübert,20
+Movie,Christophe Honoré,27
+Movie,Christopher Chambers,18
+Movie,Christopher Guest,22
+Movie,Christopher Loren Ewers,1
+Movie,Christopher Louie,11
+Movie,Christopher Martin,1
+Movie,Christopher Murray,54
+Movie,Christopher Nolan,72
+Movie,Christopher Nolen,30
+Movie,Christopher Ray,10
+Movie,Christopher Smith,46
+Movie,Christopher Storer,4
+Movie,Chuck Russell,20
+Movie,Chun Wong,8
+Movie,Ciarán Foy,23
+Movie,Claire Scanlon,14
+Movie,Clarence Yiu-leung Fok,14
+Movie,Clark Johnson,21
+Movie,Claude Barras,96
+Movie,Claude Lelouch,30
+Movie,Clay Glen,90
+Movie,Clay Kaytis,14
+Movie,Clay Porter,18
+Movie,Clint Eastwood,122
+Movie,Clive Tonge,18
+Movie,Clovis Cornillac,24
+Movie,Coerte Voorhees,48
+Movie,Colin Dench,1
+Movie,Colin Strause,20
+Movie,Colin Teague,20
+Movie,Conor Allyn,16
+Movie,Conrad Helten,35
+Movie,Constance Marks,2
+Movie,Corbin Bernsen,24
+Movie,Corey Grant,36
+Movie,Corey Yuen,100
+Movie,Cosmo Segurson,18
+Movie,Courtney Hunt,20
+Movie,Craig Anderson,11
+Movie,Craig Brewer,63
+Movie,Craig Elrod,15
+Movie,Craig Gillespie,9
+Movie,Craig Goodwill,36
+Movie,Craig Johnson,30
+Movie,Craig Monahan,18
+Movie,Craig Moss,18
+Movie,Cristina Jacob,74
+Movie,Curro Velázquez,30
+Movie,Curtis Hanson,9
+Movie,Célia Catunda,3
+Movie,D Ho,6
+Movie,D.B. Weiss,1
+Movie,Daisuke Nishio,24
+Movie,Dallas Jackson,11
+Movie,Damien Leone,30
+Movie,Damien O’Connor,18
+Movie,Damien Piscarel,3
+Movie,Damián Romay,17
+Movie,Dan Bush,16
+Movie,Dan Forrer,2
+Movie,Dan Gilroy,16
+Movie,Dan Harris,33
+Movie,Dan Kwan,60
+Movie,Dan Villegas,54
+Movie,Dani Levy,20
+Movie,Dani de la Torre,78
+Movie,Daniel Alfredson,105
+Movie,Daniel Benmayor,10
+Movie,Daniel Burman,14
+Movie,Daniel Calparsoro,14
+Movie,Daniel Camenisch,20
+Movie,Daniel DiMauro,1
+Movie,Daniel Goldhaber,20
+Movie,Daniel Gordon,2
+Movie,Daniel Gray Longino,14
+Movie,Daniel Lee,72
+Movie,Daniel Lindsay,8
+Movie,Daniel Mann,34
+Movie,Daniel McCabe,1
+Movie,Daniel Monzón,28
+Movie,Daniel Noah,18
+Movie,Daniel Raim,5
+Movie,Daniel Scheinert,60
+Movie,Daniel Stamm,72
+Movie,Daniel Sánchez Arévalo,42
+Movie,Daniel Yee Heng Chan,21
+Movie,Daniela Goggi,16
+Movie,Daniele Thompson,48
+Movie,Danny Boyle,56
+Movie,Danny J. Boyle,20
+Movie,Danny Leiner,54
+Movie,Dante Lam,106
+Movie,Dar Gai,18
+Movie,Darin Scott,24
+Movie,Darren Lynn Bousman,18
+Movie,Daryl Hannah,12
+Movie,Dash Shaw,20
+Movie,Datta Mohan Bhandare,8
+Movie,Dava Whisenant,2
+Movie,Dave Dorsey,20
+Movie,Dave Green,24
+Movie,Dave Higby,2
+Movie,Dave Patten,18
+Movie,David Allensworth,20
+Movie,David Alvarado,5
+Movie,David Ayer,36
+Movie,David Batty,98
+Movie,David Beier,20
+Movie,David Benioff,1
+Movie,David Blair,24
+Movie,David Briggs,2
+Movie,David Bruckner,24
+Movie,David Carson,20
+Movie,David Chirchirillo,24
+Movie,David Cronenberg,72
+Movie,David Dhawan,243
+Movie,David E. Talbert,14
+Movie,David Fairhead,1
+Movie,David Fincher,47
+Movie,David Gelb,1
+Movie,David Gordon Green,16
+Movie,David Grossman,40
+Movie,David Guy Levy,39
+Movie,David Hebditch,2
+Movie,David Johndrow,1
+Movie,David Koepp,8
+Movie,David L. Cunningham,14
+Movie,David L.G. Hughes,20
+Movie,David Lam,32
+Movie,David Lean,108
+Movie,David Lee Miller,30
+Movie,David Leveaux,36
+Movie,David Lowery,12
+Movie,David M. Rosenthal,20
+Movie,David Mackenzie,90
+Movie,David McCracken,12
+Movie,David Michôd,46
+Movie,David Mirkin,20
+Movie,David Morris,2
+Movie,David Mrnka,40
+Movie,David O. Russell,24
+Movie,David Pablos,66
+Movie,David Palmer,33
+Movie,David Pastor,24
+Movie,David Paul Meyer,2
+Movie,David R. Ellis,59
+Movie,David Raynr,1
+Movie,David Sampliner,1
+Movie,David Serrano,30
+Movie,David Silberg,26
+Movie,David Soren,28
+Movie,David Stubbs,8
+Movie,David Wain,63
+Movie,David Wnendt,16
+Movie,David Zucker,32
+Movie,Davis Guggenheim,2
+Movie,Dax Shepard,33
+Movie,Dean Wellins,15
+Movie,Dean Wright,26
+Movie,Deane Taylor,18
+Movie,Debaloy Dey,16
+Movie,Debra Granik,16
+Movie,Dee Rees,14
+Movie,Deep Joshi,21
+Movie,Deepti Naval,30
+Movie,Dejan Zečević,81
+Movie,Demetri Martin,1
+Movie,Denis Villeneuve,36
+Movie,Deniz Gamze Ergüven,40
+Movie,Dennie Gordon,42
+Movie,Dennis Bartok,9
+Movie,Dennis Dugan,20
+Movie,Dennis Iliadis,12
+Movie,Dennis Rovira van Boekholt,36
+Movie,Dennis Widmyer,28
+Movie,Denny Lu,8
+Movie,Derek Cianfrance,59
+Movie,Derek Hui,18
+Movie,Derek Peck,2
+Movie,Derek Yee,30
+Movie,Destin Daniel Cretton,22
+Movie,Detlev Buck,82
+Movie,Devaki Singh,8
+Movie,Devashish Makhija,16
+Movie,Devika Bhagat,30
+Movie,Devin Chanda,1
+Movie,Dhanush,14
+Movie,Dharmendra Suresh Desai,24
+Movie,Dharmesh Darshan,60
+Movie,Dhilip Kumar,9
+Movie,Dibakar Banerjee,195
+Movie,Diego Cohen,24
+Movie,Diego Corsini,30
+Movie,Diego Kaplan,15
+Movie,Diego Lerman,90
+Movie,Diego Luna,18
+Movie,Diego Pignataro,2
+Movie,Dileep Narayanan,12
+Movie,Dilip Mehta,2
+Movie,Dimitri Logothetis,8
+Movie,Ding Sheng,27
+Movie,Ding-Lin Wang,10
+Movie,Dito Montiel,30
+Movie,Doesjka van Hoogdalem,1
+Movie,Dominic Sena,30
+Movie,Don Bluth,10
+Movie,Don Mancini,11
+Movie,Don Michael Paul,188
+Movie,Don Omope,30
+Movie,Dorian Fernández-Moris,18
+Movie,Doron Paz,30
+Movie,Doug Hamilton,1
+Movie,Doug Lefler,20
+Movie,Douglas McGrath,12
+Movie,Drake Doremus,66
+Movie,Drew Casson,21
+Movie,Drew Stone,3
+Movie,Drue Metz,20
+Movie,Duncan Jones,72
+Movie,Dustin McKenzie,34
+Movie,Dustin Nguyen,12
+Movie,Dylan Bank,1
+Movie,Dylan C. Brown,10
+Movie,Dylan Haegens,16
+Movie,Dylan Mohan Gray,2
+Movie,Dylan Southern,1
+Movie,Ed Gass-Donnelly,48
+Movie,Ed Lilly,12
+Movie,Eddie Martin,2
+Movie,Edgar Wright,168
+Movie,Eduardo Casanova,22
+Movie,Eduardo Mendoza de Echave,40
+Movie,Edward Cotterill,3
+Movie,Edward Zwick,30
+Movie,Edwin,60
+Movie,Eeshwar Nivas,24
+Movie,Ekachai Uekrongtham,24
+Movie,Elaine Bogan,12
+Movie,Eleonore Pourriat,15
+Movie,Eli Craig,144
+Movie,Eli Roth,88
+Movie,Eliane Brum,3
+Movie,Elisa Fuksas,18
+Movie,Elisabeth Vogler,36
+Movie,Elite Zexer,45
+Movie,Elizabeth Banks,39
+Movie,Elizabeth Wood,18
+Movie,Elle Callahan,22
+Movie,Elle-Máijá Tailfeathers,40
+Movie,Ellen Brown,1
+Movie,Elliot Hegarty,10
+Movie,Elvira Lind,4
+Movie,Emanuel Hoss-Desmarais,33
+Movie,Emil Ben-Shimon,30
+Movie,Emilio Martínez Lázaro,30
+Movie,Emily Hagins,20
+Movie,Emir Kusturica,12
+Movie,Emma Hatherley,1
+Movie,Emmanuel Mouret,12
+Movie,Emmett Malloy,39
+Movie,Eondeok Han,40
+Movie,Eric Aghimien,16
+Movie,Eric Bross,52
+Movie,Eric Idle,23
+Movie,Eric Khoo,42
+Movie,Eric Laneuville,4
+Movie,Eric Radomski,18
+Movie,Eric Stoltz,10
+Movie,Eric Summer,36
+Movie,Eric Zaragosa,40
+Movie,Erik Canuel,51
+Movie,Erik Ewers,1
+Movie,Erik Matti,20
+Movie,Erik White,9
+Movie,Ernie Barbarash,34
+Movie,Erol Özlevi,24
+Movie,Errol Morris,3
+Movie,Erwin van den Eshof,27
+Movie,Eshom Nelms,13
+Movie,Espen Sandberg,150
+Movie,Esteban Crespo,27
+Movie,Esteban Sapir,30
+Movie,Esteban Vidal,32
+Movie,Ethan Coen,84
+Movie,Eugenio Derbez,30
+Movie,Eva Orner,1
+Movie,Eva Trobisch,12
+Movie,Eva Vives,54
+Movie,Evan Katz,28
+Movie,Evan Spiridellis,9
+Movie,Ezekiel Norton,56
+Movie,Fabien Beziat,2
+Movie,Fabio Grassadonia,72
+Movie,Fabio Guaglione,72
+Movie,Fabio Resinaro,72
+Movie,Fabrice Du Welz,64
+Movie,Fabrizio Copano,30
+Movie,Faozan Rizal,42
+Movie,Farah Khan,96
+Movie,Faraz Haider,24
+Movie,Farhan Akhtar,124
+Movie,Farhan Alam,24
+Movie,Farjad Nabi,30
+Movie,Fazila Allana,1
+Movie,Federico D'Alessandro,6
+Movie,Federico Veiroj,189
+Movie,Fedor Lyass,6
+Movie,Felix Chong,21
+Movie,Felix Herngren,14
+Movie,Felix Starck,3
+Movie,Felix Thompson,12
+Movie,Felix Van Groeningen,40
+Movie,Felix van Groeningen,40
+Movie,Fellipe Barbosa,78
+Movie,Femi Oyeniran,44
+Movie,Feng Xiaogang,39
+Movie,Fernando Ayllón,73
+Movie,Fernando Coimbra,24
+Movie,Fernando Colomo,20
+Movie,Fernando Frías De La Parra,15
+Movie,Fernando González Molina,60
+Movie,Fernando Lebrija,12
+Movie,Fernando Meirelles,93
+Movie,Fernando Sariñana,12
+Movie,Feroz,30
+Movie,Filip Renc,40
+Movie,Fisher Stevens,19
+Movie,Florent Bodin,3
+Movie,Florian Gallenberger,150
+Movie,Florian Henckel von Donnersmarck,107
+Movie,Florian Schnell,21
+Movie,Floyd Russ,2
+Movie,Francesco Imperato,2
+Movie,Francis Ford Coppola,40
+Movie,Francis Lee,12
+Movie,Francisco Schultz,1
+Movie,Franck Ekinci,90
+Movie,Franck Phelizon,54
+Movie,Franck Ribière,90
+Movie,Frank Ariza,18
+Movie,Frank Capra,8
+Movie,Frank Coraci,84
+Movie,Frank Miller,17
+Movie,Frank O'Connor,24
+Movie,Frank Oz,66
+Movie,Frank Paur,38
+Movie,Frank Rajah Arase,18
+Movie,Frank W Chen,4
+Movie,Frant Gwo,30
+Movie,Fred Cavayé,48
+Movie,Fred Durst,30
+Movie,Fred M. Wilcox,21
+Movie,Fred Olen Ray,16
+Movie,Frédéric Tonolli,2
+Movie,Fumihiko Sori,33
+Movie,Fuwad Khan,16
+Movie,G.J. Echternkamp,42
+Movie,Gabe Ibáñez,108
+Movie,Gabe Klinger,48
+Movie,Gabe Turner,2
+Movie,Gabriel Clarke,3
+Movie,Gabriel Grieco,36
+Movie,Gabriel Julien-Laferrière,72
+Movie,Gabriel Sabloff,54
+Movie,Gabriela Tagliavini,39
+Movie,Gabriele Muccino,36
+Movie,Gaby Dellal,18
+Movie,Gafoor Y. Elliyaas,18
+Movie,Gail Willumsen,1
+Movie,Gajendra Ahire,84
+Movie,Galley Molina,3
+Movie,Ganesh Kadam,20
+Movie,Gangadhar Salimath,18
+Movie,Gareth Evans,90
+Movie,Gareth Sacala,2
+Movie,Garin Nugroho,6
+Movie,Gary Binkow,2
+Movie,Gary Cohen,8
+Movie,Gary David Goldberg,13
+Movie,Gary Fleder,8
+Movie,Gary Howsam,16
+Movie,Gary Mak,8
+Movie,Gary Michael Schultz,18
+Movie,Gary Shore,28
+Movie,Gary Wang,16
+Movie,Gary Wheeler,24
+Movie,Gary Young,8
+Movie,Gaspar Noé,60
+Movie,Gastón Duprat,90
+Movie,Gaurav Bavdankar,24
+Movie,Gaurav Narayanan,18
+Movie,Gauravv K Chawla,20
+Movie,Gauri Shinde,36
+Movie,Gautier & Leduc,1
+Movie,Gavin Fitzgerald,2
+Movie,Gavin O'Connor,126
+Movie,Gavin Yap,28
+Movie,Gayane Petrosyan,8
+Movie,Gaëtan Brizzi,70
+Movie,Geetu Mohandas,12
+Movie,Genevieve Nnaji,15
+Movie,Genndy Tartakovsky,22
+Movie,Geoff Anderson,10
+Movie,Geoffrey Orthwein,30
+Movie,George C. Wolfe,40
+Movie,George Clooney,48
+Movie,George Mendeluk,7
+Movie,Gerard Barrett,63
+Movie,Gerard McMurray,32
+Movie,Gerardo Olivares,42
+Movie,Gerry Hoban,6
+Movie,Gervasio Iglesias,3
+Movie,Geun-hyun Cho,30
+Movie,Gianfranco Rosi,8
+Movie,Gideon Raff,40
+Movie,Gil Kenan,24
+Movie,Gilbert Chan,18
+Movie,Gilles Paquet-Brenner,108
+Movie,Gillian Armstrong,12
+Movie,Gillian Robespierre,44
+Movie,Girish Joshi,24
+Movie,Girish Malik,24
+Movie,Girish Mohite,24
+Movie,Giulia Clark,1
+Movie,Giulio Base,12
+Movie,Glen Goei,28
+Movie,Glenn Miller,10
+Movie,Golam Kibria Farooki,30
+Movie,Gonzalo Bendala,21
+Movie,Gonzalo López-Gallego,58
+Movie,Gordon Chan,28
+Movie,Gordon Parks,24
+Movie,Gore Verbinski,20
+Movie,Graham Townsley,1
+Movie,Grant Heslov,24
+Movie,Grant Korgan,2
+Movie,Grant S. Johnson,10
+Movie,Grant Sputore,12
+Movie,Greg Coolidge,20
+Movie,Greg MacGillivray,2
+Movie,Greg Mottola,20
+Movie,Greg Pritikin,14
+Movie,Greg Richardson,10
+Movie,Greg Strause,20
+Movie,Greg Whiteley,1
+Movie,Greg Young,1
+Movie,Gregg Bishop,10
+Movie,Gregory Caruso,30
+Movie,Gregory Hoblit,85
+Movie,Griffin Dunne,40
+Movie,Guilherme Fontes,16
+Movie,Guillaume Renard,60
+Movie,Guillermo del Toro,96
+Movie,Gulzar,12
+Movie,Guntur Soeharjanto,27
+Movie,Gupse Özay,16
+Movie,Gurinder Chadha,36
+Movie,Gurmmeet Singh,18
+Movie,Gurudev Bhalla,39
+Movie,Gurvinder Singh,54
+Movie,Gus Van Sant,41
+Movie,Guy Ritchie,84
+Movie,Habib Faisal,16
+Movie,Hadi El Bagoury,45
+Movie,Haifaa Al-Mansour,15
+Movie,Haissam Hussain,20
+Movie,Hajime Kamegaki,69
+Movie,Hakan Algül,131
+Movie,Hakan Yonat,24
+Movie,Halder Gomes,1
+Movie,Ham Tran,18
+Movie,Han Han,21
+Movie,Han Yan,27
+Movie,Hang-Jun Jang,30
+Movie,Hani Hamdi,30
+Movie,Hannah Fidell,27
+Movie,Hannes Stöhr,30
+Movie,Hanno Olderdissen,30
+Movie,Hans Petter Moland,117
+Movie,Hanung Bramantyo,77
+Movie,Haoling Li,48
+Movie,Harald Zwart,40
+Movie,Hari Nath,15
+Movie,Hari Viswanath,14
+Movie,Harjit Singh,16
+Movie,Hark Tsui,36
+Movie,Harmony Korine,60
+Movie,Harold Cronk,30
+Movie,Harrison Smith,16
+Movie,Harry Baweja,3
+Movie,Harry Chaskin,10
+Movie,Harvey Lilley,1
+Movie,Harvey Lowry,29
+Movie,Hasan Aljaberi,24
+Movie,Hasan Karacadağ,48
+Movie,Hashim Nadeem Khan,16
+Movie,Hasraf Dulull,6
+Movie,Hassan Hegazy,24
+Movie,Hatem Khraiche,24
+Movie,Hayao Miyazaki,27
+Movie,Hayden Schlossberg,22
+Movie,Heber Cannon,3
+Movie,Heidi Ewing,9
+Movie,Heidi Saman,22
+Movie,Heitor Dhalia,8
+Movie,Hemant Gaba,24
+Movie,Henrik Martin Dahlsbakken,12
+Movie,Henrik Ruben Genz,88
+Movie,Henry Hathaway,18
+Movie,Henry Sarwer-Foner,8
+Movie,Henry Selick,8
+Movie,Hepi Mita,1
+Movie,Herman Yau,38
+Movie,Hernán Belón,48
+Movie,Hideaki Anno,81
+Movie,Hideki Futamura,24
+Movie,Hidetaka Inazuka,4
+Movie,Hiromasa Yonebayashi,18
+Movie,Hiroshi Aoyama,9
+Movie,Hiroshi Katagiri,36
+Movie,Hiroshi Yamazaki,24
+Movie,Hirotsugu Kawasaki,27
+Movie,Hiroyuki Seshita,108
+Movie,Holger Tappe,12
+Movie,Hong-seon Kim,3
+Movie,Houda Benyamina,36
+Movie,Howard Zieff,10
+Movie,Hoyt Yeatman,32
+Movie,Hrishikesh Mukherjee,111
+Movie,Hsu Chih-yen,12
+Movie,Hua Shan,15
+Movie,Huang Jianming,10
+Movie,Huang Lei,27
+Movie,Hugh Stewart,4
+Movie,Hugh WIlson,15
+Movie,Hugo Stuven,9
+Movie,Hugues Nancy,2
+Movie,Husam El-Gohari,18
+Movie,Huw Cordey,1
+Movie,Hèctor Hernández Vicens,16
+Movie,Iain Softley,90
+Movie,Ian Edelman,20
+Movie,Ian Kirby,16
+Movie,Ian MacAllister-McDonald,16
+Movie,Ian MacNaughton,25
+Movie,Ian Nelms,13
+Movie,Ian Samuels,22
+Movie,Ibai Abad,12
+Movie,Ibrahim Bin Mohamed,48
+Movie,Icíar Bollaín,72
+Movie,Ifa Isfansyah,36
+Movie,Igor Kovalyov,30
+Movie,Ildiko Enyedi,30
+Movie,Iman Brotoseno,12
+Movie,Imtiaz Ali,84
+Movie,Indra Kumar,81
+Movie,Indrajit Nattoji,18
+Movie,Indrasis Acharya,8
+Movie,Ippsie Jones,10
+Movie,Ira Sachs,66
+Movie,Isa Campo,32
+Movie,Isaac Ezban,63
+Movie,Isaac Florentine,36
+Movie,Isaac Rentz,30
+Movie,Isabel Coixet,48
+Movie,Isabelle Nanty,1
+Movie,Isaki Lacuesta,32
+Movie,Isao Yukisada,12
+Movie,Ishaan Trivedi,16
+Movie,Ishaya Bako,6
+Movie,Ishi Rudell,106
+Movie,Ismail Farouk,10
+Movie,Israel Adrián Caetano,97
+Movie,Ivan Ayr,24
+Movie,Ivan Reitman,53
+Movie,Ivan Sen,9
+Movie,Ivona Juka,80
+Movie,Iwao Takamoto,26
+Movie,Iñaki Dorronsoro,16
+Movie,J. Davis,21
+Movie,J. Michael Long,1
+Movie,J.C. Chandor,42
+Movie,J.C. Falcón,32
+Movie,J.D. Dillard,15
+Movie,J.F. Musial,1
+Movie,J.M. Berrios,16
+Movie,Jacek Koprowicz,60
+Movie,Jack C. Newell,8
+Movie,Jack Starrett,10
+Movie,Jack Zagha Kababie,6
+Movie,Jackie van Beek,30
+Movie,Jacob Joice,11
+Movie,Jacob Kornbluth,2
+Movie,Jacob Schwab,2
+Movie,Jacques Cluzaud,40
+Movie,Jacques Perrin,40
+Movie,Jacqui Morris,2
+Movie,Jadesola Osiberu,24
+Movie,Jagdeep Sidhu,30
+Movie,Jaivi Dhanda,24
+Movie,Jake Paltrow,1
+Movie,Jake Szymanski,5
+Movie,Jakob Lass,30
+Movie,Jalil Lespert,102
+Movie,Jamal Hill,8
+Movie,James Barr,7
+Movie,James Brown,8
+Movie,James Dearden,10
+Movie,James Duffy,39
+Movie,James Foley,10
+Movie,James Gunn,39
+Movie,James Ivory,90
+Movie,James L. Brooks,16
+Movie,James Mangold,20
+Movie,James Marsh,48
+Movie,James McTeigue,119
+Movie,James Ponsoldt,46
+Movie,James Rogan,8
+Movie,James Spinney,6
+Movie,James Toback,8
+Movie,James Wan,72
+Movie,James Wong,52
+Movie,James Woodroffe,6
+Movie,James Yukich,17
+Movie,Jami,54
+Movie,Jamie M. Dagg,60
+Movie,Jan Suter,27
+Movie,Jang Jae-hyun,18
+Movie,Jani Lachauer,14
+Movie,Janusz Majewski,57
+Movie,Jared Cohn,24
+Movie,Jared Hess,40
+Movie,Jared Stern,18
+Movie,Jarrad Paul,16
+Movie,Jasbir Bijendra Bhati,24
+Movie,Jasmine D'Souza,24
+Movie,Jason Bourque,18
+Movie,Jason James,21
+Movie,Jason Krawczyk,32
+Movie,Jason Kwan,42
+Movie,Jason Lai,30
+Movie,Jason Moore,33
+Movie,Jason Paul Laxamana,27
+Movie,Jason Priestley,18
+Movie,Jason Reitman,60
+Movie,Jason Stone,14
+Movie,Jason Sussberg,5
+Movie,Jason Winer,20
+Movie,Jathin Sanker Raj,16
+Movie,Jatla Siddartha,18
+Movie,Javier Ambrossi,33
+Movie,Javier Calvo,33
+Movie,Javier Ruiz Caldera,57
+Movie,Jay Baruchel,30
+Movie,Jay Chandrasekhar,20
+Movie,Jay Chapman,18
+Movie,Jay Chou,42
+Movie,Jay Karas,15
+Movie,Jay Roach,71
+Movie,Jay Russell,30
+Movie,Jay Surridge,9
+Movie,Jayan Vannery,6
+Movie,Jayaprakash Radhakrishnan,12
+Movie,Jayaraj Rajasekharan Nair,10
+Movie,Jayson Thiessen,52
+Movie,Jazz Boon,66
+Movie,Jean-Bernard Marlin,24
+Movie,Jean-Claude La Marre,10
+Movie,Jean-François Blais,1
+Movie,Jean-Loup Felicioli,66
+Movie,Jean-Marc Vallée,30
+Movie,Jean-Patrick Benes,24
+Movie,Jean-Pierre Dardenne,32
+Movie,Jeannie Gaffigan,1
+Movie,Jeannot Szwarc,16
+Movie,Jedd Wider,1
+Movie,Jee-woon Kim,24
+Movie,Jeeva,30
+Movie,Jeff Baena,83
+Movie,Jeff Garlin,10
+Movie,Jeff Gill,9
+Movie,Jeff Margolis,1
+Movie,Jeff Tremaine,28
+Movie,Jeff Wadlow,26
+Movie,Jeffrey G. Hunt,11
+Movie,Jeffrey Nachmanoff,28
+Movie,Jeffrey W. Byrd,40
+Movie,Jeffrey Walker,56
+Movie,Jehane Noujaim,90
+Movie,Jelle de Jonge,14
+Movie,Jenna Laurenzo,16
+Movie,Jennifer Baichwal,18
+Movie,Jennifer Beamish,1
+Movie,Jennifer Brea,6
+Movie,Jennifer Kaytin Robinson,24
+Movie,Jennifer Lee,15
+Movie,Jennifer Lynch,60
+Movie,Jennifer M. Kroot,16
+Movie,Jennifer Morrison,72
+Movie,Jennifer Phang,30
+Movie,Jennifer Westcott,6
+Movie,Jenny Carchman,1
+Movie,Jenny Gage,22
+Movie,Jenée LaMarque,15
+Movie,Jeremiah Jones,16
+Movie,Jeremiah Zagar,20
+Movie,Jeremy David White,22
+Movie,Jeremy Kenyon Lockyer Corbell,1
+Movie,Jeremy Konner,8
+Movie,Jeremy Rush,7
+Movie,Jeremy Saulnier,111
+Movie,Jerrold Tarog,54
+Movie,Jerry G. Angelo,12
+Movie,Jerry Seinfeld,1
+Movie,Jesse Allain-Marcus,12
+Movie,Jesse Gustafson,8
+Movie,Jesse Handsher,2
+Movie,Jesse Johnson,54
+Movie,Jesse Peretz,33
+Movie,Jesse V. Johnson,106
+Movie,Jessica Yu,1
+Movie,Jesús Magaña Vázquez,30
+Movie,Jesús Torres Torres,26
+Movie,Jevons Au,9
+Movie,Jill Culton,20
+Movie,Jim Fall,30
+Movie,Jim Field Smith,22
+Movie,Jim Gable,1
+Movie,Jim Henson,18
+Movie,Jim Mickle,18
+Movie,Jim Monaco,20
+Movie,Jim Stenstrum,9
+Movie,Jim Strouse,30
+Movie,Jimmy Henderson,14
+Movie,Jitender Pawar,14
+Movie,Jitendra Tiwari,16
+Movie,Joachim Rønning,150
+Movie,Joan C. Gratz,70
+Movie,Joann Sfar,70
+Movie,Joanna Lombardi,18
+Movie,Joaquín Mazón,24
+Movie,Jocelyn Moorhouse,40
+Movie,Jody Hill,15
+Movie,Jody Lambert,20
+Movie,Joe Berlinger,23
+Movie,Joe Boyd,6
+Movie,Joe Camp,39
+Movie,Joe Dante,33
+Movie,Joe DeMaio,1
+Movie,Joe Dietsch,20
+Movie,Joe Johnston,15
+Movie,Joe Ksander,54
+Movie,Joe Lynch,14
+Movie,Joe Menendez,5
+Movie,Joe Miale,20
+Movie,Joe Murray,18
+Movie,Joe Roth,20
+Movie,Joe Russo,56
+Movie,Joe Swanberg,15
+Movie,Joel Coen,84
+Movie,Joel Crawford,30
+Movie,Joel Oliansky,8
+Movie,Joel Schumacher,54
+Movie,Joey Curtis,33
+Movie,Joey Kern,8
+Movie,Johan Brisinger,21
+Movie,Johannes Roberts,54
+Movie,John A. Davis,36
+Movie,John Asher,20
+Movie,John Banas,9
+Movie,John Barnard,36
+Movie,John Butler,33
+Movie,John Carchietta,18
+Movie,John Crowley,44
+Movie,John Curran,18
+Movie,John Dahl,70
+Movie,John Dower,1
+Movie,John Duigan,34
+Movie,John Erick Dowdle,20
+Movie,John Ford,4
+Movie,John Fortenberry,22
+Movie,John G. Avildsen,43
+Movie,John H. Lee,18
+Movie,John Herzfeld,8
+Movie,John Hillcoat,11
+Movie,John Hughes,36
+Movie,John Huston,6
+Movie,John Irvin,28
+Movie,John Kahrs,15
+Movie,John L. Spencer,1
+Movie,John Lee,33
+Movie,John Lee Hancock,152
+Movie,John Luessenhop,12
+Movie,John Lyde,10
+Movie,John Maclean,48
+Movie,John Michael McDonagh,18
+Movie,John Mikulak,4
+Movie,John Milius,20
+Movie,John Murlowski,30
+Movie,John Musker,39
+Movie,John Papola,1
+Movie,John Patrick Shanley,20
+Movie,John Paul Tremblay,44
+Movie,John R. Leonetti,16
+Movie,John Sanford,12
+Movie,John Scheinfeld,20
+Movie,John Schlesinger,20
+Movie,John Schultz,66
+Movie,John Stephenson,32
+Movie,John Stewart Muller,16
+Movie,John Stockwell,21
+Movie,John Sturges,4
+Movie,John Trengove,120
+Movie,John Upchurch,6
+Movie,John Voorhees,48
+Movie,John Wells,20
+Movie,John Woo,28
+Movie,Johnnie To,209
+Movie,Johnny Castuciano,16
+Movie,Johnny Kevorkian,14
+Movie,Johnny To,18
+Movie,Johnson Esthappan,8
+Movie,Jon Avnet,16
+Movie,Jon Carey,6
+Movie,Jon Freeman,2
+Movie,Jon Garaño,12
+Movie,Jon Gunn,12
+Movie,Jon Hurwitz,22
+Movie,Jon J. Whelan,1
+Movie,Jon Lucas,11
+Movie,Jon M. Chu,15
+Movie,Jon Olb,1
+Movie,Jon Rosenbaum,28
+Movie,Jon Spira,10
+Movie,Jon Turteltaub,14
+Movie,Jon Watts,8
+Movie,Jon YonKondy,20
+Movie,Jonathan A. Rosenbaum,16
+Movie,Jonathan Baker,14
+Movie,Jonathan Demme,53
+Movie,Jonathan Glazer,99
+Movie,Jonathan Helpert,6
+Movie,Jonathan Hensleigh,57
+Movie,Jonathan Levine,42
+Movie,Jonathan Milott,14
+Movie,Jonathan Mostow,90
+Movie,Jonathan Sobol,54
+Movie,Jonathan Taylor,1
+Movie,Jonathan van Tulleken,39
+Movie,Jonás Trueba,15
+Movie,Joram Lürsen,34
+Movie,Jordan Brady,3
+Movie,Jordan Ross,16
+Movie,Jordi Llompart,18
+Movie,Jorge Blanco,90
+Movie,Jorge Hernandez Aldana,22
+Movie,Jorge M. Fontana,18
+Movie,Jorge Michel Grau,12
+Movie,Joris Ivens,4
+Movie,Joseduardo Giordano,24
+Movie,Joseph Chou,24
+Movie,Joseph Martin,24
+Movie,Joseph Mbah,24
+Movie,Joseph Sargent,10
+Movie,Josh Alexander,1
+Movie,Josh Greenbaum,30
+Movie,Josh Koury,1
+Movie,Josh Lowell,8
+Movie,Josh Mendoza,20
+Movie,Josh Vietze,1
+Movie,Josh Wakely,20
+Movie,Josh Webber,20
+Movie,Joshua Brown,4
+Movie,Joshua Caldwell,27
+Movie,Joshua Marston,24
+Movie,José Eduardo Belmonte,18
+Movie,José Luis Gutiérrez,12
+Movie,José Ortuño,24
+Movie,Jota Linares,22
+Movie,Jovanka Vuckovic,24
+Movie,Joyce Bernal,63
+Movie,Juan Antin,15
+Movie,Juan Antonio de la Riva,28
+Movie,Juan Carlos Rulfo,3
+Movie,Juan Pablo Buscarini,66
+Movie,Juan Zapata,72
+Movie,Juani Libonatti,1
+Movie,Judah Friedlander,1
+Movie,Julia Hart,12
+Movie,Julian Jarrold,28
+Movie,Julie Dash,60
+Movie,Julie Taymor,48
+Movie,Julien Abraham,21
+Movie,Julien Christian Lutz,22
+Movie,Julien Leclercq,20
+Movie,Julien Rambaldi,21
+Movie,Julien Seri,8
+Movie,Julio Medem,33
+Movie,Julio Soto Gurpide,72
+Movie,Julius Avery,72
+Movie,Julius Onah,20
+Movie,Julius R. Nasso,16
+Movie,July Hygreck,21
+Movie,Jun Falkenstein,9
+Movie,Jun Lana,8
+Movie,Jun-seong Kim,18
+Movie,Jung Ji-woo,24
+Movie,Jung-woo Park,30
+Movie,Justin Bare,1
+Movie,Justin Benson,18
+Movie,Justin Chon,16
+Movie,Justin G. Dyck,55
+Movie,Justin Kelly,20
+Movie,Justin Krook,2
+Movie,Justin McConnell,21
+Movie,Jérémy Clapin,18
+Movie,Jørgen Lerdam,6
+Movie,K. Gopinathan,14
+Movie,K. Rajagopal,36
+Movie,K. Ramanlal,18
+Movie,K. Subhash,30
+Movie,K.C. Bokadia,24
+Movie,KVR Mahendra,9
+Movie,Kabir Bhatia,39
+Movie,Kabir Khan,12
+Movie,Kabir Sadanand,39
+Movie,Kader Aoun,1
+Movie,Kagiso Lediga,12
+Movie,Kaila York,16
+Movie,Kaizad Gustad,30
+Movie,Kalvadour Peterson,24
+Movie,Kamal Sahani,30
+Movie,Kang Cheng,12
+Movie,Kanwal Sethi,54
+Movie,Karan Anshuman,24
+Movie,Karan Johar,81
+Movie,Karan Shivajirao Chavan,24
+Movie,Karen J. Lloyd,24
+Movie,Karen Moncrieff,22
+Movie,Karey Kirkpatrick,72
+Movie,Karim El Sobky,26
+Movie,Karl Mueller,20
+Movie,Karthik Subbaraj,36
+Movie,Karyn Kusama,82
+Movie,Kasia Uscinska,4
+Movie,Kaspar Astrup Schröder,1
+Movie,Kasper Barfoed,60
+Movie,Kasra Farahani,27
+Movie,Katarina Launing,72
+Movie,Kate Horne,2
+Movie,Kate Melville,20
+Movie,Katherine Brooks,24
+Movie,Katherine Dieckmann,14
+Movie,Katherine Fairfax Wright,3
+Movie,Kathleen Hepburn,40
+Movie,Kathryn Bigelow,80
+Movie,Katia Lund,81
+Movie,Kavi Raz,60
+Movie,Kazuaki Kiriya,18
+Movie,Kazuchika Kise,90
+Movie,Kazumi Fukushima,9
+Movie,Kazuya Tsurumaki,42
+Movie,Keanu Reeves,48
+Movie,Kedar Shinde,21
+Movie,Keegan Kuhn,1
+Movie,Keenen Ivory Wayans,32
+Movie,Keerthi,24
+Movie,Kees Van Oostrum,24
+Movie,Keiichi Hara,16
+Movie,Keiichi Sato,42
+Movie,Keith L. Smith,9
+Movie,Keith Scholey,2
+Movie,Kelly Duane de la Vega,2
+Movie,Kelly Fremon Craig,24
+Movie,Kelly Noonan,8
+Movie,Kelly Reichardt,24
+Movie,Kemi Adetiba,43
+Movie,Ken Barbet,16
+Movie,Ken Burns,3
+Movie,Ken Ghosh,24
+Movie,Ken Hughes,90
+Movie,Ken Kushner,24
+Movie,Ken Kwapis,40
+Movie,Ken Loach,48
+Movie,Ken Marino,26
+Movie,Kenneth Müller,12
+Movie,Kenny Leon,4
+Movie,Kenny Young,28
+Movie,Keoni Waxman,20
+Movie,Kepa Sojo,28
+Movie,Kery James,8
+Movie,Ketan Mehta,127
+Movie,Ketche,24
+Movie,Kevin Booth,1
+Movie,Kevin Bray,1
+Movie,Kevin Derek,8
+Movie,Kevin Deters,15
+Movie,Kevin Donovan,18
+Movie,Kevin Kolsch,28
+Movie,Kevin Layne,2
+Movie,Kevin Lima,9
+Movie,Kevin MacDonald,91
+Movie,Kevin Munroe,44
+Movie,Kevin Peeples,18
+Movie,Kevin Phillips,24
+Movie,Kevin R. Adams,54
+Movie,Kevin Reynolds,5
+Movie,Kevin Smith,154
+Movie,Khaled El Halafawy,28
+Movie,Khaled Marei,40
+Movie,Khaled Youssef,10
+Movie,Khalid Kashogi,24
+Movie,Khalid Mohamed,30
+Movie,Kheiron,54
+Movie,Kieran Darcy-Smith,7
+Movie,Kike Maíllo,21
+Movie,Kiko Mistrorigo,3
+Movie,Kim Jee-woon,33
+Movie,Kim Joo-hyung,1
+Movie,Kim Nguyen,12
+Movie,Kim Sung-hoon,30
+Movie,Kimo Stamboel,18
+Movie,Kip Andersen,1
+Movie,Kiran Rao,20
+Movie,Kirati Nakintanon,12
+Movie,Kireet Khurana,2
+Movie,Kleber Mendonça Filho,32
+Movie,Kobun Shizuno,78
+Movie,Koichi Mashimo,24
+Movie,Koichi Sakamoto,8
+Movie,Koji Sawai,24
+Movie,Kookie V. Gulati,42
+Movie,Kranti Kanade,18
+Movie,Kranti Redkar,15
+Movie,Krish,24
+Movie,Krishna D.K.,30
+Movie,Krishna Vamshi,30
+Movie,Krishnendu Chattopadhyay,30
+Movie,Kristian Levring,150
+Movie,Kristin Hanggi,21
+Movie,Kristina Goolsby,2
+Movie,Krzysztof Zanussi,24
+Movie,Ksshitij Chaudhary,51
+Movie,Kubilay Sarikaya,30
+Movie,Kunal Deshmukh,21
+Movie,Kunal Kohli,32
+Movie,Kundan Shah,96
+Movie,Kunihiko Yuyama,14
+Movie,Kunle Afolayan,173
+Movie,Kuntz Agus,30
+Movie,Kurt Voelker,14
+Movie,Kurt Wimmer,24
+Movie,Kushal Srivastava,24
+Movie,Kyle Newacheck,36
+Movie,Kyle Newman,28
+Movie,Kyle Patrick Alvarez,30
+Movie,Kyle Rankin,20
+Movie,Kyle Rideout,20
+Movie,Kyran Kelly,7
+Movie,Kyzza Terrazas,54
+Movie,Kıvanç Baruönü,95
+Movie,L. Frazier,1
+Movie,Ladislas Chollat,36
+Movie,Lana Wachowski,226
+Movie,Lance Bangs,7
+Movie,Larry Elikann,12
+Movie,Larry Latham,24
+Movie,Lars Büchel,20
+Movie,Lars von Trier,336
+Movie,Lasse Hallström,93
+Movie,Latif Faiziyev,132
+Movie,Laura Alvea,24
+Movie,Laura VanZee Taylor,1
+Movie,Lauren Hoekstra,22
+Movie,Lauren MacMullan,15
+Movie,Lauren Miller Rogen,20
+Movie,Laurent Cantet,20
+Movie,Law Wing-cheong,48
+Movie,Lawrence Cheng,27
+Movie,Lawrence Kasdan,13
+Movie,Laxman Utekar,21
+Movie,Le Van Kiet,15
+Movie,Lea Glob,150
+Movie,Leandro Mark,18
+Movie,Leanne Gater,1
+Movie,Lee Chang-dong,18
+Movie,Lee Jeong-beom,30
+Movie,Lee Seung-won,18
+Movie,Lee Tamahori,93
+Movie,Leena Yadav,75
+Movie,Leif Tilden,24
+Movie,Lekh Tandon,84
+Movie,Lena Khan,27
+Movie,Lenin Bharathi,18
+Movie,Lennart Ruff,108
+Movie,Lenny Abrahamson,80
+Movie,Leo Riley,26
+Movie,Leopoldo Aguilar,14
+Movie,Les Mayfield,16
+Movie,Lesli Linka Glatter,12
+Movie,Leslie Iwerks,1
+Movie,Leslie Small,36
+Movie,Leslye Headland,21
+Movie,Leung Lok Man,48
+Movie,Lev L. Spiro,11
+Movie,Levan Tsikurishvili,6
+Movie,Lewis Milestone,45
+Movie,Leïla Sy,8
+Movie,Li Jun,12
+Movie,Li Pei-Chuan,12
+Movie,Liam Lynch,1
+Movie,Liam O'Donnell,108
+Movie,Lijo Jose Pellissery,33
+Movie,Lilibet Foster,2
+Movie,Lilly Wachowski,226
+Movie,Linas Phillips,27
+Movie,Linda Mendoza,3
+Movie,Linda Otto,3
+Movie,Linda Saffire,14
+Movie,Lionel C. Martin,11
+Movie,Lisa Arnold,21
+Movie,Liu Jiang,12
+Movie,Liu Jie,14
+Movie,Liv Ullmann,32
+Movie,Liz Plonka,1
+Movie,Llewellyn M. Smith,1
+Movie,Logan Kibens,30
+Movie,Lone Scherfig,62
+Movie,Lonny Price,5
+Movie,Lorene Machado,1
+Movie,Lori Kaye,14
+Movie,Lotje Sodderland,4
+Movie,Louie Gibson,20
+Movie,Louie Psihoyos,26
+Movie,Louis J. Horvitz,16
+Movie,Louis Leterrier,54
+Movie,Louise Alston,20
+Movie,Louise Wardle,4
+Movie,Lu Yang,12
+Movie,Luc Dardenne,32
+Movie,Luc Vinciguerra,50
+Movie,Lucas Figueroa,28
+Movie,Lucien Jean-Baptiste,36
+Movie,Lucky Kuswandi,21
+Movie,Lucky McKee,7
+Movie,Lucy van Beek,1
+Movie,Ludovic Bernard,18
+Movie,Luis Estrada,24
+Movie,Luis Javier Henaine,30
+Movie,Luis Javier M. Henaine,18
+Movie,Luis Prieto,9
+Movie,Luis Valdez,30
+Movie,Luk Kim-ching,48
+Movie,Lukas Dhont,60
+Movie,Luke Jurevicius,2
+Movie,Luke Kenny,8
+Movie,Luke Radford,10
+Movie,Luke Snellin,45
+Movie,Luke Sparke,24
+Movie,Luv Ranjan,36
+Movie,Lydia Tenaglia,8
+Movie,Lygia Barbosa da Silva,3
+Movie,Lynn Shelton,76
+Movie,Lô Politi,22
+Movie,M. Night Shyamalan,20
+Movie,M.J. Bassett,24
+Movie,M.S. Prem Nath,16
+Movie,Maciej Dejczer,60
+Movie,Maclain Way,4
+Movie,Macon Blair,24
+Movie,Madeleine Parry,1
+Movie,Madeleine Sami,30
+Movie,Madhur Bhandarkar,96
+Movie,Mads Matthiesen,21
+Movie,Mae Czarina Cruz,91
+Movie,Mag Hsu,12
+Movie,Magdy Al-Hawwary,20
+Movie,Mahesh Bhatt,21
+Movie,Mahesh Manjrekar,62
+Movie,Mahin Ibrahim,20
+Movie,Mahmood Farooqui,30
+Movie,Mahmoud Karim,30
+Movie,Mahmoud Sabbagh,15
+Movie,Mahmoud al Massad,54
+Movie,Mahmudul Islam,30
+Movie,Mahsun Kırmızıgül,52
+Movie,Majid Al Ansari,36
+Movie,Majid Majidi,48
+Movie,Makarand Mane,20
+Movie,Makoto Shinkai,30
+Movie,Malik Bendjelloul,9
+Movie,Malik Vitthal,7
+Movie,Mamat Khalid,24
+Movie,Mamoru Oshii,24
+Movie,Manav Shah,30
+Movie,Manbhavan Singh,12
+Movie,Mandeep Kumar,24
+Movie,Mandie Fletcher,4
+Movie,Mandla Dube,12
+Movie,Mangesh Hadawale,16
+Movie,Mangesh Kanthale,24
+Movie,Mani Ratnam,69
+Movie,Manika Sharma,18
+Movie,Manish Gupta,16
+Movie,Manish Jha,42
+Movie,Manish Tiwary,39
+Movie,Manjeet Maan,27
+Movie,Manjeet Singh,18
+Movie,Manmohan Desai,24
+Movie,Manny Rodriguez,4
+Movie,Manoj Beedha,30
+Movie,Manop Janjarasskul,12
+Movie,Mansore,24
+Movie,Manu Ashokan,16
+Movie,Manuel Martín Cuenca,42
+Movie,Manussa Vorasingha,16
+Movie,Mar Targarona,52
+Movie,Marc Abraham,22
+Movie,Marc Forster,24
+Movie,Marc Francis,2
+Movie,Marc Levin,2
+Movie,Marcel Barrena,60
+Movie,Marcelo Galvão,53
+Movie,Marcelo González,30
+Movie,Marco Bonfanti,30
+Movie,Marco Deufemia,18
+Movie,Marco Dutra,22
+Movie,Marco Risi,14
+Movie,Marco Schnabel,54
+Movie,Marcos Bucay,19
+Movie,Marcus Nispel,11
+Movie,Marcus Raboy,13
+Movie,Marek Kanievska,120
+Movie,Marek Piwowski,24
+Movie,Maria Burton,14
+Movie,Maria Pulera,6
+Movie,Maria Ripoll,60
+Movie,Maria Sadowska,18
+Movie,Marianna Palka,36
+Movie,Mariano Baez,1
+Movie,Mariano Cohn,50
+Movie,Marie Madinier,42
+Movie,Marina Seresesky,24
+Movie,Marina Willer,2
+Movie,Mario Cambi,36
+Movie,Mario Miscione,54
+Movie,Mario Rouleau,1
+Movie,Mario Van Peebles,10
+Movie,Maris Curran,12
+Movie,Marita Grabiak,32
+Movie,Marja Lewis Ryan,18
+Movie,Mark A.Z. Dippé,96
+Movie,Mark Columbus,22
+Movie,Mark Craig,1
+Movie,Mark Dennis,20
+Movie,Mark Dindal,26
+Movie,Mark Franchetti,2
+Movie,Mark Harris,9
+Movie,Mark Helfrich,60
+Movie,Mark Henn,15
+Movie,Mark Herman,60
+Movie,Mark Landre Gould,4
+Movie,Mark Murphy,9
+Movie,Mark O'Connor,20
+Movie,Mark Osborne,12
+Movie,Mark Palansky,30
+Movie,Mark Raso,12
+Movie,Mark Risley,24
+Movie,Mark Ritchie,2
+Movie,Mark Rosman,60
+Movie,Mark Steven Johnson,40
+Movie,Mark Waters,9
+Movie,Mark Williams,16
+Movie,Mark Zwonitzer,1
+Movie,Marti Noxon,18
+Movie,Martin Campbell,90
+Movie,Martin Gorst,1
+Movie,Martin Hodara,36
+Movie,Martin Rosete,12
+Movie,Martin Scorsese,230
+Movie,Martin Zandvliet,18
+Movie,Marty Callner,1
+Movie,Mary Harron,72
+Movie,Mary Mazzio,1
+Movie,Maryo J. De los Reyes,63
+Movie,María Jose Cuevas,10
+Movie,Masahiko Murata,129
+Movie,Massy Tadjedin,54
+Movie,Mastan Alibhai Burmawalla,100
+Movie,Mat Whitecross,15
+Movie,Mateo Gil,24
+Movie,Matheus Souza,33
+Movie,Mathias Malzieu,40
+Movie,Mathieu Auvray,6
+Movie,Mathieu Kassovitz,64
+Movie,Mati Diop,81
+Movie,Matt Angel,16
+Movie,Matt Askem,6
+Movie,Matt Bell,2
+Movie,Matt D'Avella,2
+Movie,Matt Kay,3
+Movie,Matt Kugelman,66
+Movie,Matt Palmer,15
+Movie,Matt Piedmont,16
+Movie,Matt Reeves,30
+Movie,Matt Shakman,14
+Movie,Matt Toronto,20
+Movie,Matthew Atkinson,12
+Movie,Matthew Cooke,1
+Movie,Matthew Hope,8
+Movie,Matthew McNeil,1
+Movie,Matthew Miele,1
+Movie,Matthew Robinson,20
+Movie,Matthew Vaughn,33
+Movie,Matthias Hoene,72
+Movie,Matías Bize,64
+Movie,Matías Gueilburt,4
+Movie,Mauro Scandolari,22
+Movie,Max Amini,1
+Movie,Max Lang,14
+Movie,Max Martini,10
+Movie,Max McGill,10
+Movie,Max Pugh,2
+Movie,Maximilian Erlenwein,16
+Movie,Maya Forbes,18
+Movie,McG,241
+Movie,Meenu Gaur,30
+Movie,Meghan O'Hara,1
+Movie,Meghna Gulzar,18
+Movie,Meisa Felaroze,15
+Movie,Mel Smith,64
+Movie,Mel Stuart,90
+Movie,Meltem Bozoflu,16
+Movie,Meng Hua Ho,15
+Movie,Mez Tharatorn,75
+Movie,Micah Bickham,3
+Movie,Michael A. Nickles,12
+Movie,Michael Anderson,27
+Movie,Michael Apted,18
+Movie,Michael Barnett,6
+Movie,Michael Barrett,40
+Movie,Michael Bay,62
+Movie,Michael Blieden,2
+Movie,Michael Bonfiglio,1
+Movie,Michael Buster,20
+Movie,Michael Carney,10
+Movie,Michael Civille,10
+Movie,Michael Cuesta,24
+Movie,Michael Curtiz,27
+Movie,Michael D. Black,26
+Movie,Michael Del Monte,2
+Movie,Michael Doneger,27
+Movie,Michael Dowse,80
+Movie,Michael Drumm,2
+Movie,Michael Epstein,4
+Movie,Michael Feifer,10
+Movie,Michael G. Kehoe,10
+Movie,Michael Gallagher,12
+Movie,Michael Goguen,20
+Movie,Michael J. Bassett,80
+Movie,Michael James Regan,11
+Movie,Michael John Warren,2
+Movie,Michael Kampa,16
+Movie,Michael Kennedy,16
+Movie,Michael Larnell,6
+Movie,Michael Lennox,12
+Movie,Michael Mason,16
+Movie,Michael McKay,2
+Movie,Michael Paul Stephenson,36
+Movie,Michael Petroni,64
+Movie,Michael Pitiot,2
+Movie,Michael Polish,11
+Movie,Michael Pressman,40
+Movie,Michael Radford,24
+Movie,Michael Roberts,24
+Movie,Michael Seater,20
+Movie,Michael Showalter,1
+Movie,Michael Simon,6
+Movie,Michael Socha,70
+Movie,Michael Steiner,24
+Movie,Michael Thelin,12
+Movie,Michael Tiddes,30
+Movie,Michael Ware,4
+Movie,Michael Whitton,22
+Movie,Michael Winnick,10
+Movie,Michael Winterbottom,5
+Movie,Michelle Caputo,1
+Movie,Michelle Johnston,24
+Movie,Michèle Ohayon,2
+Movie,Mickey Liddell,22
+Movie,Midhun Manuel Thomas,18
+Movie,Miguel Arteta,30
+Movie,Miguel Cohan,96
+Movie,Miguel Ángel Lamata,12
+Movie,Miguel Ángel Vivas,30
+Movie,Mijke de Jong,80
+Movie,Mike Binder,2
+Movie,Mike Birbiglia,25
+Movie,Mike Clattenburg,83
+Movie,Mike Disa,28
+Movie,Mike Fetterly,7
+Movie,Mike Flanagan,34
+Movie,Mike Fleiss,2
+Movie,Mike Gabriel,15
+Movie,Mike Gunther,10
+Movie,Mike Judge,22
+Movie,Mike Mills,10
+Movie,Mike Myhre,8
+Movie,Mike Newell,111
+Movie,Mike Nicoll,4
+Movie,Mike Rossiter,1
+Movie,Mike Smith,44
+Movie,Mike Wiluan,36
+Movie,Mikhail Red,109
+Movie,Mikhil Musale,55
+Movie,Milan Luthria,95
+Movie,Milind Dhaimade,24
+Movie,Milind Rau,18
+Movie,Milla Harrison-Hansley,1
+Movie,Mimi Leder,10
+Movie,Mina Shum,9
+Movie,Mir Mukarram Hossain,30
+Movie,Mir-Jean Bou Chaaya,48
+Movie,Mitch Gould,24
+Movie,Mitch Schauer,44
+Movie,Mitzi Vanessa Arreola,36
+Movie,Mohamed Diab,66
+Movie,Mohamed Hamdy,29
+Movie,Mohamed Mostafa,6
+Movie,Mohamed Samy,33
+Movie,Mohammed El-Tahawy,6
+Movie,Mohammed Hussain,12
+Movie,Mohammed Saeed Harib,70
+Movie,Mohd Khairul Azri Bin Md Noor,16
+Movie,Mohit Suri,21
+Movie,Mohsin Ali,16
+Movie,Moinak Biswas,2
+Movie,Monika Mitchell,24
+Movie,Monique Gardenberg,33
+Movie,Monière,20
+Movie,Morgan Neville,32
+Movie,Morgan Pehme,1
+Movie,Morgan Spurlock,10
+Movie,Moses Inwang,27
+Movie,Mozez Singh,24
+Movie,Mu Chu,10
+Movie,Muh Chen,12
+Movie,Muharrem Gülmez,20
+Movie,Mukesh Vohra,30
+Movie,Mukul Anand,45
+Movie,Munish Bhardwaj,18
+Movie,Myles Kane,1
+Movie,Myriam Aziza,24
+Movie,Mysskin,14
+Movie,Måns Herngren,14
+Movie,Måns Mårlind,20
+Movie,N. Chandra,51
+Movie,N. Linguswamy,39
+Movie,N.D. Wilson,12
+Movie,Na Hyeon,24
+Movie,Nabil Ayouch,48
+Movie,Nacho G. Velilla,20
+Movie,Nagesh Kukunoor,88
+Movie,Nagraj Manjule,45
+Movie,Nahnatchka Khan,20
+Movie,Nalan Kumarasamy,24
+Movie,Nam Ron,20
+Movie,Nana Ekvtimishvili,81
+Movie,Nancy Meyers,16
+Movie,Nandita Das,9
+Movie,Naoko Yamada,27
+Movie,Naresh Saigal,12
+Movie,Natalia Garagiola,36
+Movie,Natalia Valdebenito,1
+Movie,Natalie Portman,40
+Movie,Nate Adams,2
+Movie,Nathan Greno,15
+Movie,Nathan Ives,10
+Movie,Nathan Morlando,24
+Movie,Nathanael Wiseman,16
+Movie,Nathaniel Warsh,16
+Movie,Nattawut Poonpiriya,20
+Movie,Navaniat Singh,84
+Movie,Navinder Pal Singh,30
+Movie,Navneet Behal,24
+Movie,Neal Brennan,17
+Movie,Neeraj Pandey,90
+Movie,Neil Armfield,24
+Movie,Neil Burger,30
+Movie,Neil Jordan,110
+Movie,Neil Triffett,30
+Movie,Neill Blomkamp,160
+Movie,Nekfeu,3
+Movie,Ng Ka-Leung,9
+Movie,Nia Dinata,39
+Movie,Nic Mathieu,40
+Movie,Nicanor Loreti,24
+Movie,Nicholas Hytner,10
+Movie,Nicholas Kharkongor,24
+Movie,Nicholas McCarthy,28
+Movie,Nicholas Ray,20
+Movie,Nicholas Stoller,20
+Movie,Nicholas Winter,30
+Movie,Nicholas de Pencier,18
+Movie,Nicholaus Goossen,1
+Movie,Nick Broomfield,6
+Movie,Nick Cassavetes,10
+Movie,Nick Davis,2
+Movie,Nick Gomez,12
+Movie,Nick Mead,2
+Movie,Nick Moore,60
+Movie,Nick Simon,9
+Movie,Nicky Slimting Walker,20
+Movie,Nicolas Brossette,18
+Movie,Nicolas Pesce,14
+Movie,Nicolas Winding Refn,174
+Movie,Nicole Conn,33
+Movie,Nicole Holofcener,27
+Movie,Nicolás López,73
+Movie,Nicolás Silbert,18
+Movie,Nidhi Sharma,24
+Movie,Nik Amir Mustapha,16
+Movie,Nikhil Advani,54
+Movie,Nikhil Nagesh Bhat,21
+Movie,Nikon,12
+Movie,Nila Madhab Panda,63
+Movie,Nina Paley,70
+Movie,Nirpal Bhogal,10
+Movie,Nishanth Ravindaran,16
+Movie,Nisheeta Keni,16
+Movie,Nishikant Kamat,77
+Movie,Nishil Sheth,24
+Movie,Nitesh Tiwari,57
+Movie,Niyi Akinmolayan,92
+Movie,Noah Baumbach,242
+Movie,Noam Murro,30
+Movie,Nobuyuki Takeuchi,28
+Movie,Nonzee Nimibutr,6
+Movie,Noor Imran Mithu,15
+Movie,Nora Ephron,18
+Movie,Nora Twomey,96
+Movie,Norberto López Amado,18
+Movie,Noriyuki Abe,111
+Movie,Norman Jewison,22
+Movie,Norton Virgien,30
+Movie,Note Chern-Yim,51
+Movie,Nottapon Boonprakob,3
+Movie,Noushad,30
+Movie,Noël Wells,14
+Movie,Nuel Naval,24
+Movie,Nuhash Humayun,30
+Movie,Numa Perrier,24
+Movie,Nzingha Stewart,30
+Movie,Néstor Sánchez Sotelo,24
+Movie,Oded Raz,8
+Movie,Ofir Raul Graizer,48
+Movie,Ola Flyum,2
+Movie,Olaf de Fleur,12
+Movie,Ole Bornedal,24
+Movie,Oliver Blackburn,9
+Movie,Oliver Daly,36
+Movie,Oliver Frampton,5
+Movie,Oliver Schmitz,42
+Movie,Oliver Stone,26
+Movie,Oliver Twinch,2
+Movie,Olivia M. Lamasan,54
+Movie,Olivia Milch,30
+Movie,Olivia Newman,21
+Movie,Olivier Afonso,72
+Movie,Olivier Assayas,168
+Movie,Olivier Loustau,24
+Movie,Olivier Marchal,48
+Movie,Olivier Roland,2
+Movie,Olly Reid,9
+Movie,Omoni Oboli,105
+Movie,Omung Kumar,27
+Movie,Onir,105
+Movie,Onur Bilgetay,30
+Movie,Onur Tukel,20
+Movie,Oren Peli,14
+Movie,Oren Uziel,66
+Movie,Oriol Paulo,36
+Movie,Orson Welles,90
+Movie,Osgood Perkins,84
+Movie,Oskar Santos,22
+Movie,Osman Ali,21
+Movie,Ossama Abu El Atta,12
+Movie,Owen Egerton,10
+Movie,Oz Rodriguez,1
+Movie,Ozan Açıktan,84
+Movie,P.K. Baaburaaj,8
+Movie,P.T. Kunju Muhammad,16
+Movie,Pa. Ranjith,30
+Movie,Paakhi Tyrewala,48
+Movie,Pablo D'Alo Abba,30
+Movie,Pablo Giorgelli,18
+Movie,Pablo Larraín,80
+Movie,Pablo Parés,21
+Movie,Paco Plaza,48
+Movie,Padmakumar Narasimhamurthy,11
+Movie,Pamela Romanowsky,22
+Movie,Pan Nalin,60
+Movie,Pang Ho-cheung,90
+Movie,Pankaj Batra,84
+Movie,Param Gill,24
+Movie,Parambrata Chatterjee,51
+Movie,Paresh Mokashi,20
+Movie,Paritosh Painter,20
+Movie,Park In-je,20
+Movie,Parkpoom Wongpoom,36
+Movie,Partha Chakraborty,16
+Movie,Parthiban,3
+Movie,Partho Ghosh,30
+Movie,Partho Mitra,24
+Movie,Partho Sen-Gupta,60
+Movie,Parveen Kumar,18
+Movie,Pat Healy,16
+Movie,Patricia Ferreira,33
+Movie,Patricia Font,21
+Movie,Patricia Rozema,48
+Movie,Patrick Brice,15
+Movie,Patrick Leung,72
+Movie,Patrick Osborne,15
+Movie,Patrik Forsberg,39
+Movie,Patrik Syversen,18
+Movie,Patryk Vega,30
+Movie,Paul Andrew Williams,80
+Movie,Paul Brizzi,70
+Movie,Paul Demeyer,56
+Movie,Paul Dugdale,12
+Movie,Paul Feig,20
+Movie,Paul Greengrass,42
+Movie,Paul Haggis,52
+Movie,Paul Katis,45
+Movie,Paul Miller,1
+Movie,Paul Raschid,20
+Movie,Paul Reubens,16
+Movie,Paul Schrader,14
+Movie,Paul Serafini,11
+Movie,Paul Shoulberg,12
+Movie,Paul Solet,32
+Movie,Paul Soriano,24
+Movie,Paul Spurrier,32
+Movie,Paul Tanter,6
+Movie,Paul Taublieb,2
+Movie,Paul Thomas Anderson,55
+Movie,Paul Urkijo Alijo,60
+Movie,Paul W.S. Anderson,152
+Movie,Paul Weitz,159
+Movie,Paulo Oriol,14
+Movie,Pavel Parkhomenko,16
+Movie,Pawan K Shrivastava,24
+Movie,Pawan Kripalani,14
+Movie,Pawan Kumar,12
+Movie,Paween Purikitpanya,20
+Movie,Pedring A. Lopez,10
+Movie,Pedro Coutinho,30
+Movie,Pedro Morelli,54
+Movie,Peggy Holmes,19
+Movie,Pepe Bojórquez,21
+Movie,Perry Lang,10
+Movie,Pete Travis,43
+Movie,Peter Chelsom,21
+Movie,Peter DeLuise,32
+Movie,Peter Farrelly,63
+Movie,Peter Fison,1
+Movie,Peter Foott,18
+Movie,Peter Hewitt,18
+Movie,Peter Howitt,10
+Movie,Peter Hutchings,33
+Movie,Peter Jackson,96
+Movie,Peter Lepeniotis,80
+Movie,Peter Middleton,6
+Movie,Peter Mortimer,8
+Movie,Peter Orton,2
+Movie,Peter Pardini,2
+Movie,Peter Ramsey,24
+Movie,Peter Sattler,16
+Movie,Peter Segal,35
+Movie,Peter Spirer,6
+Movie,Peter Sullivan,6
+Movie,Peter Svatek,1
+Movie,Peter Webber,15
+Movie,Peter Yost,1
+Movie,Petra Costa,150
+Movie,Peyton Reed,121
+Movie,Phanindra Narsetti,18
+Movie,Phil Joanou,1
+Movie,Phil Johnston,52
+Movie,Phil Morrison,36
+Movie,Phil Nibbelink,9
+Movie,Phil Weinstein,20
+Movie,Philip Einstein Lipski,6
+Movie,Philip G. Atwell,28
+Movie,Philip Marlatt,10
+Movie,Philip Yung,16
+Movie,Philipp Eichholtz,21
+Movie,Philipp Stölzl,71
+Movie,Philippe Falardeau,18
+Movie,Phillip Noyce,41
+Movie,Phillip Youmans,7
+Movie,Phuwanit Pholdee,24
+Movie,Phyllida Lloyd,72
+Movie,Pia Sukanya,72
+Movie,Pierfrancesco Diliberto,2
+Movie,Pierre Coré,22
+Movie,Pierre Morel,22
+Movie,Pieter Kuijpers,20
+Movie,Pieter-Jan De Pue,10
+Movie,Pietro Scappini,52
+Movie,Piti Jaturaphat,20
+Movie,Poj Arnon,108
+Movie,Pooja Bhatt,27
+Movie,Prabhu Deva,24
+Movie,Prabhuraj,24
+Movie,Pradeep Verma,24
+Movie,Pradip Kurbah,16
+Movie,Prakash Balwant Saini,30
+Movie,Prakash Jha,68
+Movie,Prakash Mehra,48
+Movie,Pramod Pawar,24
+Movie,Pranav Singh,16
+Movie,Prasanth Varma,21
+Movie,Prashant Nair,27
+Movie,Prasobh Vijayan,21
+Movie,Pratim D. Gupta,64
+Movie,Praveen Nischol,27
+Movie,Prawal Raman,42
+Movie,Prem Soni,24
+Movie,Preston A. Whitmore II,11
+Movie,Priyadarshan,164
+Movie,Pulkit,18
+Movie,Puneet Sira,27
+Movie,Punit Malhotra,18
+Movie,Puri Jagannadh,33
+Movie,Qaushiq Mukherjee,129
+Movie,Quentin Tarantino,140
+Movie,Quinn Lasher,12
+Movie,R. Balki,24
+Movie,R. Ellis Frazier,34
+Movie,R. Kannan,18
+Movie,RZA,14
+Movie,Raaghav Dar,30
+Movie,Raam Reddy,30
+Movie,Rachel Grady,9
+Movie,Rachel Lears,1
+Movie,Radhika Rao,24
+Movie,Raditya Dika,60
+Movie,Rahat Kazmi,21
+Movie,Rahat Rahman,30
+Movie,Rahul Dholakia,33
+Movie,Rahul Ravindran,24
+Movie,Rai Yuvraj Bains,24
+Movie,Raj Amit Kumar,48
+Movie,Raj B. Shetty,30
+Movie,Raj Babu,24
+Movie,Raj Kanwar,39
+Movie,Raj Kapoor,75
+Movie,Raj Kaushal,21
+Movie,Raj Kumar Gupta,47
+Movie,Raj N. Sippy,24
+Movie,Raj Nidimoru,30
+Movie,Raj R,9
+Movie,Raja Gosnell,20
+Movie,Raja Menon,12
+Movie,Raja Sen,24
+Movie,Rajan Madhav,12
+Movie,Rajat Kapoor,30
+Movie,Rajeev Chaudhari,18
+Movie,Rajeev Patil,18
+Movie,Rajesh Mapuskar,27
+Movie,Rajesh Touchriver,12
+Movie,Rajiv Chilaka,10
+Movie,Rajiv Mehra,130
+Movie,Rajiv Menon,48
+Movie,Rajkumar Hirani,66
+Movie,Rajkumar Santoshi,99
+Movie,Rajshree Ojha,24
+Movie,Rakesh Mehta,30
+Movie,Rakeysh Omprakash Mehra,81
+Movie,Rakshith Thirthahalli,12
+Movie,Ralph Macchio,6
+Movie,Ram,24
+Movie,Ram Gopal Varma,140
+Movie,Raman Kumar,24
+Movie,Ramón Salazar,12
+Movie,Rana Ranbir,24
+Movie,Randal Kleiser,45
+Movie,Randall Lobb,8
+Movie,Ranjit Jeyakodi,12
+Movie,Ranjit Tiwari,21
+Movie,Rarecho,8
+Movie,Rashida Jones,2
+Movie,Ravi Jadhav,24
+Movie,Ravi Udyawar,24
+Movie,Raymie Muzquiz,48
+Movie,Raymond McGrath,6
+Movie,Raymond Wood,10
+Movie,Raz Degan,10
+Movie,Raúl Arévalo,16
+Movie,Raúl Campos,25
+Movie,Raúl Campos Delgado,1
+Movie,Rebecca Addelman,12
+Movie,Rebecca Zlotowski,24
+Movie,Reem Kherici,30
+Movie,Reema Kagti,54
+Movie,Reginald Hudlin,4
+Movie,Reiner Holzemer,4
+Movie,Remo D'Souza,64
+Movie,Remy Kohli,21
+Movie,Renato De Maria,20
+Movie,Rene Bueno,30
+Movie,Rene Liu,15
+Movie,Renny Harlin,36
+Movie,Renzil D'Silva,18
+Movie,René Pérez Joglar,2
+Movie,Rhiannon Bannenberg,60
+Movie,Rhys Thomas,33
+Movie,Rian Johnson,98
+Movie,Ribhu Dasgupta,54
+Movie,Ric Roman Waugh,18
+Movie,Ricardo Maldonado,18
+Movie,Riccardo Milani,24
+Movie,Rich Moore,52
+Movie,Rich Ragsdale,20
+Movie,Richard Bailey,16
+Movie,Richard Bates Jr.,24
+Movie,Richard Brooks,16
+Movie,Richard Correll,22
+Movie,Richard Curtis,30
+Movie,Richard Donner,20
+Movie,Richard Finn,80
+Movie,Richard Greenberg,24
+Movie,Richard Kelly,18
+Movie,Richard LaGravenese,20
+Movie,Richard Loncraine,27
+Movie,Richard Mears,1
+Movie,Richard Michaels,16
+Movie,Richard Miron,1
+Movie,Richard Rich,23
+Movie,Richard Sears,42
+Movie,Richard Shepard,18
+Movie,Richard van't Riet,10
+Movie,Richie Smyth,96
+Movie,Rick Benattar,32
+Movie,Rick Morales,8
+Movie,Ricky Gervais,100
+Movie,Ridley Scott,80
+Movie,Rik Reinholdtsen,1
+Movie,Riki Lindhome,8
+Movie,Rima Das,18
+Movie,Ringo Lam,20
+Movie,Riri Riza,90
+Movie,Rita Coburn Whack,7
+Movie,Ritesh Batra,14
+Movie,Rizal Mantovani,36
+Movie,Rob Burnett,21
+Movie,Rob Cohen,43
+Movie,Rob LaDuca,45
+Movie,Rob Marshall,44
+Movie,Rob Meyer,30
+Movie,Rob Minkoff,76
+Movie,Rob Reiner,74
+Movie,Rob Silvestri,12
+Movie,Rob Smat,16
+Movie,Rob W. King,18
+Movie,Rob Zombie,1
+Movie,Robb Dipple,1
+Movie,Robb Wells,44
+Movie,Robbie Countryman,9
+Movie,Robbie Grewal,24
+Movie,Robert Adetuyi,8
+Movie,Robert Aldrich,39
+Movie,Robert Altman,210
+Movie,Robert Berlinger,20
+Movie,Robert C. Ramirez,45
+Movie,Robert Clouse,44
+Movie,Robert Eggers,60
+Movie,Robert Kouba,36
+Movie,Robert Luketic,76
+Movie,Robert Markowitz,5
+Movie,Robert Nixon,18
+Movie,Robert O. Peters,20
+Movie,Robert Osman,16
+Movie,Robert Rodriguez,146
+Movie,Robert Schwentke,33
+Movie,Robert Smigel,11
+Movie,Robert Tate,12
+Movie,Robert Vince,196
+Movie,Robert Zemeckis,22
+Movie,Roberta Grossman,1
+Movie,Roberto Girault Facha,30
+Movie,Robin Aubert,22
+Movie,Robin Swicord,43
+Movie,Robiul Alam Robi,30
+Movie,Robyn Butler,16
+Movie,Rocky Soraya,94
+Movie,Rod Blackhurst,7
+Movie,Rodney Rothman,24
+Movie,Rodolphe Guenoden,16
+Movie,Rodrigo Eba,3
+Movie,Rodrigo Salomón,52
+Movie,Rodrigo Toro,1
+Movie,Rodrigo Triana,48
+Movie,Rodrigo Van Der Put,52
+Movie,Roger Allers,105
+Movie,Roger Donaldson,10
+Movie,Roger Graef,8
+Movie,Roger Gual,10
+Movie,Roger Kumble,80
+Movie,Roger Russell,21
+Movie,Roger Spottiswoode,20
+Movie,Roger Young,16
+Movie,Rohit Jugraj,90
+Movie,Rohit Mittal,24
+Movie,Rohit Shetty,76
+Movie,Roland Emmerich,62
+Movie,Roland Joffé,81
+Movie,Rolfe Kanefsky,8
+Movie,Romain Gavras,15
+Movie,Roman Atwood,3
+Movie,Roman Coppola,16
+Movie,Roman Gackowski,8
+Movie,Roman Polanski,30
+Movie,Ron Clements,39
+Movie,Ron Davis,2
+Movie,Ron Howard,68
+Movie,Ron Oliver,72
+Movie,Ron Underwood,36
+Movie,Ross Boyask,6
+Movie,Ross Hockrow,8
+Movie,Ross R. Shuman,30
+Movie,Roxanne Benjamin,24
+Movie,Roy Boulting,4
+Movie,Roy Burdine,16
+Movie,Roy Campanella II,12
+Movie,Roy Poortmans,18
+Movie,Ruben Fleischer,14
+Movie,Rucha Humnabadkar,42
+Movie,Rudy Soedjarwo,42
+Movie,Ruel S. Bayani,27
+Movie,Rupert Jones,8
+Movie,Rushmore DeNooyer,1
+Movie,Russell Crowe,40
+Movie,Rusty Cundieff,63
+Movie,Rusty Nixon,10
+Movie,Ryan Coogler,32
+Movie,Ryan Fleck,14
+Movie,Ryan Koo,18
+Movie,Ryan Moody,22
+Movie,Ryan Murphy,20
+Movie,Ryan Polito,22
+Movie,Ryu Jung-woo,4
+Movie,S.S. Rajamouli,168
+Movie,S.S. Wilson,30
+Movie,Saandeep Patel,21
+Movie,Saara Cantell,110
+Movie,Sabal Singh Shekawat,15
+Movie,Sabir Khan,14
+Movie,Sabu Varghese,12
+Movie,Sacha Wolff,24
+Movie,Sachin,42
+Movie,Sachin Kamlakar Khot,24
+Movie,Sachin Kundalkar,30
+Movie,Sachin Yardi,45
+Movie,Sagar Sarhadi,21
+Movie,Saheed Arafath,24
+Movie,Sai Paranjape,18
+Movie,Saji Surendran,24
+Movie,Sajid Khan,15
+Movie,Saket Behl,21
+Movie,Saket Chaudhary,30
+Movie,Salima Koroma,16
+Movie,Sally Potter,80
+Movie,Salvador Calvo,20
+Movie,"Sam ""Blitz"" Bazawule",48
+Movie,Sam Liu,38
+Movie,Sam Loh,10
+Movie,Sam Mendes,54
+Movie,Sam O'Steen,14
+Movie,Sam Patton,8
+Movie,Sam Raimi,87
+Movie,Sam Taplin,3
+Movie,Sam Taylor-Johnson,20
+Movie,Sam Upton,27
+Movie,Sam Voutas,54
+Movie,Sam Wrench,1
+Movie,Samar Khan,20
+Movie,Sameer Sharma,20
+Movie,Sameer Vidwans,31
+Movie,Sameh Abdulaziz,106
+Movie,Samir Karnik,16
+Movie,Samir Soni,15
+Movie,Samit Basu,18
+Movie,Samit Kakkad,24
+Movie,Samu Fuentes,9
+Movie,Samuel Jouy,30
+Movie,Sandeep Chatterjee,24
+Movie,Sandeep Mohan,24
+Movie,Sandeep Reddy Vanga,24
+Movie,Sandy Chronopoulos,2
+Movie,Sang-ho Yeon,36
+Movie,Sangeeth Sivan,48
+Movie,Sanjay Dayma,21
+Movie,Sanjay Gupta,16
+Movie,Sanjay Jadhav,45
+Movie,Sanjay Leela Bhansali,20
+Movie,Sanjay Patel,48
+Movie,Sanjay Soorkar,30
+Movie,Sanjeev Gupta,15
+Movie,Sanjib Dey,24
+Movie,Sanjiv Jaiswal,24
+Movie,Santosh Manjrekar,30
+Movie,Santosh Sivan,49
+Movie,Santram Varma,12
+Movie,Santwana Bardoloi,16
+Movie,Sara Colangelo,56
+Movie,Sarah Adina Smith,50
+Movie,Sarah Gavron,52
+Movie,Sarah Holt,1
+Movie,Sarah Kruchowski,22
+Movie,Sarah Smith,176
+Movie,Saratswadee Wongsomphet,30
+Movie,Saravana Rajendran,18
+Movie,Sarik Andreasyan,32
+Movie,Sarjun,16
+Movie,Sartaj Singh Pannu,24
+Movie,Sarthak Dasgupta,18
+Movie,Sathyan Anthikad,18
+Movie,Satish Kaushik,66
+Movie,Satish Manwar,10
+Movie,Satish Rajwade,18
+Movie,Satyajit Bhatkal,22
+Movie,Saul Dibb,270
+Movie,Saurabh Kabra,30
+Movie,Saurabh Sinha,18
+Movie,Saurav Palodhi,21
+Movie,Savage Steve Holland,80
+Movie,Saw Teong Hin,16
+Movie,Scott Aukerman,128
+Movie,Scott Cooper,15
+Movie,Scott Hicks,16
+Movie,Scott Hussion,16
+Movie,Scott L. Montoya,2
+Movie,Scott Marshall Smith,16
+Movie,Scott Martin,10
+Movie,Scott McAboy,9
+Movie,Scott Moore,11
+Movie,Scott Moran,2
+Movie,Scott Mosier,48
+Movie,Scott Stewart,73
+Movie,Scott Zabielski,11
+Movie,Sean Cisterna,84
+Movie,Sean Foley,30
+Movie,Sean Hanish,12
+Movie,Sean McNamara,30
+Movie,Sean Menard,2
+Movie,Sean Olson,20
+Movie,Sean Penn,8
+Movie,Sebastian DiNatale,1
+Movie,Sebastián Hofmann,42
+Movie,Sebastián Schindel,15
+Movie,Sedat Kirtan,30
+Movie,Seiji Mizushima,18
+Movie,Selima Taibi,4
+Movie,Selvamani Selvaraj,6
+Movie,Selçuk Aydemir,32
+Movie,Seong-hun Kim,12
+Movie,Sergio Barrejón,48
+Movie,Sergio Goyri Jr.,24
+Movie,Sergio Leone,66
+Movie,Sergio Pablos,16
+Movie,Sermiyan Midyat,64
+Movie,Seth Barrish,2
+Movie,Seth Fuller,16
+Movie,Seth Henrikson,12
+Movie,Shaad Ali,30
+Movie,Shadab Khan,16
+Movie,Shadae Lamar Smith,22
+Movie,Shadi Ali,14
+Movie,Shady Ali,24
+Movie,Shaina Allen,6
+Movie,Shakti Samanta,78
+Movie,Shakun Batra,30
+Movie,Shammi Kapoor,30
+Movie,Shamyl Othman,15
+Movie,Shan Hua,12
+Movie,Shanawaz Nellikunnil,15
+Movie,Shane Acker,27
+Movie,Shanjey Kumar Perumal,10
+Movie,Shanker Raman,15
+Movie,Shannon Hartman,8
+Movie,Shashanka Ghosh,42
+Movie,Shashilal K. Nair,30
+Movie,Shawn Arranha,27
+Movie,Shawn Crahan,9
+Movie,Shawn Levy,88
+Movie,Shazia Ali Khan,48
+Movie,Shekhar Kapur,24
+Movie,Shelly Chopra Dhar,30
+Movie,Sherif Ismail,8
+Movie,Sherif Mandour,22
+Movie,Sherwin Shilati,30
+Movie,Shin-yeon Won,30
+Movie,Shinji Aramaki,24
+Movie,Shinsuke Sato,30
+Movie,Shirish Kunder,54
+Movie,Shirley Frimpong-Manso,27
+Movie,Shivam Nair,43
+Movie,Shivendra Singh Dungarpur,2
+Movie,Shlok Sharma,36
+Movie,Shojiro Nishimi,60
+Movie,Shonali Bose,32
+Movie,Shoojit Sircar,27
+Movie,Shravan Kumar,18
+Movie,Shree Narayan Singh,27
+Movie,Shreyas Talpade,16
+Movie,Shrihari Sathe,12
+Movie,Shyam Benegal,84
+Movie,Sian Heder,18
+Movie,Sidharth Malhotra,28
+Movie,Sigrid Andrea Bernardo,4
+Movie,Simon Baker,14
+Movie,Simon Curtis,56
+Movie,Simon Gross,81
+Movie,Simon J. Smith,40
+Movie,Simon Napier-Bell,5
+Movie,Simon Savelyev,22
+Movie,Simon Stone,7
+Movie,Simon Verhoeven,18
+Movie,Simon Wells,65
+Movie,Simon Wincer,60
+Movie,Simranjit Singh Hundal,24
+Movie,Sinan Akkuş,20
+Movie,Sion Sono,33
+Movie,Sittisiri Mongkolsiri,24
+Movie,Siu-hung Chung,30
+Movie,Smeep Kang,16
+Movie,So Yong Kim,27
+Movie,Sofia Coppola,104
+Movie,Sohail Tatari,24
+Movie,Songyos Sugmakanan,20
+Movie,Sonny Mallhi,4
+Movie,Sonny Marler,24
+Movie,Sooraj R. Barjatya,84
+Movie,Sophie Robinson,4
+Movie,Sophie Sartain,1
+Movie,Sophon Sakdaphisit,36
+Movie,Sopon Sukdapisit,12
+Movie,Sorin Dan Mihalcescu,18
+Movie,Soukarya Ghosal,24
+Movie,Soumendra Padhi,18
+Movie,Soumitra Ranade,24
+Movie,Spike Jonze,25
+Movie,Spike Lee,35
+Movie,Sridhar Jetty,27
+Movie,Sridhar Rangayan,27
+Movie,Sriram Raghavan,54
+Movie,Srivinay Salian,21
+Movie,Stacia Crawford,24
+Movie,Stacie Passon,34
+Movie,Stacy Title,40
+Movie,Stan Lathan,2
+Movie,Stanisław Różewicz,34
+Movie,Stanley Kubrick,54
+Movie,Stanley Tong,96
+Movie,Stefano Sollima,54
+Movie,Stefon Bristol,21
+Movie,Stephan Rick,10
+Movie,Stephanie Laing,22
+Movie,Stephen Belber,6
+Movie,Stephen Chow,81
+Movie,Stephen Cone,9
+Movie,Stephen Daldry,177
+Movie,Stephen Donnelly,9
+Movie,Stephen Gyllenhaal,18
+Movie,Stephen Herek,28
+Movie,Stephen Hopkins,88
+Movie,Steve Antin,20
+Movie,Steve Ball,33
+Movie,Steve Barker,36
+Movie,Steve Boettcher,9
+Movie,Steve Brill,40
+Movie,Steve Carr,131
+Movie,Steve Cheng,8
+Movie,Steve Gukas,36
+Movie,Steve Hickner,40
+Movie,Steve Loter,16
+Movie,Steve McLean,33
+Movie,Steve Paley,2
+Movie,Steve Race,24
+Movie,Steve Rash,8
+Movie,Steve Sacks,28
+Movie,Steven Brill,28
+Movie,Steven C. Miller,30
+Movie,Steven Fine,20
+Movie,Steven Gomez,33
+Movie,Steven Knight,40
+Movie,Steven R. Monroe,6
+Movie,Steven Soderbergh,96
+Movie,Steven Spielberg,241
+Movie,Stevie Wermers,15
+Movie,Stig Bergqvist,56
+Movie,Stu Livingston,48
+Movie,Stuart Baird,10
+Movie,Stéphane Berla,40
+Movie,Subhash Ghai,132
+Movie,Sudabeh Mortezai,9
+Movie,Sudesh Manjrekar,32
+Movie,Sudhanshu Saria,12
+Movie,Sudhir Mishra,104
+Movie,Sudhish Kamath,24
+Movie,Sudip Bandyopadhyay,21
+Movie,Sudipto Roy,9
+Movie,Suhas Kadav,4
+Movie,Sujeeth,24
+Movie,Sujoy Ghosh,55
+Movie,Sukhbir Singh,24
+Movie,Sukum Maetawanitch,16
+Movie,Suman Ghosh,24
+Movie,Suman Mukhopadhyay,30
+Movie,Sumitra Bhave,53
+Movie,Sunao Katabuchi,27
+Movie,Sundar C.,48
+Movie,Sung-soo Kim,12
+Movie,Sunil Kumar Agrawal,30
+Movie,Sunil Soraya,21
+Movie,Sunil Sukthankar,53
+Movie,Sunil Thakur,16
+Movie,Sunkanmi Adebayo,12
+Movie,Suparn Verma,54
+Movie,Supavitra Babul,21
+Movie,Surya S.J.,30
+Movie,Susan Johnson,46
+Movie,Susannah Ward,3
+Movie,Susanne Bier,30
+Movie,Suseenthiran,12
+Movie,Sushil Majumdar,30
+Movie,Sushrut Jain,6
+Movie,Suzanne Coote,16
+Movie,Svetlana Cvetko,16
+Movie,Swapna Waghmare Joshi,16
+Movie,Swapnaneel Jayakar,24
+Movie,Syamsul Yusof,16
+Movie,Sydney Freeland,39
+Movie,Syed Ahmad Afzal,27
+Movie,Syed Ahmed Shawki,30
+Movie,Syed Atif Ali,14
+Movie,Syed Saleh Ahmed Sobhan,30
+Movie,Sylvain Blais,13
+Movie,Sylvester Stallone,54
+Movie,Sylvie Verheyde,42
+Movie,Syrine Boulanouar,3
+Movie,Sze Yu Lau,45
+Movie,Sébastien Betbeder,10
+Movie,T.J. Martin,8
+Movie,Taika Waititi,54
+Movie,Tamara Jenkins,30
+Movie,Tan Bing,16
+Movie,Tanit Jitnukul,6
+Movie,Tanuj Bhramar,15
+Movie,Tanuj Chopra,6
+Movie,Tanuja Chandra,40
+Movie,Tanveer Khan,21
+Movie,Tanvir Ahsan,30
+Movie,Tanwarin Sukkhapisit,16
+Movie,Tarek Abdel Moaty,18
+Movie,Tarek Al Eryan,39
+Movie,Tariq Khan,18
+Movie,Taron Lexton,22
+Movie,Tarsem Singh,20
+Movie,Tarun Mansukhani,16
+Movie,Tathagata Banerjee,15
+Movie,Ted Braun,1
+Movie,Ted Demme,11
+Movie,Ted Emery,15
+Movie,Ted Geoghegan,33
+Movie,Teddy Lussi-Modeste,20
+Movie,Tejas Prabha Vijay Deoskar,16
+Movie,Tekin Girgin,8
+Movie,Teng Huatao,24
+Movie,Tensai Okamura,21
+Movie,Teo Konuralp,18
+Movie,Terri Randall,1
+Movie,Terry Gilliam,219
+Movie,Terry Hughes,16
+Movie,Terry Jones,51
+Movie,Terry Loane,8
+Movie,Tharun Bhascker,12
+Movie,Theo Davies,28
+Movie,Theodore Boborol,40
+Movie,Theodore Witcher,24
+Movie,Thiagarajan Kumararaja,24
+Movie,Thierry Demaizière,2
+Movie,Thiru,48
+Movie,Thom Zimny,1
+Movie,Thomas Astruc,33
+Movie,Thomas Carter,44
+Movie,Thomas Sieben,9
+Movie,Thomas Sorriaux,33
+Movie,Thomas Stuber,24
+Movie,Thomas Vinterberg,81
+Movie,Tianyu Zhao,30
+Movie,Ticoy Rodriguez,63
+Movie,Tig Notaro,1
+Movie,Tigmanshu Dhulia,21
+Movie,Tilak Shetty,3
+Movie,Tim Bartley,16
+Movie,Tim Blake Nelson,28
+Movie,Tim Burton,110
+Movie,Tim Hill,120
+Movie,Tim Johnson,18
+Movie,Tim Maltby,94
+Movie,Tim Rouhana,10
+Movie,Tim Story,2
+Movie,Tim Van Someren,2
+Movie,Timo Tjahjanto,78
+Movie,Timothy Reckart,34
+Movie,Timothy Woodward Jr.,33
+Movie,Tinnu Anand,30
+Movie,Titien Wattimena,30
+Movie,To-hoi Kong,44
+Movie,Toa Fraser,74
+Movie,Tobe Hooper,30
+Movie,Toby Trackman,1
+Movie,Todd Phillips,20
+Movie,Todd S. Yellin,24
+Movie,Todd Standing,1
+Movie,Todd Wider,1
+Movie,Todor Chapkanov,18
+Movie,Toka McBaror,36
+Movie,Tolga Örnek,12
+Movie,Tom Donahue,3
+Movie,Tom Edmunds,7
+Movie,Tom Fassaert,6
+Movie,Tom Ford,30
+Movie,Tom Forrest,1
+Movie,Tom Gianas,30
+Movie,Tom Green,24
+Movie,Tom Holland,20
+Movie,Tom Hooper,246
+Movie,Tom O'Brien,18
+Movie,Tom O'Dell,20
+Movie,Tom Shadyac,33
+Movie,Tom Stern,26
+Movie,Tom Tykwer,120
+Movie,Tom Whitter,1
+Movie,Tomas Portella,20
+Movie,Tomer Heymann,8
+Movie,Tomm Moore,70
+Movie,Tommy Avallone,4
+Movie,Tommy O'Haver,8
+Movie,Tommy Wirkola,66
+Movie,Tomoki Kyoda,24
+Movie,Tony Datis,60
+Movie,Tony Elliott,42
+Movie,Tony Giglio,33
+Movie,Tony Kaye,11
+Movie,Tony Leondis,14
+Movie,Tony Scott,40
+Movie,Tony Stone,1
+Movie,Tony Zierra,1
+Movie,Tope Oshin,36
+Movie,Torquil Jones,3
+Movie,Toshiya Shinohara,117
+Movie,Toshiyuki Kanno,24
+Movie,Toshiyuki Kubooka,108
+Movie,Toshiyuki Tsuru,33
+Movie,Travis Zariwny,12
+Movie,Trent Haaga,39
+Movie,Trevor Ryan,33
+Movie,Trey Edward Shults,38
+Movie,Troy Miller,13
+Movie,Troy Nixey,30
+Movie,Tsutomu Mizushima,30
+Movie,Tudor Giurgiu,72
+Movie,Tugçe Soysop,22
+Movie,Udai Singh Pawar,24
+Movie,Ui-seok Jo,14
+Movie,Ulises Valencia,2
+Movie,Umer Adil,24
+Movie,Umesh Ghadge,20
+Movie,Umesh Mehra,228
+Movie,Umesh Shukla,60
+Movie,Uttung Shelar,12
+Movie,Uwe Boll,14
+Movie,V C Abhilash,24
+Movie,V. K. Prakash,9
+Movie,V. Scott Balcerek,4
+Movie,Vadim Jean,10
+Movie,Valeria Golino,24
+Movie,Valeria Pivato,8
+Movie,Valli Bindana,4
+Movie,Van M. Pham,18
+Movie,Vandana Kataria,24
+Movie,Vanita Shastry,22
+Movie,Varun Narvekar,12
+Movie,Vasan Bala,24
+Movie,Venugopan,16
+Movie,Vetrimaaran,18
+Movie,Vibeke Idsøe,44
+Movie,Vic Armstrong,48
+Movie,Vicente Villanueva,18
+Movie,Vicky Matthews,5
+Movie,Victor Cook,18
+Movie,Victor Dal Chele,10
+Movie,Victor Levin,18
+Movie,Victor Zarcoff,18
+Movie,Victoria Bromley,1
+Movie,Vijay,24
+Movie,Vijay Jayapal,8
+Movie,Vijay Kumar,12
+Movie,Vijay Kumar Arora,15
+Movie,Vijay Lalwani,21
+Movie,Vijay Milton,24
+Movie,Vijay Yelakanti,18
+Movie,Viju Mane,24
+Movie,Vikas Bahl,57
+Movie,Vikram Bhatt,24
+Movie,Vikram Gandhi,9
+Movie,Vikram Pradhan,24
+Movie,Vikram Tanajirao Patil,24
+Movie,Vikramaditya Motwane,54
+Movie,Vinay Sapru,24
+Movie,Vince Gilligan,2
+Movie,Vince Marcello,34
+Movie,Vincent Kok,27
+Movie,Vincent Perez,33
+Movie,Vincente Minnelli,30
+Movie,Vincenzo Natali,12
+Movie,Vineeth Anil,10
+Movie,Vinod Kapri,3
+Movie,Vipin Parashar,18
+Movie,Vipul Amrutlal Shah,57
+Movie,Vishal Bhardwaj,126
+Movie,Vishal Mahadkar,18
+Movie,Vishal Mishra,24
+Movie,Vishnu Govindhan,16
+Movie,Visute Poolvoralaks,20
+Movie,Vivek Agnihotri,54
+Movie,Vivek Wagh,24
+Movie,Vivieno Caldinelli,38
+Movie,Vlad Yudin,6
+Movie,Volker Weicker,1
+Movie,Vonda Harrell,20
+Movie,Wade Allain-Marcus,12
+Movie,Wael Ehsan,20
+Movie,Wael Ihsan,38
+Movie,Wagner de Assis,24
+Movie,Walerian Borowczyk,24
+Movie,Wally Pfister,48
+Movie,Walter C. Miller,2
+Movie,Warren P. Sonoda,28
+Movie,Wash Westmoreland,20
+Movie,Waymon Boone,20
+Movie,Wayne Blair,30
+Movie,Wayne Orr,16
+Movie,Wenn V. Deramas,105
+Movie,Werner Herzog,26
+Movie,Wes Craven,35
+Movie,White Trash Tyler,2
+Movie,Wi Ding Ho,60
+Movie,Will Canon,20
+Movie,Will Eisenberg,16
+Movie,Will Eubank,12
+Movie,Will Gluck,40
+Movie,Will Graham,39
+Movie,Will Lovelace,1
+Movie,Will Lowell,20
+Movie,Will Yapp,12
+Movie,William Bindley,22
+Movie,William Brent Bell,14
+Movie,William Eubank,12
+Movie,William H. Macy,22
+Movie,William Kaufman,16
+Movie,William Lau,58
+Movie,William Monahan,18
+Movie,William Wyler,4
+Movie,Wilson Coneybeare,10
+Movie,Wilson Yip,200
+Movie,Wim Wenders,15
+Movie,Wojciech Marczewski,24
+Movie,Wolfgang Petersen,78
+Movie,Wong Fei-Pang,9
+Movie,Wong Jing,123
+Movie,Wong Kar Wai,66
+Movie,Woo Min-ho,27
+Movie,Woo Ming Jin,18
+Movie,Woody Allen,33
+Movie,Wyatt Cenac,1
+Movie,Xavier Durringer,39
+Movie,Xavier Gens,20
+Movie,Xiaoxing Yi,48
+Movie,Xu Zhang,20
+Movie,Y. Joon Chung,1
+Movie,Yam Laranas,20
+Movie,Yang Lei,30
+Movie,Yang Woo-seok,24
+Movie,Yann Arthus-Bertrand,2
+Movie,Yann Gozlan,40
+Movie,Yanyong Kuruaungkoul,24
+Movie,Yarrow Cheney,48
+Movie,Yasir Nawaz,24
+Movie,Yasushi Kawamura,42
+Movie,Yasushi Muraki,24
+Movie,Yayo Herrero,18
+Movie,Yee Tung-Shing,48
+Movie,Yen Cheng-kuo,18
+Movie,Yeo Siew Hua,30
+Movie,Yesim Ustaoglu,48
+Movie,Yeung Yat-Tak,14
+Movie,Yibrán Asuad,30
+Movie,Yoav Paz,30
+Movie,Yolanda Ramke,20
+Movie,Yorgos Lanthimos,165
+Movie,Yoshitaka Takeuchi,48
+Movie,Yoshiyuki Momose,30
+Movie,You-Jeong Chang,24
+Movie,Yuen Wo-Ping,44
+Movie,Yuen Woo-ping,32
+Movie,Yusuf Pirhasan,33
+Movie,Yvan Attal,44
+Movie,Yılmaz Erdoğan,191
+Movie,Zach Braff,30
+Movie,Zach Clark,21
+Movie,Zachary Heinzerling,2
+Movie,Zack Snyder,20
+Movie,Zack Whedon,48
+Movie,Zak Hilditch,32
+Movie,Zakariya,12
+Movie,Zatella Beatty,2
+Movie,Zeke Norton,5
+Movie,Zhang Yimou,48
+Movie,Ziga Virc,15
+Movie,Zoe Berriatúa,46
+Movie,Zoe Lister-Jones,42
+Movie,Zoya Akhtar,168
+Movie,Zune Kwok,9
+Movie,Àlex Pastor,24
+Movie,Álex de la Iglesia,78
+Movie,Álvaro Brechner,60
+Movie,Çagan Irmak,20
+Movie,Éric Warin,36
+Movie,Ísold Uggadóttir,27
+Movie,Óskar Thór Axelsson,20
+Movie,Ömer Faruk Sorak,84
+Movie,Şenol Sönmez,24
+TV Show,Ahmed Khaled Moussa,33
+TV Show,Ahmet Katıksız,45
+TV Show,Alastair Fothergill,24
+TV Show,Alejandro Lozano,90
+TV Show,Andrew Tan,7
+TV Show,Andrés Beltrán,39
+TV Show,Andy Devonshire,8
+TV Show,Anurag Kashyap,30
+TV Show,Bruce Sinofsky,4
+TV Show,Bryan Spicer,16
+TV Show,Carlos Bolado,42
+TV Show,Carlos Sedes,54
+TV Show,Cecilia Peck,8
+TV Show,Chang-Min Lee,30
+TV Show,Chen Hung-yi,24
+TV Show,Cho Li,24
+TV Show,DJ Chen,30
+TV Show,Dan Lucchesi,3
+TV Show,Daniel Kontur,2
+TV Show,Danny Cannon,75
+TV Show,David Schalko,33
+TV Show,Dean White,16
+TV Show,Dheeraj Berry,4
+TV Show,Ehtesham Uddin,18
+TV Show,Eli Roth,57
+TV Show,Eric Abrams,1
+TV Show,Everardo Gout,21
+TV Show,Felipe Cano,39
+TV Show,Gary Howsam,11
+TV Show,Glen Winter,33
+TV Show,Go Koga,30
+TV Show,Gordon Anderson,12
+TV Show,Guy Vasilovich,30
+TV Show,Gwyneth Horder-Payton,16
+TV Show,Han Qing,18
+TV Show,Hayato Date,16
+TV Show,Hiroyuki Seshita,11
+TV Show,Ian Barber,21
+TV Show,Iginio Straffi,48
+TV Show,Jaime Rayo,39
+TV Show,Jakob Schuh,18
+TV Show,Jakob Verbruggen,30
+TV Show,James Bamford,34
+TV Show,James Hawes,24
+TV Show,Jani Lachauer,18
+TV Show,Jay Chandrasekhar,14
+TV Show,Jeon Go-woon,21
+TV Show,Jerry Seinfeld,2
+TV Show,Jesse Warn,26
+TV Show,Joe Berlinger,4
+TV Show,Joel Gallen,2
+TV Show,John Paul Tremblay,11
+TV Show,Jung-ah Im,30
+TV Show,Kazuya Murata,22
+TV Show,Ken Burns,17
+TV Show,Kiko Cruz Claverol,42
+TV Show,Kim Jong-kwan,21
+TV Show,Kim Seong-hun,60
+TV Show,Kobun Shizuno,11
+TV Show,Lars Kaalund,27
+TV Show,Laurent Bouzereau,6
+TV Show,Lee Eung-bok,15
+TV Show,Lee Kyoungmi,21
+TV Show,Lee Toland Krieger,18
+TV Show,Lee Yoon-jung,27
+TV Show,Lin Guan-fu,24
+TV Show,Liu Bang-yao,24
+TV Show,Luis Alberto Restrepo,39
+TV Show,Mario Van Peebles,16
+TV Show,Mark Tonderai,33
+TV Show,Masaaki Yuasa,39
+TV Show,Mat King,14
+TV Show,Michael Cumming,21
+TV Show,Michael Samuels,48
+TV Show,Michael Waxman,16
+TV Show,Michel Tikhomiroff,42
+TV Show,Miguel Conde,45
+TV Show,Mike Smith,11
+TV Show,Milan Cheylov,16
+TV Show,Neslihan Yesilyurt,9
+TV Show,Nizar Shafi,8
+TV Show,Noam Murro,189
+TV Show,Norm Hiscock,11
+TV Show,Oliver Stone,1
+TV Show,Olivier Jean-Marie,16
+TV Show,Onur Ünlü,27
+TV Show,Park Joon-hwa,24
+TV Show,Patricia Font,42
+TV Show,Patrick Graham,12
+TV Show,Peter Ho,21
+TV Show,Phil Sgriccia,27
+TV Show,Philippa Lowthorpe,51
+TV Show,Quentin Tarantino,9
+TV Show,Ralph Hemecker,16
+TV Show,Rob Seidenglanz,103
+TV Show,Robb Wells,11
+TV Show,Serdar Akar,30
+TV Show,Seren Yüce,39
+TV Show,Seung-uk Jo,9
+TV Show,Shen Chi,24
+TV Show,Shin Won-ho,54
+TV Show,Soumendra Padhi,18
+TV Show,Stan Lathan,4
+TV Show,Stefan Brogren,57
+TV Show,Stephen Murray,7
+TV Show,Stuart Orme,30
+TV Show,Takuya Igarashi,30
+TV Show,Tensai Okamura,26
+TV Show,Thomas Astruc,120
+TV Show,Tig Notaro,2
+TV Show,Toby Haynes,30
+TV Show,Tony Collingwood,15
+TV Show,Tsutomu Mizushima,16
+TV Show,Vikramaditya Motwane,30
+TV Show,Weica Wang,24
+TV Show,YC Tom Lee,24
+TV Show,Yasuhiro Irie,42
+TV Show,Yim Pilsung,21

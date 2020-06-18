@@ -174,11 +174,133 @@ plot(rating_df, y=:rating, x=:count, label=:count_str,
 
 ## 2: next, let's do some multivariate analysis
 
+### first, do some frequency table analysis
+
+unnested_netflix_df = netflix_df |>
+    @mutate(added_year=Dates.year(_.date_added)) |>
+    @mapmany(_.country_arr, {title=_.title, type=_.type, rating=_.rating, added_year=_.added_year, country=__, genre_arr=_.genre_arr, director_arr=_.director_arr, actor_arr=_.actor_arr}) |> 
+    @mapmany(_.genre_arr, {title=_.title, type=_.type, rating=_.rating, added_year=_.added_year, country=_.country, genre=__, director_arr=_.director_arr, actor_arr=_.actor_arr}) |>
+    @mapmany(_.director_arr, {title=_.title, type=_.type, rating=_.rating, added_year=_.added_year, country=_.country, genre=_.genre, director=__, actor_arr=_.actor_arr}) |>
+    @mapmany(_.actor_arr, {title=_.title, type=_.type, rating=_.rating, added_year=_.added_year, country=_.country, genre=_.genre, director=_.director, actor=__}) |>
+    DataFrame
+
+### freq tables:
+### I: type x country
+ft1 = unnested_netflix_df |>
+    @groupby({_.type, _.country}) |>
+    @map({type=key(_)[1], country=key(_)[2], n=length(_)}) |>
+    @orderby(_.type) |> @thenby(_.country) |>
+    DataFrame
+
+# long form, more readable, but missing out combinations that did not appear
+ft1 |> CSV.write("freqtable_type_country-long.csv")
+# wide form, allow for an overview including missing cases
+wft1 = unstack(ft1, :country, :n)
+wft1 |> CSV.write("freqtable_type_country-wide.csv")
+
+
+### II: type x genre
+ft2 = unnested_netflix_df |>
+    @groupby({_.type, _.genre}) |>
+    @map({type=key(_)[1], genre=key(_)[2], n=length(_)}) |>
+    @orderby(_.type) |> @thenby(_.genre) |>
+    DataFrame
+
+# long form, more readable, but missing out combinations that did not appear
+ft2 |> CSV.write("freqtable_type_genre-long.csv")
+# wide form, allow for an overview including missing cases
+wft2 = unstack(ft2, :genre, :n)
+wft2 |> CSV.write("freqtable_type_genre-wide.csv")
+
+
+### III: type x director
+ft3 = unnested_netflix_df |>
+    @groupby({_.type, _.director}) |>
+    @map({type=key(_)[1], director=key(_)[2], n=length(_)}) |>
+    @orderby(_.type) |> @thenby(_.director) |>
+    DataFrame
+
+# long form, more readable, but missing out combinations that did not appear
+ft3 |> CSV.write("freqtable_type_director-long.csv")
+# wide form, allow for an overview including missing cases
+wft3 = unstack(ft3, :director, :n)
+wft3 |> CSV.write("freqtable_type_director-wide.csv")
+
+
+### IV: type x actor
+ft4 = unnested_netflix_df |>
+    @groupby({_.type, _.actor}) |>
+    @map({type=key(_)[1], actor=key(_)[2], n=length(_)}) |>
+    @orderby(_.type) |> @thenby(_.actor) |>
+    DataFrame
+
+# long form, more readable, but missing out combinations that did not appear
+ft4 |> CSV.write("freqtable_type_actor-long.csv")
+# wide form, allow for an overview including missing cases
+wft4 = unstack(ft4, :actor, :n)
+wft4 |> CSV.write("freqtable_type_actor-wide.csv")
+
+
+### V: genre x country
+ft5 = unnested_netflix_df |>
+    @groupby({_.genre, _.country}) |>
+    @map({genre=key(_)[1], country=key(_)[2], n=length(_)}) |>
+    @orderby(_.genre) |> @thenby(_.country) |>
+    DataFrame
+
+# long form, more readable, but missing out combinations that did not appear
+ft5 |> CSV.write("freqtable_genre_country-long.csv")
+# wide form, allow for an overview including missing cases
+wft5 = unstack(ft5, :country, :n)
+wft5 |> CSV.write("freqtable_genre_country-wide.csv")
+
+
+### VI: genre x director
+ft6 = unnested_netflix_df |>
+    @groupby({_.genre, _.director}) |>
+    @map({genre=key(_)[1], director=key(_)[2], n=length(_)}) |>
+    @orderby(_.genre) |> @thenby(_.director) |>
+    DataFrame
+
+# long form, more readable, but missing out combinations that did not appear
+ft6 |> CSV.write("freqtable_genre_director-long.csv")
+# wide form, allow for an overview including missing cases
+wft6 = unstack(ft6, :director, :n)
+wft6 |> CSV.write("freqtable_genre_director-wide.csv")
+
+### VII: genre x actor
+ft7 = unnested_netflix_df |>
+    @groupby({_.genre, _.actor}) |>
+    @map({genre=key(_)[1], actor=key(_)[2], n=length(_)}) |>
+    @orderby(_.genre) |> @thenby(_.actor) |>
+    DataFrame
+
+# long form, more readable, but missing out combinations that did not appear
+ft7 |> CSV.write("freqtable_genre_actor-long.csv")
+# wide form, allow for an overview including missing cases
+wft7 = unstack(ft7, :actor, :n)
+wft7 |> CSV.write("freqtable_genre_actor-wide.csv")
+
+### VIII: genre x rating
+ft8 = unnested_netflix_df |>
+    @groupby({_.genre, _.rating}) |>
+    @map({genre=key(_)[1], rating=key(_)[2], n=length(_)}) |>
+    @orderby(_.genre) |> @thenby(_.rating) |>
+    DataFrame
+
+# long form, more readable, but missing out combinations that did not appear
+ft8 |> CSV.write("freqtable_genre_rating-long.csv")
+# wide form, allow for an overview including missing cases
+wft8 = unstack(ft8, :rating, :n)
+wft8 |> CSV.write("freqtable_genre_rating-wide.csv")
+
+
+### secondly, make some multivariate plots
+
 ### general plotting settings
 set_default_plot_size(30cm, 18cm)
 
-
-### 2a: type x release year
+### a: type x release year
 
 type_year_df = netflix_df |> 
     @groupby({_.type, _.release_year}) |>
@@ -200,7 +322,7 @@ plot(type_year_df, y=:count, x=:release_year, color=:type,
 
 
 
-### 2b: type x added year
+### b: type x added year
 
 type_added_year_df = netflix_df |>
     @mutate(added_year=Dates.year(_.date_added)) |>
@@ -223,7 +345,7 @@ plot(type_added_year_df, y=:count, x=:added_year, color=:type,
 
 
 
-### 2c: country x type x added year
+### c: country x type x added year
 
 country_type_added_year_df = netflix_df |>
     @mutate(added_year=Dates.year(_.date_added)) |>
@@ -251,7 +373,7 @@ plot(country_type_added_year_df, x=:added_year, y=:count, xgroup=:type, ygroup=:
 
 
 
-### 2d: country x genre x added year
+### d: country x genre x added year
 
 country_genre_added_year_df = netflix_df |>
     @mutate(added_year=Dates.year(_.date_added)) |>

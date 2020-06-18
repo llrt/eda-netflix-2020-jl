@@ -1,0 +1,43 @@
+type,genre,n
+Movie,Action &amp; Adventure,8251
+Movie,Anime Features,669
+Movie,Children &amp; Family Movies,5514
+Movie,Classic Movies,889
+Movie,Comedies,13495
+Movie,Cult Movies,865
+Movie,Documentaries,1042
+Movie,Dramas,19456
+Movie,Faith &amp; Spirituality,428
+Movie,Horror Movies,3239
+Movie,Independent Movies,7100
+Movie,International Movies,18908
+Movie,LGBTQ Movies,487
+Movie,Movies,252
+Movie,Music &amp; Musicals,1748
+Movie,Romantic Movies,3805
+Movie,Sci-Fi &amp; Fantasy,2903
+Movie,Sports Movies,1008
+Movie,Stand-Up Comedy,374
+Movie,Thrillers,4573
+TV Show,Anime Series,99
+TV Show,British TV Shows,187
+TV Show,Classic &amp; Cult TV,16
+TV Show,Crime TV Shows,304
+TV Show,Docuseries,44
+TV Show,International TV Shows,681
+TV Show,Kids' TV,187
+TV Show,Korean TV Shows,111
+TV Show,Reality TV,4
+TV Show,Romantic TV Shows,142
+TV Show,Science &amp; Nature TV,7
+TV Show,Spanish-Language TV Shows,114
+TV Show,Stand-Up Comedy &amp; Talk Shows,20
+TV Show,TV Action &amp; Adventure,253
+TV Show,TV Comedies,176
+TV Show,TV Dramas,483
+TV Show,TV Horror,45
+TV Show,TV Mysteries,66
+TV Show,TV Sci-Fi &amp; Fantasy,107
+TV Show,TV Shows,47
+TV Show,TV Thrillers,78
+TV Show,Teen TV Shows,29

@@ -387,6 +387,12 @@ git-tree-sha1 = "7d900f32a3788d4eacac2bfa3bf5c770179c8afd"
 uuid = "d7e528f0-a631-5988-bf34-fe36492bcfd7"
 version = "2.10.1+2"
 
+[[FreqTables]]
+deps = ["CategoricalArrays", "NamedArrays", "Tables"]
+git-tree-sha1 = "ef6f073ccc7ef226e12ef892161029d2334756c7"
+uuid = "da1fdf0e-e0ff-5433-a45f-9bb5ff651cb1"
+version = "0.3.2"
+
 [[FriBidi_jll]]
 deps = ["Libdl", "Pkg"]
 git-tree-sha1 = "2f56bee16bd0151de7b6a1eeea2ced190a2ad8d4"
@@ -692,6 +698,12 @@ version = "7.6.1"
 git-tree-sha1 = "928b8ca9b2791081dc71a51c55347c27c618760f"
 uuid = "77ba4419-2d1f-58cd-9bb1-8ffee604a2e3"
 version = "0.3.3"
+
+[[NamedArrays]]
+deps = ["Combinatorics", "DataStructures", "DelimitedFiles", "InvertedIndices", "LinearAlgebra", "Random", "Requires", "SparseArrays", "Statistics"]
+git-tree-sha1 = "7d96d4c09526458d66ff84d7648be7eb7c38a547"
+uuid = "86f7a689-2022-50b4-a561-43c23ac3c673"
+version = "0.9.4"
 
 [[NearestNeighbors]]
 deps = ["Distances", "StaticArrays"]

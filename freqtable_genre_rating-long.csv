@@ -1,0 +1,237 @@
+genre,rating,n
+Action &amp; Adventure,G,7
+Action &amp; Adventure,NR,298
+Action &amp; Adventure,PG,300
+Action &amp; Adventure,PG-13,1970
+Action &amp; Adventure,R,2219
+Action &amp; Adventure,TV-14,1432
+Action &amp; Adventure,TV-MA,1818
+Action &amp; Adventure,TV-PG,181
+Action &amp; Adventure,UR,26
+Anime Features,NR,115
+Anime Features,PG,9
+Anime Features,PG-13,130
+Anime Features,TV-14,238
+Anime Features,TV-MA,73
+Anime Features,TV-PG,85
+Anime Features,TV-Y7,19
+Anime Series,TV-14,63
+Anime Series,TV-MA,13
+Anime Series,TV-PG,8
+Anime Series,TV-Y7,15
+British TV Shows,TV-14,36
+British TV Shows,TV-G,1
+British TV Shows,TV-MA,50
+British TV Shows,TV-PG,100
+Children &amp; Family Movies,G,557
+Children &amp; Family Movies,PG,2495
+Children &amp; Family Movies,PG-13,146
+Children &amp; Family Movies,TV-14,120
+Children &amp; Family Movies,TV-G,572
+Children &amp; Family Movies,TV-PG,726
+Children &amp; Family Movies,TV-Y,289
+Children &amp; Family Movies,TV-Y7,489
+Children &amp; Family Movies,TV-Y7-FV,120
+Classic &amp; Cult TV,TV-14,9
+Classic &amp; Cult TV,TV-MA,7
+Classic Movies,G,128
+Classic Movies,NR,43
+Classic Movies,PG,142
+Classic Movies,PG-13,129
+Classic Movies,R,243
+Classic Movies,TV-14,80
+Classic Movies,TV-G,11
+Classic Movies,TV-MA,26
+Classic Movies,TV-PG,87
+Comedies,G,258
+Comedies,NR,466
+Comedies,PG,1717
+Comedies,PG-13,1496
+Comedies,R,2203
+Comedies,TV-14,2834
+Comedies,TV-G,187
+Comedies,TV-MA,2685
+Comedies,TV-PG,1345
+Comedies,TV-Y,52
+Comedies,TV-Y7,171
+Comedies,TV-Y7-FV,41
+Comedies,UR,40
+Crime TV Shows,TV-14,152
+Crime TV Shows,TV-MA,152
+Cult Movies,NR,55
+Cult Movies,PG,9
+Cult Movies,PG-13,162
+Cult Movies,R,548
+Cult Movies,TV-14,25
+Cult Movies,TV-MA,31
+Cult Movies,TV-PG,35
+Documentaries,G,50
+Documentaries,NR,37
+Documentaries,PG,29
+Documentaries,PG-13,54
+Documentaries,R,47
+Documentaries,TV-14,227
+Documentaries,TV-G,18
+Documentaries,TV-MA,345
+Documentaries,TV-PG,199
+Documentaries,TV-Y7,36
+Docuseries,TV-14,22
+Docuseries,TV-G,1
+Docuseries,TV-MA,6
+Docuseries,TV-PG,15
+Dramas,G,17
+Dramas,NC-17,39
+Dramas,NR,1199
+Dramas,PG,902
+Dramas,PG-13,1881
+Dramas,R,4059
+Dramas,TV-14,4166
+Dramas,TV-G,53
+Dramas,TV-MA,5558
+Dramas,TV-PG,1479
+Dramas,TV-Y7,40
+Dramas,UR,63
+Faith &amp; Spirituality,PG,90
+Faith &amp; Spirituality,PG-13,76
+Faith &amp; Spirituality,TV-14,160
+Faith &amp; Spirituality,TV-G,2
+Faith &amp; Spirituality,TV-PG,100
+Horror Movies,NR,202
+Horror Movies,PG,9
+Horror Movies,PG-13,320
+Horror Movies,R,999
+Horror Movies,TV-14,294
+Horror Movies,TV-MA,1405
+Horror Movies,TV-PG,10
+Independent Movies,G,14
+Independent Movies,NC-17,39
+Independent Movies,NR,557
+Independent Movies,PG,75
+Independent Movies,PG-13,294
+Independent Movies,R,2232
+Independent Movies,TV-14,1118
+Independent Movies,TV-G,19
+Independent Movies,TV-MA,2543
+Independent Movies,TV-PG,190
+Independent Movies,TV-Y7,10
+Independent Movies,UR,9
+International Movies,G,40
+International Movies,NC-17,39
+International Movies,NR,1256
+International Movies,PG,141
+International Movies,PG-13,905
+International Movies,R,1672
+International Movies,TV-14,5886
+International Movies,TV-G,46
+International Movies,TV-MA,7095
+International Movies,TV-PG,1754
+International Movies,TV-Y7,20
+International Movies,UR,54
+International TV Shows,TV-14,240
+International TV Shows,TV-G,1
+International TV Shows,TV-MA,333
+International TV Shows,TV-PG,107
+Kids' TV,TV-PG,18
+Kids' TV,TV-Y,44
+Kids' TV,TV-Y7,125
+Korean TV Shows,TV-14,52
+Korean TV Shows,TV-MA,53
+Korean TV Shows,TV-PG,6
+LGBTQ Movies,NR,31
+LGBTQ Movies,PG-13,49
+LGBTQ Movies,R,135
+LGBTQ Movies,TV-14,55
+LGBTQ Movies,TV-MA,191
+LGBTQ Movies,TV-PG,14
+LGBTQ Movies,TV-Y7,12
+Movies,NR,42
+Movies,TV-14,5
+Movies,TV-G,3
+Movies,TV-MA,39
+Movies,TV-PG,59
+Movies,TV-Y,47
+Movies,TV-Y7,57
+Music &amp; Musicals,G,90
+Music &amp; Musicals,NR,44
+Music &amp; Musicals,PG,143
+Music &amp; Musicals,PG-13,84
+Music &amp; Musicals,R,65
+Music &amp; Musicals,TV-14,635
+Music &amp; Musicals,TV-G,42
+Music &amp; Musicals,TV-MA,362
+Music &amp; Musicals,TV-PG,266
+Music &amp; Musicals,TV-Y,10
+Music &amp; Musicals,TV-Y7,7
+Reality TV,TV-PG,4
+Romantic Movies,NR,86
+Romantic Movies,PG,109
+Romantic Movies,PG-13,735
+Romantic Movies,R,413
+Romantic Movies,TV-14,1105
+Romantic Movies,TV-G,28
+Romantic Movies,TV-MA,689
+Romantic Movies,TV-PG,588
+Romantic Movies,UR,52
+Romantic TV Shows,TV-14,77
+Romantic TV Shows,TV-MA,50
+Romantic TV Shows,TV-PG,15
+Sci-Fi &amp; Fantasy,G,19
+Sci-Fi &amp; Fantasy,NR,64
+Sci-Fi &amp; Fantasy,PG,190
+Sci-Fi &amp; Fantasy,PG-13,1143
+Sci-Fi &amp; Fantasy,R,587
+Sci-Fi &amp; Fantasy,TV-14,254
+Sci-Fi &amp; Fantasy,TV-MA,550
+Sci-Fi &amp; Fantasy,TV-PG,96
+Science &amp; Nature TV,TV-PG,7
+Spanish-Language TV Shows,TV-14,62
+Spanish-Language TV Shows,TV-MA,52
+Sports Movies,NR,48
+Sports Movies,PG,170
+Sports Movies,PG-13,142
+Sports Movies,R,121
+Sports Movies,TV-14,176
+Sports Movies,TV-G,22
+Sports Movies,TV-MA,210
+Sports Movies,TV-PG,99
+Sports Movies,TV-Y7,20
+Stand-Up Comedy,NR,41
+Stand-Up Comedy,PG,1
+Stand-Up Comedy,R,15
+Stand-Up Comedy,TV-14,26
+Stand-Up Comedy,TV-G,1
+Stand-Up Comedy,TV-MA,285
+Stand-Up Comedy,TV-PG,5
+Stand-Up Comedy &amp; Talk Shows,TV-14,11
+Stand-Up Comedy &amp; Talk Shows,TV-MA,3
+Stand-Up Comedy &amp; Talk Shows,TV-PG,6
+TV Action &amp; Adventure,TV-14,92
+TV Action &amp; Adventure,TV-MA,30
+TV Action &amp; Adventure,TV-PG,71
+TV Action &amp; Adventure,TV-Y7,60
+TV Comedies,TV-14,29
+TV Comedies,TV-MA,98
+TV Comedies,TV-PG,16
+TV Comedies,TV-Y,15
+TV Comedies,TV-Y7,18
+TV Dramas,TV-14,151
+TV Dramas,TV-MA,256
+TV Dramas,TV-PG,76
+TV Horror,TV-14,9
+TV Horror,TV-MA,36
+TV Mysteries,TV-14,33
+TV Mysteries,TV-MA,33
+TV Sci-Fi &amp; Fantasy,TV-14,51
+TV Sci-Fi &amp; Fantasy,TV-PG,56
+TV Shows,R,9
+TV Shows,TV-14,30
+TV Shows,TV-MA,8
+TV Thrillers,TV-14,3
+TV Thrillers,TV-MA,75
+Teen TV Shows,TV-14,29
+Thrillers,NR,137
+Thrillers,PG-13,462
+Thrillers,R,1508
+Thrillers,TV-14,599
+Thrillers,TV-MA,1832
+Thrillers,TV-PG,35

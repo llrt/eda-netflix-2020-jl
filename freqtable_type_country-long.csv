@@ -1,0 +1,121 @@
+type,country,n
+Movie,Afghanistan,2
+Movie,Albania,8
+Movie,Argentina,962
+Movie,Australia,1217
+Movie,Austria,131
+Movie,Bangladesh,372
+Movie,Belgium,1311
+Movie,Bermuda,12
+Movie,Brazil,821
+Movie,Bulgaria,143
+Movie,Cambodia,46
+Movie,Canada,3644
+Movie,Cayman Islands,20
+Movie,Chile,368
+Movie,China,1768
+Movie,Colombia,145
+Movie,Croatia,43
+Movie,Czech Republic,206
+Movie,Denmark,545
+Movie,Dominican Republic,20
+Movie,East Germany,30
+Movie,Ecuador,12
+Movie,Egypt,838
+Movie,Finland,52
+Movie,France,4366
+Movie,Georgia,54
+Movie,Germany,2345
+Movie,Ghana,51
+Movie,Greece,87
+Movie,Guatemala,12
+Movie,Hong Kong,2015
+Movie,Hungary,95
+Movie,Iceland,91
+Movie,India,17422
+Movie,Indonesia,1089
+Movie,Iran,98
+Movie,Iraq,4
+Movie,Ireland,337
+Movie,Israel,257
+Movie,Italy,674
+Movie,Japan,2263
+Movie,Jordan,86
+Movie,Kenya,10
+Movie,Latvia,22
+Movie,Lebanon,164
+Movie,Liechtenstein,27
+Movie,Luxembourg,156
+Movie,Malawi,24
+Movie,Malaysia,302
+Movie,Malta,20
+Movie,Mexico,1368
+Movie,Montenegro,20
+Movie,Morocco,87
+Movie,Nepal,48
+Movie,Netherlands,397
+Movie,New Zealand,249
+Movie,Nicaragua,1
+Movie,Nigeria,809
+Movie,Norway,268
+Movie,Pakistan,449
+Movie,Panama,2
+Movie,Paraguay,52
+Movie,Peru,137
+Movie,Philippines,1037
+Movie,Poland,395
+Movie,"Poland,",27
+Movie,Portugal,126
+Movie,Qatar,245
+Movie,Romania,128
+Movie,Russia,90
+Movie,Saudi Arabia,15
+Movie,Senegal,27
+Movie,Serbia,91
+Movie,Singapore,346
+Movie,Slovakia,20
+Movie,Slovenia,50
+Movie,Somalia,10
+Movie,South Africa,446
+Movie,South Korea,943
+Movie,Soviet Union,132
+Movie,Spain,2597
+Movie,Sri Lanka,2
+Movie,Sudan,10
+Movie,Sweden,471
+Movie,Switzerland,303
+Movie,Taiwan,146
+Movie,Thailand,830
+Movie,Turkey,1356
+Movie,United Arab Emirates,415
+Movie,United Kingdom,5685
+Movie,United States,30162
+Movie,Uruguay,99
+Movie,Vatican City,3
+Movie,Venezuela,2
+Movie,Vietnam,63
+Movie,West Germany,60
+TV Show,Australia,14
+TV Show,Brazil,42
+TV Show,Canada,130
+TV Show,China,18
+TV Show,Colombia,147
+TV Show,Denmark,41
+TV Show,France,66
+TV Show,Germany,3
+TV Show,Greece,3
+TV Show,India,72
+TV Show,Ireland,78
+TV Show,Israel,2
+TV Show,Italy,44
+TV Show,Japan,283
+TV Show,Mexico,90
+TV Show,Pakistan,18
+TV Show,South Africa,2
+TV Show,South Korea,343
+TV Show,Spain,186
+TV Show,Taiwan,219
+TV Show,Turkey,150
+TV Show,United Arab Emirates,33
+TV Show,United Kingdom,396
+TV Show,United States,820
